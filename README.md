@@ -64,7 +64,7 @@
 58. [x] John (የዮሐንስ ወንጌል)
 59. [x] Acts (የሐዋርያት ሥራ)
 60. [x] Romans (ወደ ሮሜ ሰዎች)
-61. [ ] 1 Corinthians (ወደ ቆሮንቶስ ሰዎች ፩)
+61. [x] 1 Corinthians (ወደ ቆሮንቶስ ሰዎች ፩)
 62. [ ] 2 Corinthians (ወደ ቆሮንቶስ ሰዎች ፪)
 63. [ ] Galatians (ወደ ገላትያ ሰዎች)
 64. [ ] Ephesians (ወደ ኤፌሶን ሰዎች)
