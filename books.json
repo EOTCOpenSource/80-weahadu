@@ -540,23 +540,23 @@
   },
   {
     "number": 78,
-    "en_name": "2_John",
-    "am_name": "2ኛ የዮሐንስ መልእክት",
-    "filename": "78-2_john.json",
+    "en_name": "3 John",
+    "am_name": "3ኛ የዮሐንስ መልእክት",
+    "filename": "78-3-john.json",
     "testament": "new"
   },
   {
     "number": 79,
-    "en_name": "3_John",
-    "am_name": "3ኛ የዮሐንስ መልእክት",
-    "filename": "79-3_john.json",
+    "en_name": "Jude",
+    "am_name": "የይሁዳ መልእክት",
+    "filename": "79-jude.json",
     "testament": "new"
   },
   {
     "number": 80,
-    "en_name": "Jude",
-    "am_name": "የይሁዳ መልእክት",
-    "filename": "80-jude.json",
+    "en_name": "James",
+    "am_name": "የያዕቆብ መልእክት",
+    "filename": "80-james.json",
     "testament": "new"
   },
   {
