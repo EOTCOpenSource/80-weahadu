@@ -68,7 +68,7 @@
 62. [x] 2 Corinthians (ወደ ቆሮንቶስ ሰዎች ፪)
 63. [x] Galatians (ወደ ገላትያ ሰዎች)
 64. [x] Ephesians (ወደ ኤፌሶን ሰዎች)
-65. [ ] Philippians (ወደ ፊልጵስዩስ ሰዎች)
+65. [x] Philippians (ወደ ፊልጵስዩስ ሰዎች)
 66. [ ] Colossians (ወደ ቆላስይስ ሰዎች)
 67. [ ] 1 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፩)
 68. [ ] 2 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፪)
