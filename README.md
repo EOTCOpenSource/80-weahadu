@@ -72,7 +72,7 @@
 66. [x] Colossians (ወደ ቆላስይስ ሰዎች)
 67. [x] 1 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፩)
 68. [x] 2 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፪)
-69. [ ] 1 Timothy (ወደ ጢሞቴዎስ ፩)
+69. [x] 1 Timothy (ወደ ጢሞቴዎስ ፩)
 70. [ ] 2 Timothy (ወደ ጢሞቴዎስ ፪)
 71. [ ] Titus (ወደ ቲቶ)
 72. [ ] Philemon (ወደ ፊልሞና)
