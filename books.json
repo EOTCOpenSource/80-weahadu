@@ -547,16 +547,16 @@
   },
   {
     "number": 79,
-    "en_name": "Jude",
-    "am_name": "የይሁዳ መልእክት",
-    "filename": "79-jude.json",
+    "en_name": "James",
+    "am_name": "የያዕቆብ መልእክት",
+    "filename": "79-james.json",
     "testament": "new"
   },
   {
     "number": 80,
-    "en_name": "James",
-    "am_name": "የያዕቆብ መልእክት",
-    "filename": "80-james.json",
+    "en_name": "Jude",
+    "am_name": "የይሁዳ መልእክት",
+    "filename": "80-jude.json",
     "testament": "new"
   },
   {
