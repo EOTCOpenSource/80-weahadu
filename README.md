@@ -66,7 +66,7 @@
 60. [x] Romans (ወደ ሮሜ ሰዎች)
 61. [x] 1 Corinthians (ወደ ቆሮንቶስ ሰዎች ፩)
 62. [x] 2 Corinthians (ወደ ቆሮንቶስ ሰዎች ፪)
-63. [ ] Galatians (ወደ ገላትያ ሰዎች)
+63. [x] Galatians (ወደ ገላትያ ሰዎች)
 64. [ ] Ephesians (ወደ ኤፌሶን ሰዎች)
 65. [ ] Philippians (ወደ ፊልጵስዩስ ሰዎች)
 66. [ ] Colossians (ወደ ቆላስይስ ሰዎች)
