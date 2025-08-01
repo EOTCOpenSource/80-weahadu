@@ -70,7 +70,7 @@
 64. [x] Ephesians (ወደ ኤፌሶን ሰዎች)
 65. [x] Philippians (ወደ ፊልጵስዩስ ሰዎች)
 66. [x] Colossians (ወደ ቆላስይስ ሰዎች)
-67. [ ] 1 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፩)
+67. [x] 1 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፩)
 68. [ ] 2 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፪)
 69. [ ] 1 Timothy (ወደ ጢሞቴዎስ ፩)
 70. [ ] 2 Timothy (ወደ ጢሞቴዎስ ፪)
