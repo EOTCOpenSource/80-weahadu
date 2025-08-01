@@ -195,6 +195,7 @@
     <!-- JavaScript Logic -->
     <script>
         // --- APPLICATION STATE ---
+        let ALL_BOOKS_DATA = [];
         let BOOKS = [];
         let currentTestament = 'old';
         let currentBookData = null;
@@ -255,35 +256,36 @@
 
         async function handleBookSelection(book, chapterToLoad = 1) {
             if (!book) return;
-            // Removed the check `currentBookNumber === book.number` to allow reloading the same book
 
             currentBookNumber = book.number;
-            currentBookData = null;
+            // Find the book data from the loaded big JSON
+            currentBookData = ALL_BOOKS_DATA.find(b => b.book_number === currentBookNumber);
 
-            chaptersListEl.innerHTML = '<li class="p-3 text-stone-500">በመጫን ላይ...</li>';
-            updateActiveBook();
-
-            try {
-                const response = await fetch(`./data/am/${book.filename}`);
-                if (!response.ok) throw new Error(`መጽሐፉን መጫን አልተቻለም፡ ${response.statusText}`);
-                currentBookData = await response.json();
-
-                loadChapterList(currentBookData.chapters);
-
-                let chapterNumToLoad = chapterToLoad;
-                if (chapterToLoad === 'last' && currentBookData.chapters.length > 0) {
-                    chapterNumToLoad = currentBookData.chapters[currentBookData.chapters.length - 1].chapter;
-                }
-
-                if (currentBookData.chapters.length > 0) {
-                    handleChapterSelection(chapterNumToLoad);
-                }
-
-            } catch (error) {
-                console.error("Error fetching book data:", error);
-                chaptersListEl.innerHTML = `<li class="p-3 text-red-500">ስህተት ተከስቷል</li>`;
-                textContainerEl.innerHTML = `<p class="text-red-500 text-center">${error.message}</p>`;
+            if (!currentBookData) {
+                console.error(`Book data not found for book number: ${currentBookNumber}`);
+                chaptersListEl.innerHTML = `<li class="p-3 text-red-500">የመጽሐፉን መረጃ ማግኘት አልተቻለም</li>`;
+                textContainerEl.innerHTML = `<p class="text-red-500 text-center">የመጽሐፉን መረጃ ማግኘት አልተቻለም።</p>`;
+                return;
             }
+
+            updateActiveBook();
+            loadChapterList(currentBookData.chapters);
+
+            let chapterNumToLoad = chapterToLoad;
+            if (chapterToLoad === 'last' && currentBookData.chapters.length > 0) {
+                chapterNumToLoad = currentBookData.chapters[currentBookData.chapters.length - 1].chapter;
+            }
+
+            if (currentBookData.chapters.length > 0) {
+                handleChapterSelection(chapterNumToLoad);
+            } else {
+                // Handle books with no chapters if necessary
+                chapterTitleEl.textContent = currentBookData.book_name_am;
+                textContainerEl.innerHTML = '<p class="text-stone-500 text-center">በዚህ መጽሐፍ ውስጥ ምንም ምዕራፎች የሉም።</p>';
+                chaptersListEl.innerHTML = '<li class="p-3 text-stone-400 text-center">ምዕራፎች የሉም</li>';
+                updateNavButtons();
+            }
+
             if (window.innerWidth < 768) {
                 navPanel.classList.add('-translate-x-full');
             }
@@ -453,9 +455,19 @@
         // --- INITIALIZATION ---
         async function initializeApp() {
             try {
-                const response = await fetch('./books.json');
-                if (!response.ok) throw new Error(`'books.json' not found or could not be loaded.`);
-                BOOKS = await response.json();
+                // Fetch the minified all-in-one JSON
+                const allBooksResponse = await fetch('./minified/80-weahadu.json');
+                if (!allBooksResponse.ok) throw new Error(`'minified/80-weahadu.json' not found or could not be loaded.`);
+                ALL_BOOKS_DATA = await allBooksResponse.json();
+
+                // Derive BOOKS metadata from ALL_BOOKS_DATA
+                BOOKS = ALL_BOOKS_DATA.map(book => ({
+                    number: book.book_number,
+                    am_name: book.book_name_am,
+                    testament: book.testament
+                }));
+
+
 
                 const savedState = loadSavedState();
 
