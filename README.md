@@ -74,7 +74,7 @@
 68. [x] 2 Thessalonians (ወደ ተሰሎንቄ ሰዎች ፪)
 69. [x] 1 Timothy (ወደ ጢሞቴዎስ ፩)
 70. [x] 2 Timothy (ወደ ጢሞቴዎስ ፪)
-71. [ ] Titus (ወደ ቲቶ)
+71. [x] Titus (ወደ ቲቶ)
 72. [ ] Philemon (ወደ ፊልሞና)
 73. [ ] Hebrews (ወደ ዕብራውያን)
 74. [ ] 1 Peter (የጴጥሮስ መልእክት ፩)
