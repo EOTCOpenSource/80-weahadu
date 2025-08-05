@@ -1,1 +1,12 @@
 TODO: fix ezrasutuel
+
+TODO: there is a little difference between varios volumes of the 81 bible. 
+our json is more accurate with 2000's volume.
+But we should add additional books, if we can get their text.
+
+For example:
+-ጸሎተ ምናሴ 
+-መጽሐፈ ሶስና
+-ተረፈ ዳንኤል
+-መዝሙረ ሠለስቱ ደቂቅ
+
