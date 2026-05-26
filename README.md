@@ -86,6 +86,16 @@
 80. [x] Jude (የይሁዳ መልእክት)
 81. [x] Revelation (የዮሐንስ ራእይ)
 
+### Book of canons
+82. [ ] 1 Book of covenant አንደኛ ኪዳን
+83. [ ] 2 Book of covenant ሁለተኛ ኪዳን
+84. [x] Didascalia ዲድስቅልያ
+85. [ ] Order of Zion ሥርዓተ ጽዮን
+86. [ ] Statutes of Apostels አብጥሊስ
+87. [ ] Admonitions ግጽው ሲኖዶስ
+88. [ ] Commandments ትእዛዝ ሲኖዶስ
+89. [x] 1 celement አንደኛ ቀሌሜንጦስ
+90. [ ] 2 celement ሁለተኛ ቀሌሜንጦስ
 ---
 
 ## Single Chapter Output
@@ -119,7 +129,10 @@ Each book JSON file has this basic structure:
 	"chapters": [
 		{
 			"chapter": 1,
-			"sections": []
+			"sections": [
+				"title": "",
+				"verses": []
+			]
 		}
 	]
 }
