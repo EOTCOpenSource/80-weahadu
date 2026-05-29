@@ -1,0 +1,1074 @@
+{
+ "add": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "b": {
+  "attrs": [
+   "BLANK_LINE"
+  ],
+  "category": "NONE"
+ },
+ "bd": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "bdit": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "bk": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "c": {
+  "attrs": [
+   "CHAPTER_NUMBER"
+  ],
+  "category": "NONE"
+ },
+ "cl": {
+  "attrs": [
+   "CHAPTER_LABEL"
+  ],
+  "category": "NONE"
+ },
+ "cls": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "cp": {
+  "attrs": [
+   "CHAPTER_CHARACTER"
+  ],
+  "category": "NONE"
+ },
+ "d": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "dc": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "ef": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "em": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "esb": {
+  "attrs": [
+   "SIDEBAR"
+  ],
+  "category": "NONE"
+ },
+ "esbe": {
+  "attrs": [
+   "SIDEBAR"
+  ],
+  "category": "NONE"
+ },
+ "ex": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "f": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fdc": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fe": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fig": {
+  "attrs": [
+   "ILLUSTRATION",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fk": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fl": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fm": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fp": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fq": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fqa": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fr": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "ft": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fv": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "fw": {
+  "attrs": [
+   "FOOTNOTE",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "h": {
+  "attrs": [
+   "BOOK_HEADER"
+  ],
+  "category": "NONE"
+ },
+ "h#": {
+  "attrs": [
+   "BOOK_HEADER"
+  ],
+  "category": "NONE"
+ },
+ "ib": {
+  "attrs": [
+   "BLANK_LINE",
+   "INTRODUCTION"
+  ],
+  "category": "NONE"
+ },
+ "id": {
+  "attrs": [
+   "ID"
+  ],
+  "category": "NONE"
+ },
+ "ide": {
+  "attrs": [
+   "COMMENT"
+  ],
+  "category": "NONE"
+ },
+ "iex": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ili": {
+  "attrs": [
+   "LIST",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ili#": {
+  "attrs": [
+   "LIST",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "im": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "img": {
+  "attrs": [
+   "STORY"
+  ],
+  "category": "NONE"
+ },
+ "imgme": {
+  "attrs": [
+   "STORY"
+  ],
+  "category": "NONE"
+ },
+ "imgms": {
+  "attrs": [
+   "STORY"
+  ],
+  "category": "NONE"
+ },
+ "imi": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "imq": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "imt": {
+  "attrs": [
+   "SECTION_HEADING",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "imt#": {
+  "attrs": [
+   "SECTION_HEADING",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "imte": {
+  "attrs": [
+   "SECTION_HEADING",
+   "INTRODUCTION",
+   "ENDING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "imte#": {
+  "attrs": [
+   "SECTION_HEADING",
+   "INTRODUCTION",
+   "ENDING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "io": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "io#": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ior": {
+  "attrs": [
+   "INTRODUCTION",
+   "REFERENCE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "iot": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ip": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ipi": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ipq": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ipr": {
+  "attrs": [
+   "PARAGRAPH",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "iq": {
+  "attrs": [
+   "POETRY",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "iq#": {
+  "attrs": [
+   "POETRY",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "iqc": {
+  "attrs": [
+   "POETRY",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "iqr": {
+  "attrs": [
+   "POETRY",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "is": {
+  "attrs": [
+   "SECTION_HEADING",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "is#": {
+  "attrs": [
+   "SECTION_HEADING",
+   "INTRODUCTION"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "it": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "jmp": {
+  "attrs": [
+   "LINK",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "k": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "lf": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "lh": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "li": {
+  "attrs": [
+   "LIST"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "li#": {
+  "attrs": [
+   "LIST"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "lit": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "m": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "mi": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "mr": {
+  "attrs": [
+   "SECTION_HEADING",
+   "REFERENCE"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ms": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "ms#": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "mt": {
+  "attrs": [
+   "MAJOR_TITLE"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "mt#": {
+  "attrs": [
+   "MAJOR_TITLE"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "mte": {
+  "attrs": [
+   "MAJOR_TITLE",
+   "ENDING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "mte#": {
+  "attrs": [
+   "MAJOR_TITLE",
+   "ENDING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "nd": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "no": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "ord": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "p": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "page": {
+  "attrs": [
+   "STORY"
+  ],
+  "category": "NONE"
+ },
+ "pc": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "periph": {
+  "attrs": [
+   "COMMENT"
+  ],
+  "category": "NONE"
+ },
+ "pi": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pi1": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pi2": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pm": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pmc": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pmo": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pmr": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pn": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "png": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "po": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "pr": {
+  "attrs": [
+   "PARAGRAPH"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "q": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "q#": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qa": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qac": {
+  "attrs": [
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "qc": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qd": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qm": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qm#": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qr": {
+  "attrs": [
+   "POETRY"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "qs": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "qt": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "quiz": {
+  "attrs": [
+   "QUIZ"
+  ],
+  "category": "NONE"
+ },
+ "r": {
+  "attrs": [
+   "SECTION_HEADING",
+   "REFERENCE"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "rb": {
+  "attrs": [
+   "RUBY",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "rem": {
+  "attrs": [
+   "COMMENT"
+  ],
+  "category": "NONE"
+ },
+ "restore": {
+  "attrs": [
+   "COMMENT"
+  ],
+  "category": "NONE"
+ },
+ "rq": {
+  "attrs": [
+   "INLINE",
+   "REFERENCE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "s": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "s#": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "sc": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "sd": {
+  "attrs": [
+   "BLANK_LINE"
+  ],
+  "category": "NONE"
+ },
+ "sd#": {
+  "attrs": [
+   "BLANK_LINE"
+  ],
+  "category": "NONE"
+ },
+ "sig": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "sls": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "sp": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "sr": {
+  "attrs": [
+   "SECTION_HEADING"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "st": {
+  "attrs": [
+   "MAJOR_TITLE"
+  ],
+  "category": "PARAGRAPH_STYLE"
+ },
+ "sts": {
+  "attrs": [
+   "COMMENT"
+  ],
+  "category": "NONE"
+ },
+ "sup": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "tc#": {
+  "attrs": [
+   "TABLE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "tc#-#": {
+  "attrs": [
+   "TABLE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "tcr#": {
+  "attrs": [
+   "TABLE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "tcr#-#": {
+  "attrs": [
+   "TABLE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "th#": {
+  "attrs": [
+   "TABLE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "thr#": {
+  "attrs": [
+   "TABLE",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "tl": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "toc1": {
+  "attrs": [
+   "BOOK_HEADER"
+  ],
+  "category": "NONE"
+ },
+ "toc2": {
+  "attrs": [
+   "BOOK_HEADER"
+  ],
+  "category": "NONE"
+ },
+ "toc3": {
+  "attrs": [
+   "BOOK_HEADER"
+  ],
+  "category": "NONE"
+ },
+ "tr": {
+  "attrs": [
+   "TABLE"
+  ],
+  "category": "NONE"
+ },
+ "ul": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "usfm": {
+  "attrs": [
+   "COMMENT"
+  ],
+  "category": "NONE"
+ },
+ "v": {
+  "attrs": [
+   "VERSE_NUMBER"
+  ],
+  "category": "NONE"
+ },
+ "va": {
+  "attrs": [
+   "CHARACTER_STYLING",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "video": {
+  "attrs": [
+   "VIDEO"
+  ],
+  "category": "NONE"
+ },
+ "vp": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "w": {
+  "attrs": [
+   "GLOSSARY",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "wa": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "wg": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "wh": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "wj": {
+  "attrs": [
+   "SPECIAL_TEXT",
+   "INLINE"
+  ],
+  "category": "CHARACTER_STYLE"
+ },
+ "x": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xdc": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xk": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xnt": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xo": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xot": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xq": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xt": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "xta": {
+  "attrs": [
+   "CROSS_REF",
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "zbr": {
+  "attrs": [
+   "INLINE"
+  ],
+  "category": "NONE"
+ },
+ "zhr": {
+  "attrs": [
+   "HORIZONTAL_LINE"
+  ],
+  "category": "NONE"
+ },
+ "zoli#": {
+  "attrs": [
+   "LIST_ITEM"
+  ],
+  "category": "NONE"
+ },
+ "zon#": {
+  "attrs": [
+   "LIST_ITEM_SETTINGS"
+  ],
+  "category": "NONE"
+ },
+ "zs": {
+  "attrs": [
+   "INVISIBLE"
+  ],
+  "category": "NONE"
+ },
+ "zuli#": {
+  "attrs": [
+   "LIST_ITEM"
+  ],
+  "category": "NONE"
+ }
+}
