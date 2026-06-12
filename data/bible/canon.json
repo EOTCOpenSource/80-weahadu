@@ -1,0 +1,893 @@
+[
+ {
+  "id": "GEN",
+  "order": 1,
+  "slug": "genesis",
+  "file": "01-genesis.json",
+  "name_en": "Genesis",
+  "testament": "old",
+  "section": "Pentateuch"
+ },
+ {
+  "id": "EXO",
+  "order": 2,
+  "slug": "exodus",
+  "file": "02-exodus.json",
+  "name_en": "Exodus",
+  "testament": "old",
+  "section": "Pentateuch"
+ },
+ {
+  "id": "LEV",
+  "order": 3,
+  "slug": "leviticus",
+  "file": "03-leviticus.json",
+  "name_en": "Leviticus",
+  "testament": "old",
+  "section": "Pentateuch"
+ },
+ {
+  "id": "NUM",
+  "order": 4,
+  "slug": "numbers",
+  "file": "04-numbers.json",
+  "name_en": "Numbers",
+  "testament": "old",
+  "section": "Pentateuch"
+ },
+ {
+  "id": "DEU",
+  "order": 5,
+  "slug": "deuteronomy",
+  "file": "05-deuteronomy.json",
+  "name_en": "Deuteronomy",
+  "testament": "old",
+  "section": "Pentateuch"
+ },
+ {
+  "id": "JOS",
+  "order": 6,
+  "slug": "joshua",
+  "file": "06-joshua.json",
+  "name_en": "Joshua",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "JDG",
+  "order": 7,
+  "slug": "judges",
+  "file": "07-judges.json",
+  "name_en": "Judges",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "RUT",
+  "order": 8,
+  "slug": "ruth",
+  "file": "08-ruth.json",
+  "name_en": "Ruth",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "1SA",
+  "order": 9,
+  "slug": "1-samuel",
+  "file": "09-1-samuel.json",
+  "name_en": "1 Samuel",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "2SA",
+  "order": 10,
+  "slug": "2-samuel",
+  "file": "10-2-samuel.json",
+  "name_en": "2 Samuel",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "1KI",
+  "order": 11,
+  "slug": "1-kings",
+  "file": "11-1-kings.json",
+  "name_en": "1 Kings",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "2KI",
+  "order": 12,
+  "slug": "2-kings",
+  "file": "12-2-kings.json",
+  "name_en": "2 Kings",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "1CH",
+  "order": 13,
+  "slug": "1-chronicles",
+  "file": "13-1-chronicles.json",
+  "name_en": "1 Chronicles",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "2CH",
+  "order": 14,
+  "slug": "2-chronicles",
+  "file": "14-2-chronicles.json",
+  "name_en": "2 Chronicles",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "EZR",
+  "order": 15,
+  "slug": "ezra",
+  "file": "15-ezra.json",
+  "name_en": "Ezra",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "NEH",
+  "order": 16,
+  "slug": "nehemiah",
+  "file": "16-nehemiah.json",
+  "name_en": "Nehemiah",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "EST",
+  "order": 17,
+  "slug": "esther",
+  "file": "17-esther.json",
+  "name_en": "Esther",
+  "testament": "old",
+  "section": "Historical"
+ },
+ {
+  "id": "JOB",
+  "order": 18,
+  "slug": "job",
+  "file": "18-job.json",
+  "name_en": "Job",
+  "testament": "old",
+  "section": "PoetryWisdom"
+ },
+ {
+  "id": "PSA",
+  "order": 19,
+  "slug": "psalms",
+  "file": "19-psalms.json",
+  "name_en": "Psalms",
+  "testament": "old",
+  "section": "PoetryWisdom"
+ },
+ {
+  "id": "PRO",
+  "order": 20,
+  "slug": "proverbs",
+  "file": "20-proverbs.json",
+  "name_en": "Proverbs",
+  "testament": "old",
+  "section": "PoetryWisdom"
+ },
+ {
+  "id": "ECC",
+  "order": 21,
+  "slug": "ecclesiastes",
+  "file": "21-ecclesiastes.json",
+  "name_en": "Ecclesiastes",
+  "testament": "old",
+  "section": "PoetryWisdom"
+ },
+ {
+  "id": "SNG",
+  "order": 22,
+  "slug": "song-of-solomon",
+  "file": "22-song-of-solomon.json",
+  "name_en": "Song of Solomon",
+  "testament": "old",
+  "section": "PoetryWisdom"
+ },
+ {
+  "id": "ISA",
+  "order": 23,
+  "slug": "isaiah",
+  "file": "23-isaiah.json",
+  "name_en": "Isaiah",
+  "testament": "old",
+  "section": "MajorProphet"
+ },
+ {
+  "id": "JER",
+  "order": 24,
+  "slug": "jeremiah",
+  "file": "24-jeremiah.json",
+  "name_en": "Jeremiah",
+  "testament": "old",
+  "section": "MajorProphet"
+ },
+ {
+  "id": "LAM",
+  "order": 25,
+  "slug": "lamentations",
+  "file": "25-lamentations.json",
+  "name_en": "Lamentations",
+  "testament": "old",
+  "section": "MajorProphet"
+ },
+ {
+  "id": "EZK",
+  "order": 26,
+  "slug": "ezekiel",
+  "file": "26-ezekiel.json",
+  "name_en": "Ezekiel",
+  "testament": "old",
+  "section": "MajorProphet"
+ },
+ {
+  "id": "DAN",
+  "order": 27,
+  "slug": "daniel",
+  "file": "27-daniel.json",
+  "name_en": "Daniel",
+  "testament": "old",
+  "section": "MajorProphet"
+ },
+ {
+  "id": "HOS",
+  "order": 28,
+  "slug": "hosea",
+  "file": "28-hosea.json",
+  "name_en": "Hosea",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "JOL",
+  "order": 29,
+  "slug": "joel",
+  "file": "29-joel.json",
+  "name_en": "Joel",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "AMO",
+  "order": 30,
+  "slug": "amos",
+  "file": "30-amos.json",
+  "name_en": "Amos",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "OBA",
+  "order": 31,
+  "slug": "obadiah",
+  "file": "31-obadiah.json",
+  "name_en": "Obadiah",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "JON",
+  "order": 32,
+  "slug": "jonah",
+  "file": "32-jonah.json",
+  "name_en": "Jonah",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "MIC",
+  "order": 33,
+  "slug": "micah",
+  "file": "33-micah.json",
+  "name_en": "Micah",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "NAM",
+  "order": 34,
+  "slug": "nahum",
+  "file": "34-nahum.json",
+  "name_en": "Nahum",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "HAB",
+  "order": 35,
+  "slug": "habakkuk",
+  "file": "35-habakkuk.json",
+  "name_en": "Habakkuk",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "ZEP",
+  "order": 36,
+  "slug": "zephaniah",
+  "file": "36-zephaniah.json",
+  "name_en": "Zephaniah",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "HAG",
+  "order": 37,
+  "slug": "haggai",
+  "file": "37-haggai.json",
+  "name_en": "Haggai",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "ZEC",
+  "order": 38,
+  "slug": "zechariah",
+  "file": "38-zechariah.json",
+  "name_en": "Zechariah",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "MAL",
+  "order": 39,
+  "slug": "malachi",
+  "file": "39-malachi.json",
+  "name_en": "Malachi",
+  "testament": "old",
+  "section": "MinorProphet"
+ },
+ {
+  "id": "TOB",
+  "order": 40,
+  "slug": "tobit",
+  "file": "40-tobit.json",
+  "name_en": "Tobit",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "JDT",
+  "order": 41,
+  "slug": "yodit",
+  "file": "41-yodit.json",
+  "name_en": "Judith",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "ESG",
+  "order": 42,
+  "slug": "esther-greek",
+  "file": "42-esther-greek.json",
+  "name_en": "Esther (Greek)",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "WIS",
+  "order": 43,
+  "slug": "wisdom-of-solomon",
+  "file": "43-wisdom-of-solomon.json",
+  "name_en": "Wisdom of Solomon",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "SIR",
+  "order": 44,
+  "slug": "sirach",
+  "file": "44-sirach.json",
+  "name_en": "Sirach",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "BAR",
+  "order": 45,
+  "slug": "baruch",
+  "file": "45-baruch.json",
+  "name_en": "Baruch",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "LJE",
+  "order": 46,
+  "slug": "teref-ermias",
+  "file": "46-teref-ermias.json",
+  "name_en": "Rest of Jeremiah",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "S3Y",
+  "order": 47,
+  "slug": "seleste-dekik",
+  "file": "47-seleste-dekik.json",
+  "name_en": "Song of the Three Holy Children",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "SUS",
+  "order": 48,
+  "slug": "susanna",
+  "file": "48-susanna.json",
+  "name_en": "Susanna",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "1MA",
+  "order": 49,
+  "slug": "1-maccabees",
+  "file": "49-1-maccabees.json",
+  "name_en": "1 Maccabees (Ethiopic)",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "2MA",
+  "order": 50,
+  "slug": "2-maccabees",
+  "file": "50-2-maccabees.json",
+  "name_en": "2 Maccabees (Ethiopic)",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "1ES",
+  "order": 51,
+  "slug": "ezra-sutuel",
+  "file": "51-ezra-sutuel.json",
+  "name_en": "Ezra Sutuel",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "MAN",
+  "order": 52,
+  "slug": "prayer-of-manasseh",
+  "file": "52-prayer-of-manasseh.json",
+  "name_en": "Prayer of Manasseh",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "3MA",
+  "order": 53,
+  "slug": "3-maccabees",
+  "file": "53-3-maccabees.json",
+  "name_en": "3 Maccabees (Ethiopic)",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "2ES",
+  "order": 54,
+  "slug": "ezra-kalie",
+  "file": "54-ezra-kalie.json",
+  "name_en": "Ezra Kalie",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "4MA",
+  "order": 55,
+  "slug": "admonition",
+  "file": "55-admonition.json",
+  "name_en": "Book of Admonition",
+  "testament": "deuterocanonical",
+  "section": "Deuterocanonical"
+ },
+ {
+  "id": "DAG",
+  "order": 56,
+  "slug": "teref-daniel",
+  "file": "56-teref-daniel.json",
+  "name_en": "Rest of Daniel",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "JUB",
+  "order": 57,
+  "slug": "kufale",
+  "file": "57-kufale.json",
+  "name_en": "Jubilees",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "ENO",
+  "order": 58,
+  "slug": "enoch",
+  "file": "58-enoch.json",
+  "name_en": "Enoch",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "MAT",
+  "order": 59,
+  "slug": "matthew",
+  "file": "59-matthew.json",
+  "name_en": "Matthew",
+  "testament": "new",
+  "section": "Gospel"
+ },
+ {
+  "id": "MRK",
+  "order": 60,
+  "slug": "mark",
+  "file": "60-mark.json",
+  "name_en": "Mark",
+  "testament": "new",
+  "section": "Gospel"
+ },
+ {
+  "id": "LUK",
+  "order": 61,
+  "slug": "luke",
+  "file": "61-luke.json",
+  "name_en": "Luke",
+  "testament": "new",
+  "section": "Gospel"
+ },
+ {
+  "id": "JHN",
+  "order": 62,
+  "slug": "john",
+  "file": "62-john.json",
+  "name_en": "John",
+  "testament": "new",
+  "section": "Gospel"
+ },
+ {
+  "id": "ACT",
+  "order": 63,
+  "slug": "acts",
+  "file": "63-acts.json",
+  "name_en": "Acts",
+  "testament": "new",
+  "section": "Acts"
+ },
+ {
+  "id": "ROM",
+  "order": 64,
+  "slug": "romans",
+  "file": "64-romans.json",
+  "name_en": "Romans",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "1CO",
+  "order": 65,
+  "slug": "1-corinthians",
+  "file": "65-1-corinthians.json",
+  "name_en": "1 Corinthians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "2CO",
+  "order": 66,
+  "slug": "2-corinthians",
+  "file": "66-2-corinthians.json",
+  "name_en": "2 Corinthians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "GAL",
+  "order": 67,
+  "slug": "galatians",
+  "file": "67-galatians.json",
+  "name_en": "Galatians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "EPH",
+  "order": 68,
+  "slug": "ephesians",
+  "file": "68-ephesians.json",
+  "name_en": "Ephesians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "PHP",
+  "order": 69,
+  "slug": "philippians",
+  "file": "69-philippians.json",
+  "name_en": "Philippians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "COL",
+  "order": 70,
+  "slug": "colossians",
+  "file": "70-colossians.json",
+  "name_en": "Colossians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "1TH",
+  "order": 71,
+  "slug": "1-thessalonians",
+  "file": "71-1-thessalonians.json",
+  "name_en": "1 Thessalonians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "2TH",
+  "order": 72,
+  "slug": "2-thessalonians",
+  "file": "72-2-thessalonians.json",
+  "name_en": "2 Thessalonians",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "1TI",
+  "order": 73,
+  "slug": "1-timothy",
+  "file": "73-1-timothy.json",
+  "name_en": "1 Timothy",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "2TI",
+  "order": 74,
+  "slug": "2-timothy",
+  "file": "74-2-timothy.json",
+  "name_en": "2 Timothy",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "TIT",
+  "order": 75,
+  "slug": "titus",
+  "file": "75-titus.json",
+  "name_en": "Titus",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "PHM",
+  "order": 76,
+  "slug": "philemon",
+  "file": "76-philemon.json",
+  "name_en": "Philemon",
+  "testament": "new",
+  "section": "PaulineEpistle"
+ },
+ {
+  "id": "HEB",
+  "order": 77,
+  "slug": "hebrews",
+  "file": "77-hebrews.json",
+  "name_en": "Hebrews",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "JAS",
+  "order": 78,
+  "slug": "james",
+  "file": "78-james.json",
+  "name_en": "James",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "1PE",
+  "order": 79,
+  "slug": "1-peter",
+  "file": "79-1-peter.json",
+  "name_en": "1 Peter",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "2PE",
+  "order": 80,
+  "slug": "2-peter",
+  "file": "80-2-peter.json",
+  "name_en": "2 Peter",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "1JN",
+  "order": 81,
+  "slug": "1-john",
+  "file": "81-1-john.json",
+  "name_en": "1 John",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "2JN",
+  "order": 82,
+  "slug": "2-john",
+  "file": "82-2-john.json",
+  "name_en": "2 John",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "3JN",
+  "order": 83,
+  "slug": "3-john",
+  "file": "83-3-john.json",
+  "name_en": "3 John",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "JUD",
+  "order": 84,
+  "slug": "jude",
+  "file": "84-jude.json",
+  "name_en": "Jude",
+  "testament": "new",
+  "section": "GeneralEpistle"
+ },
+ {
+  "id": "REV",
+  "order": 85,
+  "slug": "revelation",
+  "file": "85-revelation.json",
+  "name_en": "Revelation",
+  "testament": "new",
+  "section": "Revelation"
+ },
+ {
+  "id": "OTH",
+  "order": 86,
+  "slug": "1-covenant",
+  "file": "86-1-covenant.json",
+  "name_en": "Book of the Covenant I",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXG",
+  "order": 87,
+  "slug": "sirate-tsion",
+  "file": "87-sirate-tsion.json",
+  "name_en": "Order of Zion",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXA",
+  "order": 88,
+  "slug": "josippon",
+  "file": "88-josippon.json",
+  "name_en": "Josippon",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXC",
+  "order": 89,
+  "slug": "didascalia",
+  "file": "89-didascalia.json",
+  "name_en": "Didascalia",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXB",
+  "order": 90,
+  "slug": "1-clement",
+  "file": "90-1-clement.json",
+  "name_en": "Clement",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXD",
+  "order": 91,
+  "slug": "tizaz",
+  "file": "91-tizaz.json",
+  "name_en": "Book of the Commandments",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXE",
+  "order": 92,
+  "slug": "abtilis",
+  "file": "92-abtilis.json",
+  "name_en": "Abtilis",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "XXF",
+  "order": 93,
+  "slug": "gitsew",
+  "file": "93-gitsew.json",
+  "name_en": "Gitsew",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "LAO",
+  "order": 94,
+  "slug": "2-covenant",
+  "file": "94-2-covenant.json",
+  "name_en": "Book of the Covenant II",
+  "testament": "new",
+  "section": null
+ },
+ {
+  "id": "LJE-KJV",
+  "order": 95,
+  "slug": "jeremys-letter",
+  "file": "95-jeremys-letter.json",
+  "name_en": "Letter of Jeremiah",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "1ES-KJV",
+  "order": 96,
+  "slug": "1-esdras",
+  "file": "96-1-esdras.json",
+  "name_en": "1 Esdras",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "2ES-KJV",
+  "order": 97,
+  "slug": "2-esdras",
+  "file": "97-2-esdras.json",
+  "name_en": "2 Esdras",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "1MA-KJV",
+  "order": 98,
+  "slug": "1-maccabees-greek",
+  "file": "98-1-maccabees-greek.json",
+  "name_en": "1 Maccabees (Greek)",
+  "testament": "deuterocanonical",
+  "section": null
+ },
+ {
+  "id": "2MA-KJV",
+  "order": 99,
+  "slug": "2-maccabees-greek",
+  "file": "99-2-maccabees-greek.json",
+  "name_en": "2 Maccabees (Greek)",
+  "testament": "deuterocanonical",
+  "section": null
+ }
+]
