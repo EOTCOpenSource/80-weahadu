@@ -1,0 +1,167 @@
+{
+ "editions": [
+  {
+   "id": "am-2000",
+   "title": "መጽሐፍ ቅዱስ፣ ሰማንያ አሐዱ በአማርኛ",
+   "title_en": "Amharic Bible, 81 books, 2000 EC edition",
+   "abbrev": "መጽሐፍ ቅዱስ አማርኛ የ2000 ዓ.ም ዕትም",
+   "language": "am",
+   "language_name": "አማርኛ",
+   "script": "Ethi",
+   "year": 2000,
+   "era": "EC",
+   "canon": "eotc-81",
+   "publisher": "የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር",
+   "stats": {
+    "books": 89,
+    "chapters": 1596,
+    "verses": 44200
+   }
+  },
+  {
+   "id": "am-1980",
+   "title": "መጽሐፍ ቅዱስ ሰማንያ አሐዱ በአማርኛ",
+   "title_en": "Amharic Bible, 81 books, 1980 EC edition",
+   "abbrev": "መጽሐፍ ቅዱስ በአማርኛ 1980",
+   "language": "am",
+   "language_name": "አማርኛ",
+   "script": "Ethi",
+   "year": 1980,
+   "era": "EC",
+   "canon": "eotc-81",
+   "publisher": "የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር",
+   "stats": {
+    "books": 93,
+    "chapters": 1610,
+    "verses": 44290
+   }
+  },
+  {
+   "id": "gez-1980",
+   "title": "መጽሐፍ ቅዱስ ሰማንያ አሐዱ በግእዝ",
+   "title_en": "Ge'ez Bible, 81 books, 1980 EC edition",
+   "abbrev": "መጽሐፍ ቅዱስ በግእዝ 1980",
+   "language": "gez",
+   "language_name": "ግእዝ",
+   "script": "Ethi",
+   "year": 1980,
+   "era": "EC",
+   "canon": "eotc-81",
+   "publisher": "የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር",
+   "stats": {
+    "books": 93,
+    "chapters": 1629,
+    "verses": 44283
+   }
+  },
+  {
+   "id": "gez-2014",
+   "title": "መጽሐፍ ቅዱስ፣ ሰማንያ አሐዱ በግእዝ፣ የ 2014 ዓ.ም ዕትም",
+   "title_en": "Ge'ez Bible, 81 books, 2014 EC edition (partial)",
+   "abbrev": "ግእዝ 2014",
+   "language": "gez",
+   "language_name": "ግእዝ",
+   "script": "Ethi",
+   "year": 2014,
+   "era": "EC",
+   "canon": "eotc-81",
+   "publisher": "የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር",
+   "stats": {
+    "books": 27,
+    "chapters": 260,
+    "verses": 7958
+   }
+  },
+  {
+   "id": "en-kjv",
+   "title": "Bible King James Version (KJV)",
+   "title_en": "King James Version with Apocrypha",
+   "abbrev": "English Bible (KJV)",
+   "language": "en",
+   "language_name": "English",
+   "script": "Latn",
+   "year": 1611,
+   "era": "GC",
+   "canon": "kjv-81",
+   "publisher": null,
+   "stats": {
+    "books": 81,
+    "chapters": 1376,
+    "verses": 37145
+   }
+  },
+  {
+   "id": "am-nasv-2001",
+   "title": "መጽሐፍ ቅዱስ ስድሳ ስድስቱ፣ አዲሱ መደበኛ ትርጕም",
+   "title_en": "New Amharic Standard Version, 2001 GC",
+   "abbrev": "አዲሱ.መ.ትር 2001",
+   "language": "am",
+   "language_name": "አማርኛ",
+   "script": "Ethi",
+   "year": 2001,
+   "era": "GC",
+   "canon": "protestant-66",
+   "publisher": "International Bible Society",
+   "stats": {
+    "books": 66,
+    "chapters": 1188,
+    "verses": 31103
+   }
+  },
+  {
+   "id": "am-1962",
+   "title": "መጽሐፍ ቅዱስ ስድሳ ስድስቱ፣ ቀዳማዊ ኃይለ ሥላሴ ዘመነ መንግሥት",
+   "title_en": "Amharic Bible, Haile Selassie I era, 1962 EC",
+   "abbrev": "አማርኛ 1962",
+   "language": "am",
+   "language_name": "አማርኛ",
+   "script": "Ethi",
+   "year": 1962,
+   "era": "EC",
+   "canon": "protestant-66",
+   "publisher": "የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር",
+   "stats": {
+    "books": 66,
+    "chapters": 1188,
+    "verses": 30558
+   }
+  },
+  {
+   "id": "ti-1997",
+   "title": "መጽሐፍ ቅዱስ ስድሳ ስድስቱ፣ ትግርኛ መደበኛ ትርጕም",
+   "title_en": "Tigrinya Standard Translation, 1997 EC",
+   "abbrev": "ትግርኛ",
+   "language": "ti",
+   "language_name": "ትግርኛ",
+   "script": "Ethi",
+   "year": 1997,
+   "era": "EC",
+   "canon": "protestant-66",
+   "publisher": "የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር",
+   "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 30740
+   }
+  },
+  {
+   "id": "om-kitaaba",
+   "title": "Kitaaba Qulqulluu, Afaan Oromoo",
+   "title_en": "Oromo Bible",
+   "abbrev": "Afaan Oromoo",
+   "language": "om",
+   "language_name": "Afaan Oromoo",
+   "script": "Latn",
+   "year": null,
+   "era": null,
+   "canon": "protestant-66",
+   "publisher": "Waldaa Kitaaba Qulqulluu Ethiopia",
+   "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31103
+   }
+  }
+ ],
+ "canon": "canon.json"
+}
