@@ -1,0 +1,299 @@
+{
+ "GEN": {
+  "name": "Genesis"
+ },
+ "EXO": {
+  "name": "Exodus"
+ },
+ "LEV": {
+  "name": "Leviticus"
+ },
+ "NUM": {
+  "name": "Numbers"
+ },
+ "DEU": {
+  "name": "Deuteronomy"
+ },
+ "JOS": {
+  "name": "Joshua"
+ },
+ "JDG": {
+  "name": "Judges"
+ },
+ "RUT": {
+  "name": "Ruth"
+ },
+ "1SA": {
+  "name": "1 Samuel"
+ },
+ "2SA": {
+  "name": "2 Samuel"
+ },
+ "1KI": {
+  "name": "1 Kings"
+ },
+ "2KI": {
+  "name": "2 Kings"
+ },
+ "1CH": {
+  "name": "1 Chronicles"
+ },
+ "2CH": {
+  "name": "2 Chronicles"
+ },
+ "EZR": {
+  "name": "Ezra"
+ },
+ "NEH": {
+  "name": "Nehemiah"
+ },
+ "EST": {
+  "name": "Esther"
+ },
+ "JOB": {
+  "name": "Job"
+ },
+ "PSA": {
+  "name": "Psalms"
+ },
+ "PRO": {
+  "name": "Proverbs"
+ },
+ "ECC": {
+  "name": "Ecclesiastes"
+ },
+ "SNG": {
+  "name": "Song of Solomon"
+ },
+ "ISA": {
+  "name": "Isaiah"
+ },
+ "JER": {
+  "name": "Jeremiah"
+ },
+ "LAM": {
+  "name": "Lamentations"
+ },
+ "EZK": {
+  "name": "Ezekiel"
+ },
+ "DAN": {
+  "name": "Daniel"
+ },
+ "HOS": {
+  "name": "Hosea"
+ },
+ "JOL": {
+  "name": "Joel"
+ },
+ "AMO": {
+  "name": "Amos"
+ },
+ "OBA": {
+  "name": "Obadiah"
+ },
+ "JON": {
+  "name": "Jonah"
+ },
+ "MIC": {
+  "name": "Micah"
+ },
+ "NAM": {
+  "name": "Nahum"
+ },
+ "HAB": {
+  "name": "Habakkuk"
+ },
+ "ZEP": {
+  "name": "Zephaniah"
+ },
+ "HAG": {
+  "name": "Haggai"
+ },
+ "ZEC": {
+  "name": "Zechariah"
+ },
+ "MAL": {
+  "name": "Malachi"
+ },
+ "TOB": {
+  "name": "Tobit"
+ },
+ "JDT": {
+  "name": "Judith"
+ },
+ "ESG": {
+  "name": "Esther (Greek)"
+ },
+ "WIS": {
+  "name": "Wisdom of Solomon"
+ },
+ "SIR": {
+  "name": "Sirach"
+ },
+ "BAR": {
+  "name": "Baruch"
+ },
+ "LJE": {
+  "name": "Rest of Jeremiah"
+ },
+ "S3Y": {
+  "name": "Song of the Three Holy Children"
+ },
+ "SUS": {
+  "name": "Susanna"
+ },
+ "1MA": {
+  "name": "1 Maccabees (Ethiopic)"
+ },
+ "2MA": {
+  "name": "2 Maccabees (Ethiopic)"
+ },
+ "1ES": {
+  "name": "Ezra Sutuel"
+ },
+ "MAN": {
+  "name": "Prayer of Manasseh"
+ },
+ "3MA": {
+  "name": "3 Maccabees (Ethiopic)"
+ },
+ "2ES": {
+  "name": "Ezra Kalie"
+ },
+ "4MA": {
+  "name": "Book of Admonition"
+ },
+ "DAG": {
+  "name": "Rest of Daniel"
+ },
+ "JUB": {
+  "name": "Jubilees"
+ },
+ "ENO": {
+  "name": "Enoch"
+ },
+ "MAT": {
+  "name": "Matthew"
+ },
+ "MRK": {
+  "name": "Mark"
+ },
+ "LUK": {
+  "name": "Luke"
+ },
+ "JHN": {
+  "name": "John"
+ },
+ "ACT": {
+  "name": "Acts"
+ },
+ "ROM": {
+  "name": "Romans"
+ },
+ "1CO": {
+  "name": "1 Corinthians"
+ },
+ "2CO": {
+  "name": "2 Corinthians"
+ },
+ "GAL": {
+  "name": "Galatians"
+ },
+ "EPH": {
+  "name": "Ephesians"
+ },
+ "PHP": {
+  "name": "Philippians"
+ },
+ "COL": {
+  "name": "Colossians"
+ },
+ "1TH": {
+  "name": "1 Thessalonians"
+ },
+ "2TH": {
+  "name": "2 Thessalonians"
+ },
+ "1TI": {
+  "name": "1 Timothy"
+ },
+ "2TI": {
+  "name": "2 Timothy"
+ },
+ "TIT": {
+  "name": "Titus"
+ },
+ "PHM": {
+  "name": "Philemon"
+ },
+ "HEB": {
+  "name": "Hebrews"
+ },
+ "JAS": {
+  "name": "James"
+ },
+ "1PE": {
+  "name": "1 Peter"
+ },
+ "2PE": {
+  "name": "2 Peter"
+ },
+ "1JN": {
+  "name": "1 John"
+ },
+ "2JN": {
+  "name": "2 John"
+ },
+ "3JN": {
+  "name": "3 John"
+ },
+ "JUD": {
+  "name": "Jude"
+ },
+ "REV": {
+  "name": "Revelation"
+ },
+ "OTH": {
+  "name": "Book of the Covenant I"
+ },
+ "XXG": {
+  "name": "Order of Zion"
+ },
+ "XXA": {
+  "name": "Josippon"
+ },
+ "XXC": {
+  "name": "Didascalia"
+ },
+ "XXB": {
+  "name": "Clement"
+ },
+ "XXD": {
+  "name": "Book of the Commandments"
+ },
+ "XXE": {
+  "name": "Abtilis"
+ },
+ "XXF": {
+  "name": "Gitsew"
+ },
+ "LAO": {
+  "name": "Book of the Covenant II"
+ },
+ "LJE-KJV": {
+  "name": "Letter of Jeremiah"
+ },
+ "1ES-KJV": {
+  "name": "1 Esdras"
+ },
+ "2ES-KJV": {
+  "name": "2 Esdras"
+ },
+ "1MA-KJV": {
+  "name": "1 Maccabees (Greek)"
+ },
+ "2MA-KJV": {
+  "name": "2 Maccabees (Greek)"
+ }
+}
