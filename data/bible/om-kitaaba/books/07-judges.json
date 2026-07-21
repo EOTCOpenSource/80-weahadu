@@ -1,0 +1,4441 @@
+{
+ "edition": "om-kitaaba",
+ "book": "JDG",
+ "usfm_id": "JDG",
+ "order": 7,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Iyaasuun erga du'ee booddee ijoolleen Israa'el, ?Kana'aanota loluudhaaf nu keessaa Gosi eenyuu dura haa bu'u?? jedhanii Waaqayyoon in gaafatan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Waaqayyos deebisee, ?Namoonni Yihudaa isin dura haa bu'an! Kunoo ani immoo biyyichi harka isaanii jala akka galu godheera? jedheen.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Namoonni Yihudaas obboloota isaanii namoota Shimi'ooniin, ?Kana'aanota loluudhaaf ka'aatii nuu wajjin gara biyya ga'aa keenyaa dhaqaa! Akkasuma nuyis gara biyya ga'aa keessanii isinii wajjin in dhaqna? jedhan; namoonni Shimi'oonis isaanii wajjin in dhaqan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Namoonni Yihudaa yommuu lolaaf ba'anittis Waaqayyo Kana'aanotaa fi Pheriizota harka isaanii jala waan galcheef, mandara Bezeq biratti namoota kuma kudhan in rukutan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Mootii, ?Adonii-Bezeq? jedhamus achumatti argatanii isa lolanii, Kana'aanotaa fi Pheriizota warra hafan in rukutan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Adonii-Bezeq baqannaan hordofanii qabanii abgudduuwwan harka isaatii fi quba gurguddaa miilla isaatii in kukkutan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Adonii-Bezeqis, ?Mootonni torbaatamni warri abgudduuwwan harka isaaniitii fi qubbeetiin gurguddaan miillan isaanii ittii kukkutaman huraa maaddii koo irraa harca'u in funaannatu turan; wanta ani nama irratti hojjedhe Waaqayyo anatti deebise? jedhe; jarris mooticha gara Yerusaalemitti in geessan, innis achitti in du'e.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Yommus namoonni Yihudaa mandara Yerusaalemitti duulanii in qabatan; namoota mandaricha keessa jiraatan billaadhaan fixanii, mandarichattis ibidda in naqan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Kana booddee namoonni Yihudaa Kana'aanota warra biyya gaaraa, biyya gara mirgaatii fi gammoojii jiraatan loluudhaaf in ba'an.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Namoonni Yihudaa ammas Kana'aanota mandara Kebroon keessa jiraatan loluudhaaf dhaqanii, namoota Sheshaayi, namoota Ahimaanii fi namoota Talmaayi in ajjeesan; maqaan mandara Kebroon dur ?Kiriiyat-Arbaa? jedhama ture.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Namoonni Yihudaa Kebroonii ba'anii namoota mandara Debiir keessa jiraatan loluu in dhaqan; maqaan Debiir dur ?Kiriiyat-Sefer? jedhama ture.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Namichi Kaaleb jedhamu immoo, ?Nama Kiriiyat-Seferin rukutee qabatuuf intala koo Aksaa nan kenna? jedhe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Egaa Otnii'el ilmi Qenaz mandaricha in qabate; Qenaz kun obboleessa Kaaleb isa quxisuu dha; Kaalebis intala isaa Aksaa Otnii'elitti in heerumsiise.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Isheen Otnii'el bira yommuu dhufte, inni abbaa ishee biraa maasii akka isheedhaaf kadhatuuf in giddisiifte; yeroo isheen harree irraa buutes Kaaleb, ?Maal feeta?? isheedhaan jedhe.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Isheen immoo, ?Na eebbisi! Erga biyya gara mirgaa anaaf kennite burqaa bishaaniis anaaf kenni!? jette; innis burqaa isa gara irraa fi isa gad-jallaa in kenneef.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Sanyiin abbiyyuu Musee isa Qenichaa namoota Yihudaa wajjin mandara meexxiitii ba'anii kutaa biyya Yihudaa keessaa gara lafa onaa isa gara mirgaa mandara Araaditti argamutti ol ba'anii, saba biyya sanaa wajjin in jiraatan.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Namoonni Yihudaas obboloota isaanii namoota Shimi'oonii wajjin gara mandara Zifaat dhaqanii, Kana'aanota achi jiraatan rukutanii mandarattii in balleessan; kanaaf maqaan mandarattii ?Hormaa? jedhamee waamame; ?Hormaa? jechuun ?Badiisa? jechuu dha.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Namoonni Yihudaa itti dabalanii mandaroota Gaazaa, Ashqaloonii fi Eqroon lafa naannoo isaanii jiruu wajjin in qabatan.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Waaqayyo namoota Yihudaa wajjin waan tureef, biyya gaaraa sana qabachuu in danda'an; garuu warri dachaa keessa jiraatan konkolaataa sibiilaa qabu waan turaniif, ari'anii isaan baasuu hin dandeenye.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Akkuma Museen duraan dursee dubbatetti mandara Kebroon Kaalebiif in kennan; inni immoo ijoollee Aanaaq sadan ari'ee in baase.",
+     "alt": "፳",
+     "refs": [
+      {
+       "origin": "1:20",
+       "target": "Iya 15:13,14."
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "t": "Namoonni Benyaamiin garuu Yibusoota ari'anii Yerusaalem keessaa waan hin baasiniif, isaan hamma har'aatti iyyuu ijoollee Benyaamiinii wajjin Yerusaalem keessa in jiraatu.",
+     "alt": "፳፩",
+     "refs": [
+      {
+       "origin": "1:21",
+       "target": "Iya 15:63; 2Sam 5:6; 1Sen 11:4."
+      }
+     ]
+    },
+    {
+     "n": 22,
+     "t": "Gosi Yoseef mandara Bet'el rukutuudhaaf yommuu ba'an, Waaqayyo isaanii wajjin ture.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Gosi Yoseef Bet'elitti gaaddota ergan; maqaan Bet'el dur ?Luz? jedhama ture.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Warri gaadduun sunis nama mandaricha keessaa ba'ee adeemaa jiru arganii, ?Attamitti mandarattiitti galuu akka dandeenyu nutti argisiisi! Nuyis wanta gaarii siif in goona? jedhaniin.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Innis akka itti mandarattiitti galan isaanitti in argisiise; isaan immoo warra mandarattii keessaa billaadhaan rukutanii, namichaa fi maatii isaa nagaatti gad in dhiisan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Namichis biyya Heetotaatti galee, mandara maqaan isaa hamma har'aatti iyyuu ?Luz? jedhamee beekamu in ijaare.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Gosi Minaasee warra Bet-Shaan, Ta'anaa, Door, Yible'aamii fi Megidoo akkasumas warra gandeen naannoo isaanii keessa jiraatan ari'anii hin baafne; Kana'aanonnis yaada isaaniitti biyyuma sana keessa jiraachuuf kutanii turan.",
+     "alt": "፳፯",
+     "refs": [
+      {
+       "origin": "1:27",
+       "target": "Iya 17:11-13."
+      }
+     ]
+    },
+    {
+     "n": 28,
+     "t": "Israa'eloonni erga jabaatanii warra Kana'aanotaa giddisiisanii hojii humnaa isaan hojjechiifatan malee, raawwatanii hunduma isaanii ari'anii hin baafne.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Gosi Efreem Kana'aanota mandara Gezer keessa jiraatan ari'anii hin baafne; kanaaf Kana'aanonni isaanumaa wajjin Gezer keessa in jiraatan.",
+     "alt": "፳፱",
+     "refs": [
+      {
+       "origin": "1:29",
+       "target": "Iya 16:10."
+      }
+     ]
+    },
+    {
+     "n": 30,
+     "t": "Gosi Zebuloon Kana'aanota Qiixron keessaa fi Nahalol keessa jiraatan ari'anii hin baafne; haa ta'u iyyuu malee, achuma jiraatanii hojii humnaa akka isaaniif hojjetaniif in giddisiisan.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Gosi Asheer warra Aakoo, Sidoon, Ahilaab, Akziib, Helbaa, Afeqii fi Rehoob keessa jiraatan ari'anii hin baafne.",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "Akkasitti gosi Asheer Kana'aanota achi jiraachaa turanii wajjin jiraatan malee, ari'anii isaan hin baafne.",
+     "alt": "፴፪"
+    },
+    {
+     "n": 33,
+     "t": "Gosi Niftaalem Kana'aanota Bet-Shemeshii fi Bet-Anaat keessa turanii wajjin jiraatan malee, ari'anii isaan hin baafne; haa ta'u iyyuu malee, warra Bet-Shemeshii fi Bet-Anaat keessa jiraatan sana hojii humnaa akka isaaniif hojjetaniif in giddisiisan.",
+     "alt": "፴፫"
+    },
+    {
+     "n": 34,
+     "t": "Warri Amoorotaa gosa Daan biyya gaaraa irratti ittisanii, gara dachaatti gad bu'uu isaan dhowwan.",
+     "alt": "፴፬"
+    },
+    {
+     "n": 35,
+     "t": "Warri Amoorotaa tulluu Heres irra, Ayalonii fi Sha'albiim keessa jiraachuuf kutanii turan; sanyiin Yoseef garuu qabaa cimaadhaan qabanii, hojii humnaa akka isaaniif hojjetaniif in giddisiisan.",
+     "alt": "፴፭"
+    },
+    {
+     "n": 36,
+     "t": "Daariin warra Amoorotaa karaa Aqrabiim kattaa irraa jalqabee hamma gara oliitti ture.",
+     "alt": "፴፮"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gosi Yihudaa Fi Gosi Shimi'oon Adonii-Bezeq Mooticha Qabachuu Isaanii",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gosi Yihudaa Yerusaalemii Fi Kebroonin Qabachuu Isaa",
+     "before": 8
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Otnii'el Mandara Debiir Qabachuu Isaa",
+     "before": 11
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gosi Yihudaa Fi Gosi Benyaamiin Mo'icha Argachuu Isaanii",
+     "before": 16
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gosi Yoseefii Fi Gosi Minaasee Bet'elin Qabachuu Isaanii",
+     "before": 22
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Namoota Warra Israa'elootaan Biyyaa Hin Baafamin Hafan",
+     "before": 27
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ergamaan Waaqayyoo mandara Giilgalii gara Bokiimitti ol ba'ee, saba Israa'eliin, ?Ani biyya Gibxiitii isin baasee biyyan abboota keessaniif kennuudhaaf kakadhetti isin galcheera; ani, ?Kakuu isa ani isiniif gale raawwadhee hin cabsu.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Isin immoo iddoo aarsaa isaanii diigaa malee, warra biyya kanaa wajjin kakuudhaan waliif hin galinaa!? isiniin nan jedhe; isin garuu anaaf hin dhageenye; egaa isin maal gochuu keessan ree?",
+     "alt": "፪",
+     "refs": [
+      {
+       "origin": "2:2",
+       "target": "Bau 34:12,13; Kes 7:2-5."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "Amma ani, fuula keessan duraa ari'ee isaan hin baasu, isaan tuttuqanii nagaa isin in dhowwatu, waaqayyolii isaanii waaqessuudhaanis kiyyootti in galtu? jedhe.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yeroo ergamaan Waaqayyoo Israa'eloota hundumaatti dubbii kana dubbatetti isaan sagalee isaanii ol kaasanii in boo'an.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Maqaa iddoo sanaas ?Bokiim? jedhanii in moggaasan ?Bokiim? jechuun ?Iddoo warra boo'anii? jechuu dha; iddoodhuma kanattis Waaqayyoof qalma in dhi'eessan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Iyaasuun saba Israa'el gara iddoo iddoo isaaniitti yeroo ergetti, namoonni adduma addaan lafa ga'aa isaanii qabachuudhaaf in dhaqan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Guutummaa bara Iyaasuu fi bara jaarsoliin warri isa booddee hafanii hojii guddaa Waaqayyo saba Israa'eliif godhe hundumaa argan jiraatanitti, sabni sun Waaqayyoof hojjechaa turan.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Iyaasuun ilmi Nun garbichi Waaqayyoo waggaa dhibbaa fi kudhan jiraatee in du'e.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Namoonnis Tiimnaat Heres lafa dhaala isaatii biyya gaaraa isa kan Efreem irraa isa tulluu Ga'aash irraa gara bitaatti argamu keessatti isa in awwaalan.",
+     "alt": "፱",
+     "refs": [
+      {
+       "origin": "2:9",
+       "target": "Iya 19:49,50."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "t": "Dhaloonni yommus turan hundinuu erga du'anii booddee, dhaloonni Waaqayyoon, gochaa inni saba Israa'eliif godhes hin beekne in ka'e.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Israa'eloonni Waaqayyo duratti waan hamaa in hojjetan, Ba'aal waaqayyolii tolfamoos in waaqessan.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Waaqayyoon goofticha isa abboonni isaanii sagadaniif, isa biyya Gibxiitii isaan baase dhiisanii, saba naannoo isaanii jiran duukaa bu'anii waaqayyolii tolfamoo isaaniitiif in sagadan; kanaanis Waaqayyoon in dheekkamsiisan.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Waaqayyoon dhiisanii Ba'aalii fi Ashtaarot waaqayyittii tolfamtuu in waaqessan.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Kanaaf dheekkamsi Waaqayyoo Israa'el irratti boba'ee, warra isaan saamanitti dabarsee isaan kenne; harka diinota naannoo isaaniittis raawwatee waan isaan galcheef, sabni Israa'el diinota isaanii dura dhaabachuu hin dandeenye.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Waaqayyo akkuma kakuudhaan isaanitti dubbatee turetti, yeroo lolaaf ba'an hundumaatti waan hamaa isaanitti in fida ture; kanaafis yaadni isaanii guddaa in dhiphate.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yommus Waaqayyo, Israa'eloota harka saamtotaa jalaa akka baasaniif, abboota firdii isaaniif in kaase.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Isaan garuu Waaqayyoof amanamuu dhiisanii, waaqayyolii biraaf of kennanii isaaniif sagadan malee, abboota firdii isaaniif iyyuu hin dhageenye; abboonni isaanii abboommii Waaqayyoo in eegu turan; isaan kun garuu akkas gochuu dhiisanii, dafanii karaa abboonni isaanii irra adeeman irraa in jal'atan.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Waaqayyo abbaa firdii yommuu isaaniif kaasu, bara jireenya abbaa firdii sanaa hundumaatti isaa wajjin ta'ee, Israa'eloota harka diinota isaanii keessaa in baasa ture; namoonni waan isaan rakkisanii cunqursaniif yeroo isaan aadanitti immoo Waaqayyo isaaniif in oo'e.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Akkuma abbaan firdii sun du'een garuu deebi'anii dhaloota isaan dura turan caalaa hammaatanii, waaqayyolii biraa duukaa bu'anii, isaaniif in hojjetu, in sagaduufis turan; hojii isaaniitii fi mata-jabina isaanii keessaas tokko illee hin dhiifne.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Kana irratti dheekkamsi Waaqayyoo saba Israa'el irratti in boba'e; Waaqayyo, ?Sabni kun kakuu koo isa ani akka eeganiif abboota isaanii abboome cabsaniiru, anaafis hin dhageenye.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Kanaafis saba warra yeroo Iyaasuun du'e achitti hafan sana, ani immoo fuula isaanii duraa ari'ee hin baasu.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Sabni Israa'el akkuma abboota isaanii karaa koo irra in adeemuu fi hin adeemanii isaanii saba achitti hafan sanaan qoree nan ilaala? jedhe.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Kanaaf Waaqayyo saba sana tokkichumaan ari'ee baasuu dhiisee, achumatti akka hafan godhe; harka Iyaasuuttis isaan hin kennine.",
+     "alt": "፳፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 2",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ergamaan Waaqayyoo Saba Israa'elitti Dubbachuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Du'uun Iyaasuu Saba Israa'elitti Hir'isuu Isaa",
+     "before": 6
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Namoonni Israa'el Waaqayyoon Waaqeffachuu Dhiisuu Isaanii",
+     "before": 10
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Waaqayyo, namoota Israa'el warra lola biyya Kana'aan keessatti ta'e hin argin qoree ilaaluudhaaf, saba garaa garaa achitti in hambise.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Inni saba Israa'el keessaa dhaloonni gara booddee warri lola hin argin kun lola akka baran in barbaade.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Sabni warri achitti hafan kunis gurguddoota Filisxeemotaa warra humnaan mo'an, Kana'aanota, Sidoonota, Hiiwota warra tulluu Liibaanon gubbaa, tulluu Ba'aal-Hermoonii hamma itti lixa Haamaatitti jiraatanii dha.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Sabni garaa garaa kun achitti argamuun isaanii, namoonni Israa'el, abboommii Waaqayyo karaa Musee abboota isaaniif kenne sanaaf abboomamuun isaanii qoramee akka ittiin ilaalamuuf ture.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Egaa sabni Israa'el warra Kana'aanotaa, Heetotaa, Amoorotaa, Pheriizotaa, Hiiwotaa fi Yibusootaa gidduu in jiraatan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Durboota saba garaa garaa kana in fuudhan, durboota ofii isaanii dargaggoota warra biyya sanaatti in heerumsiisan, waaqayyolii isaaniis in waaqessan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Israa'eloonni, Waaqayyo duratti waan hamaa in hojjetan; Waaqayyoon gooftaa isaanii irraanfatanii, Ba'aalii fi Asheeraa waaqayyolii tolfamoo in waaqessan.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Kanaaf dheekkamsi Waaqayyoo Israa'el irratti boba'ee harka Kushaan-Riishaataayim mootii Mesophotaamiyaa jala isaan galche; isaanis mootii sanaaf garbummaatti waggaa saddeet in hojjetan; ?Mesophotaamiyaan? isa dur ?Aram Naharaayim? jedhamuu dha.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yeroo Israa'eloonni gara Waaqayyotti iyyatanitti garuu, inni harka mootichaa jalaa akka isaan baasuuf Otnii'elin ilma Qenaz obboleessa Kaaleb isa quxisuu isaaniif in kaase; innis harka mootichaa jalaa isaan in baase.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Hafuurri Waaqayyoo Otnii'eliif in dhufe; innis abbaa firdii isaanii ta'ee isaan in geggeesse; lolaaf yommuu inni ba'etti immoo Waaqayyo akka inni humna caalee Kushaan-Riishaataayim mootii Mesophotaamiyaa harka isaatti galfatu in godhe.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Biyyattiin waggaa afurtamaaf gabiitti in jiraatte; kana booddees Otnii'el ilmi Qenaz in du'e.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Israa'eloonni ammas Waaqayyo duratti waan hamaa in hojjetan; sababii hamaa hojjetaniif, Waaqayyo immoo Egloon mootiin Mo'aab jabaatee Israa'el irratti akka ka'u in godhe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Egloon mootichis Amoonotaa fi Amaaleqoota ofitti dabalatee, dhaqee Israa'elin rukutee, mandara meexxiis in qabate.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yommus Israa'eloonni Egloon mootii Mo'aabiif garbummaatti waggaa kudha saddeet in hojjetan.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Yeroo Israa'eloonni gara Waaqayyotti iyyatanitti garuu, inni nama kana keessaa isaan baasu in kaaseef; innis Ehud ilma Geraa sanyii Benyaamiin isa bitaacha ture; Israa'eloonni immoo Ehud kun Egloon mootii Mo'aabiif gibira akka geessuuf in ergan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yommus Ehud billaa dhundhuma tokko dheeratu, gara lamaaniinis qara qabu tumee qopheeffatee, uffata isaa jalaan bukkee isaa mirgaatti hidhatee in ka'e;",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "gibira sanas Egloon mootii Mo'aab isa baay'ee furdaa ture sanatti in geesse.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Ehudis gibira sana erga geessee, namoota wanta gibiraaf kennamu kana baatanii dhaqan of biraa in adeemsise.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Ofii isaatii garuu Giilgal iddoo waaqayyolii tolfamoon jiranii deebi'ee, Eglooniin, ?Yaa mootii! Ergaan dhoksaatti sitti himu qaba? jedheen; mootichi immoo namoota isa bira dhaabataniin, ?Mee, turaa!? jennaan hundumti isaaniis lafa hilaniif.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Ehud immoo Egloon kutaa mana isaa isa mana irraa isa qilleensa qabu keessa kophaa isaa taa'ee utuu jiruu itti dhi'aatee, ?Ergaa Waaqayyo biraa dhufe sitti nan hima? jedheen; kana irratti Egloon teessoo isaa irraa in ka'e.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Ehud achumaan billaa isa bukkee isaa mirgaatti hidhatee ture sana, harka isaa bitaatiin luqqifatee humnaan garaa Egloon in waraane.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Billaan sun gonfa isaatii wajjin keessa lixee, fiixeen isaa dugda isaa keessaan in ba'e; Ehud billaa isaa garaa namichaa keessaa hin baafne; moorri namichaa immoo irra gara galee walitti in duuche.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Kana booddee Ehud kutaa manichaa isa mana irraa keessaa gad ba'ee, of duubaan balbala cufee gigirii itti galche.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Ehud manicha keessaa ba'ee erga adeemee, hojjetoonni mootichaa dhufanii balballi kutaa manicha mana irraa cufamee argan; isaanis, ?Tarii mana garaa dhaqe ta'a? jedhan.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Hamma balbala dura dhaabachuun isaan nuffisiisutti eeganii, inni homaa banuu dinnaan, banaa fudhatanii manicha yeroo bananitti, gooftaan isaanii du'ee reeffa isaa lafatti in argan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Hamma hojjetoonni kun balballi banamuu isaa eeganitti, Ehud isaan jalaa miliqee karaa waaqayyolii tolfamoo sanaa ba'ee gara Se'iiraatti in sokke.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Yommuu achi ga'es tulluu Efreem gubbaatti fiingee in afuufe; namoonni Israa'elis isaa wajjin tulluu sana irraa gad bu'an; innis isaan dura bu'ee,",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "?Diinota keessan warra Mo'aab, Waaqayyo harka keessan keessa waan isiniif buuseef ana duukaa bu'aa!? jedheen; isaanis isa duukaa bu'anii, malkaa Yordaanos isa gara Mo'aabitti ceesisu qabatanii, namni tokko illee achiin akka hin ceeneef in ittisan.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Yeroo sanatti warra Mo'aab keessaa jagnoota jajjaboo gara kuma kudhanii in ajjeesan; namni tokko illees isaan jalaa hin baane.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Gaafas Mo'aab harka saba Israa'el jala galte; akkasitti biyyi Israa'el waggaa saddeettamaaf gabiitti in jiraate.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Ehud booddeedhaan immoo Shamgaar ilmi Anaat tuttuqaa qotiyyootiin Filisxeemota dhibba ja'a ajjeesee, saba Israa'elin immoo harka isaanii jalaa in baase.",
+     "alt": "፴፩"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 3",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Saba Warra Biyya Isaanii Keessatti Hafan",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Otnii'el Abbaa Firdii Ta'uu Isaa",
+     "before": 7
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ehud Saba Israa'el Rakkina Keessaa Baasuu Isaa",
+     "before": 12
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ehud Booddeedhaan Shamgaar Ka'uu Isaa",
+     "before": 31
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ehud erga du'ee booddee, Israa'eloonni ammoo Waaqayyo duratti waan hamaa in hojjetan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Kanaaf Waaqayyo harka Yaabiin mootii Kana'aan isa mandara Hazor keessatti mo'e jala isaan galche; angafni loltuu mootichaa, Siiseraa isa mandara Haroshet-Hagoyiim keessa taa'u ture.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yaabiin mootichi konkolaataa sibiilaa dhibba sagal waan qabuuf, Israa'elootas waggaa digdamaaf jabeessee waan cunqurseef, isaan Waaqayyoon gargaarsa in kadhatan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yeroo sanatti raajittiin ?Deboraa? jedhamtu haati manaa Laphiidot geggeessituu saba Israa'el turte.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Isheen immoo biyya Efreem isa gaara gubbaa, Raamaadhaa fi Bet'el gidduu muka meexxii tokko jala in teessi turte; mukti kunis ?Muka meexxii Deboraa? in jedhama ture; Israa'eloonni dubbii isaanii akka isaaniif ilaaltutti ishee bira in dhaqu turan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Gaaf tokko isheen mandara Qedeesh isa biyya Niftaalem keessaatti nama ergitee Baaraaqin ilma Abiino'aam waamsiftee, ?Waaqayyo gooftichi Israa'el, ?Dhaqiitii sanyii Niftaalemiif sanyii Zebuloon keessaa namoota kuma kudhan fuudhiitii tulluu Taaboritti ol ba'i!",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Ani Siiseraa angafa loltuu Yaabiin konkolaataa isaatii fi loltoota isaatii wajjin laga Kiishonitti gara keetti fidee, harka keetti dabarsee isa nan kenna? jedhee si abboomeera? jetteen.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Baaraaq immoo Deboraadhaan, ?Ati anaa wajjin yoo dhaqxe anis nan dhaqa, ati anaa wajjin yoo dhaquu dhabaatte garuu, anis hin dhaqu? jedhee deebiseef.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Isheenis, ?Dhaquu illee sii wajjin nan dhaqa, garuu Waaqayyo karaa ati yaaddu kanaan Siiseraa harka dubartii jala waan galchuuf, ulfinni kana keessatti argamu siif hin lakkaa'amu? jettee, kaatee Baaraaqii wajjin gara Qedeesh in dhaqxe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Kana booddee Baaraaq namoota Zebuloonii fi namoota Niftaalem gara Qedeeshitti waamnaan, namoonni kumni kudhan isa duukaa bu'an; Deboraanis isaa wajjin dhaqxe.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Heber Qenichi yommus Qenoota warra sanyii Hobaab abbiyyuu Musee sana irraa gargar ba'ee, godoo isaa qilxuu isa Zaa'anaaniim jiru mandara Qedeeshitti dhi'oo sana bukkee in dhaabbate.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Namoonnis Baaraaq ilmi Abiino'aam tulluu Taaboritti akka ol ba'e Siiseraatti in himan;",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Siiseraan immoo konkolaattota sibiilaa dhibba salganii fi namoota isaa wajjin turan fudhatee, Haroshet Hagoyiimii hamma laga Kiishonitti in adeeme.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Deboraan yommus Baaraaqiin, ?Waaqayyo har'a Siiseraa harka kee keessa waan buusuuf, ka'iitii dhaqi! Waaqayyo si dura bu'eera mitii ree?? jetteen; Baaraaq achumaan namoota kuma kudhan of duukaa buusee gaara Taabor irraa gad in bu'e.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Waaqayyos akkuma Baaraaq jara loluutti ka'een, Siiseraa, konkolaataa isaa fi loltoota isaa hundumaa gara kamitti akka goran isaan in wallaalchise; yommus Siiseraan konkolaataa isaa irraa bu'ee miilla isaatiin in baqate.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yommus Baaraaq konkolaattotaa fi loltoota hamma Haroshet Hagoyiimitti in ari'e; loltoonni Siiseraa hundinuu billaadhaan dhuman, namni tokko illees hin hafne.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Siiseraan garuu Yaabiin mootii Hazorii fi sanyii Heber Qenichaa gidduu nagaan waan jiruuf, gara godoo Yaa'el haadha manaa Heber Qenichaatti in baqate.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Yaa'elis Siiseraa simachuuf baatee, ?Yaa gooftaa ko as gori! Hin sodaatinii ol gali!? jetteen; innis goree, godoo isheetti ol gale; isheen immoo dirriba irra buuftee isa dhoksite.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Yommus inni, ?Nan dheebodhe, hadaraa bishaan dhugaatii xinnoo ishee anaaf kenni!? ittiin jennaan, isheen qabee aannanii buqqiftee, akka inni dhuguuf kenniteefii, deebiftee isa in dhoksite.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Siiseraan dubartittii sanaan, ?Balbala godichaa dura dhaabadhu, eenyu illee dhufee, ?Namni as jiraa?? jedhee yoo si gaafate ?Hin jiru? jedhiin!? jedhe.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Siiseraan dadhabee hirriba ulfaataa keessa utuu jiruu, Yaa'el haati manaa Heber qofoo dunkaanaa fi buruusa fudhattee, suuta jettee gara isaa dhaqxee, qoficha illee isaa keessa baaftee lafatti in qofaate; innis achumatti du'e.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Baaraaq ergasii Siiseraa faana dha'ee utuu dhufuu argitee, Yaa'el isa simachuuf gad baatee, ?Kottu! Nama ati barbaaddu sittan argisiisa!? jetteen; Baaraaqis godoo isheetti ol galee reeffa Siiseraa qofoon illee isaatti gad qofa'amee lafatti arge.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Waaqayyo guyyaa sanatti Yaabiin mootii Kana'aan Israa'eloota duratti gad in deebise.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Israa'eloonni Yaabiin mootii Kana'aan hamma balleessanitti qabaa isaanii itti cimsachaa in adeeman.",
+     "alt": "፳፬"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 4",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Deboraa Fi Baaraaq Saba Israa'el Geggeessuu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Gaafas Deboraanii fi Baaraaq ilmi Abiino'aam faarfannaa kanatti fufee jiru in faarfatan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Geggeessitoonni geggeessuu isaaniitiif, sabni Israa'elis fedha isaaniitiin of kennuu isaaniitiif, Waaqayyoon jajadhaa!",
+     "alt": "፪",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Geggeessitoonni geggeessuu isaaniitiif,"
+      },
+      {
+       "style": "q2",
+       "t": "sabni Israa'elis fedha isaaniitiin of kennuu isaaniitiif,"
+      },
+      {
+       "style": "q2",
+       "t": "Waaqayyoon jajadhaa!"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "Ani ofii kootii Waaqayyoon nan faarfadha, Waaqayyo gooftaa Israa'eliif qooqa mi'a garaa garaas nan dhageessisa; kanaaf yaa mootota nana dhaga'aa, isinis yaa gurguddoota nana gurra keessan as qabaa!",
+     "alt": "፫",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Ani ofii kootii Waaqayyoon nan faarfadha,"
+      },
+      {
+       "style": "q2",
+       "t": "Waaqayyo gooftaa Israa'eliif"
+      },
+      {
+       "style": "q2",
+       "t": "qooqa mi'a garaa garaas nan dhageessisa;"
+      },
+      {
+       "style": "q2",
+       "t": "kanaaf yaa mootota nana dhaga'aa,"
+      },
+      {
+       "style": "q2",
+       "t": "isinis yaa gurguddoota nana"
+      },
+      {
+       "style": "q2",
+       "t": "gurra keessan as qabaa!"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "t": "Yaa Waaqayyo yommuu ati tulluu Se'iirii kaate, biyya Edoom keessaas yommuu ati adeemte, lafti in rom'ite, bantiiwwan waaqaa bishaan in dhangalaasan, duumessoonnis bokkaa in roobsan.",
+     "alt": "፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yaa Waaqayyo yommuu"
+      },
+      {
+       "style": "q2",
+       "t": "ati tulluu Se'iirii kaate,"
+      },
+      {
+       "style": "q2",
+       "t": "biyya Edoom keessaas yommuu"
+      },
+      {
+       "style": "q2",
+       "t": "ati adeemte,"
+      },
+      {
+       "style": "q2",
+       "t": "lafti in rom'ite,"
+      },
+      {
+       "style": "q2",
+       "t": "bantiiwwan waaqaa bishaan in dhangalaasan,"
+      },
+      {
+       "style": "q2",
+       "t": "duumessoonnis bokkaa in roobsan."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "t": "Tulloonni, Siinaatti akkuma ta'e, tullootan Waaqayyo duratti, fuula Waaqayyoo gooftaa Israa'el duratti in socho'an.",
+     "alt": "፭",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Tulloonni, Siinaatti akkuma ta'e,"
+      },
+      {
+       "style": "q2",
+       "t": "tullootan Waaqayyo duratti,"
+      },
+      {
+       "style": "q2",
+       "t": "fuula Waaqayyoo gooftaa Israa'el duratti in socho'an."
+      }
+     ],
+     "refs": [
+      {
+       "origin": "5:5",
+       "target": "Bau 19:18."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "Bara Shamgaar ilma Anaat, bara Yaa'elittis karaan guddaan in one, namoonni karaa adeemanis daandii jajal'oo irra goran.",
+     "alt": "፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Bara Shamgaar ilma Anaat,"
+      },
+      {
+       "style": "q2",
+       "t": "bara Yaa'elittis"
+      },
+      {
+       "style": "q2",
+       "t": "karaan guddaan in one,"
+      },
+      {
+       "style": "q2",
+       "t": "namoonni karaa adeemanis daandii jajal'oo irra goran."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "t": "Hamma gaafa ani Deboraan Israa'eliif haadha ta'ee ka'etti, namoonni biyya keessa jiraachuun dadhabamee ture.",
+     "alt": "፯",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Hamma gaafa ani Deboraan"
+      },
+      {
+       "style": "q2",
+       "t": "Israa'eliif haadha ta'ee ka'etti,"
+      },
+      {
+       "style": "q2",
+       "t": "namoonni biyya keessa jiraachuun dadhabamee ture."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "t": "Israa'eloonni waaqayyolii haaraa fo'atan; yommus lolli karra kellaa isaanii duratti isaan irratti ka'e, garuu Israa'eloota kuma afurtama gidduutti gaachannii fi eeboon hin argamne.",
+     "alt": "፰",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Israa'eloonni waaqayyolii"
+      },
+      {
+       "style": "q2",
+       "t": "haaraa fo'atan;"
+      },
+      {
+       "style": "q2",
+       "t": "yommus lolli karra kellaa isaanii duratti isaan irratti ka'e,"
+      },
+      {
+       "style": "q2",
+       "t": "garuu Israa'eloota"
+      },
+      {
+       "style": "q2",
+       "t": "kuma afurtama gidduutti"
+      },
+      {
+       "style": "q2",
+       "t": "gaachannii fi eeboon hin argamne."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "t": "Garaan koo warra Israa'elin ajajaniif, warra saba gidduudhaa fedha isaaniitiin of kennan bira jira; Waaqayyoon jajadhaa!",
+     "alt": "፱",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Garaan koo warra Israa'elin ajajaniif,"
+      },
+      {
+       "style": "q2",
+       "t": "warra saba gidduudhaa fedha isaaniitiin of kennan bira jira;"
+      },
+      {
+       "style": "q2",
+       "t": "Waaqayyoon jajadhaa!"
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "t": "Isin warri harree adaadii yaabbattanii, baladii irra teessan, karaa irras kan adeemtan, waa'ee isaa yaadatti qabadhaatii himaa!",
+     "alt": "፲",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Isin warri harree adaadii yaabbattanii,"
+      },
+      {
+       "style": "q2",
+       "t": "baladii irra teessan,"
+      },
+      {
+       "style": "q2",
+       "t": "karaa irras kan adeemtan,"
+      },
+      {
+       "style": "q2",
+       "t": "waa'ee isaa yaadatti qabadhaatii himaa!"
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "t": "Isaan sagalee warra bishaan bidiruutti to'anii obaasanii caalaatti, wanta Waaqayyo qajeelummaa isaatiin hojjete, isa inni qajeelummaa isaatiin Israa'eloota biyya keessa jiraataniif godhes wal harkaa fuudhanii in odeessan; yommus sabni Waaqayyoo gara karra mandaraatti in ba'an.",
+     "alt": "፲፩",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Isaan sagalee warra bishaan bidiruutti"
+      },
+      {
+       "style": "q2",
+       "t": "to'anii obaasanii caalaatti,"
+      },
+      {
+       "style": "q2",
+       "t": "wanta Waaqayyo qajeelummaa isaatiin hojjete,"
+      },
+      {
+       "style": "q2",
+       "t": "isa inni qajeelummaa isaatiin Israa'eloota"
+      },
+      {
+       "style": "q2",
+       "t": "biyya keessa jiraataniif godhes"
+      },
+      {
+       "style": "q2",
+       "t": "wal harkaa fuudhanii in odeessan;"
+      },
+      {
+       "style": "q2",
+       "t": "yommus sabni Waaqayyoo"
+      },
+      {
+       "style": "q2",
+       "t": "gara karra mandaraatti in ba'an."
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "t": "Ka'i, Deboraa ka'i! Ka'i, ka'iitii faarfadhu! Yaa Baaraaq ilma Abiino'aam atis ka'i, warra boojite fudhadhuutii dhaqi!",
+     "alt": "፲፪",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Ka'i, Deboraa ka'i!"
+      },
+      {
+       "style": "q2",
+       "t": "Ka'i, ka'iitii faarfadhu!"
+      },
+      {
+       "style": "q2",
+       "t": "Yaa Baaraaq ilma Abiino'aam"
+      },
+      {
+       "style": "q2",
+       "t": "atis ka'i,"
+      },
+      {
+       "style": "q2",
+       "t": "warra boojite fudhadhuutii dhaqi!"
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "t": "Yommus warri hafan gara gurguddoota biyyaatti gad bu'an; sabni Waaqayyoo immoo loltootaa wajjin anaaf in birmatan.",
+     "alt": "፲፫",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yommus warri hafan"
+      },
+      {
+       "style": "q2",
+       "t": "gara gurguddoota biyyaatti"
+      },
+      {
+       "style": "q2",
+       "t": "gad bu'an;"
+      },
+      {
+       "style": "q2",
+       "t": "sabni Waaqayyoo immoo loltootaa wajjin"
+      },
+      {
+       "style": "q2",
+       "t": "anaaf in birmatan."
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "t": "Warri dhufanis, gosa Efreem keessaa warra Amaaleqoota irratti ka'anii dha; isaan kun, ?Yaa Benyaamiin, nuyi siif namoota kee duukaa jirra? jedhan; sanyii Maakiir keessaa warra loltoota ajajan, sanyii Zebuloon keessaa warra ulee aboo argisiisu baatantu dhufe.",
+     "alt": "፲፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Warri dhufanis, gosa Efreem keessaa"
+      },
+      {
+       "style": "q2",
+       "t": "warra Amaaleqoota irratti ka'anii dha;"
+      },
+      {
+       "style": "q2",
+       "t": "isaan kun, ?Yaa Benyaamiin,"
+      },
+      {
+       "style": "q2",
+       "t": "nuyi siif namoota kee duukaa jirra? jedhan;"
+      },
+      {
+       "style": "q2",
+       "t": "sanyii Maakiir keessaa warra"
+      },
+      {
+       "style": "q2",
+       "t": "loltoota ajajan,"
+      },
+      {
+       "style": "q2",
+       "t": "sanyii Zebuloon keessaa"
+      },
+      {
+       "style": "q2",
+       "t": "warra ulee aboo argisiisu"
+      },
+      {
+       "style": "q2",
+       "t": "baatantu dhufe."
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "t": "Gurguddoonni gosa Yisaakor Deboraa wajjin turan; Baaraaq dafee Yisaakor duukaa gara dachaatti gad in bu'e; gosi Ruuben garuu yeroo dheeraa itti yaadanii murtoo gochuu hin dandeenye.",
+     "alt": "፲፭",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Gurguddoonni gosa Yisaakor"
+      },
+      {
+       "style": "q2",
+       "t": "Deboraa wajjin turan;"
+      },
+      {
+       "style": "q2",
+       "t": "Baaraaq dafee Yisaakor duukaa"
+      },
+      {
+       "style": "q2",
+       "t": "gara dachaatti gad in bu'e;"
+      },
+      {
+       "style": "q2",
+       "t": "gosi Ruuben garuu yeroo dheeraa itti yaadanii"
+      },
+      {
+       "style": "q2",
+       "t": "murtoo gochuu hin dandeenye."
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "t": "Maaliif karra hoolotaa gidduu teessanii, mar'annaa isaanii dhaggeeffachuuf booddeetti haftan? Eyyee, gosi Ruuben yeroo dheeraa itti yaadanii murtoo gochuu hin dandeenye.",
+     "alt": "፲፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Maaliif karra hoolotaa gidduu teessanii,"
+      },
+      {
+       "style": "q2",
+       "t": "mar'annaa isaanii dhaggeeffachuuf"
+      },
+      {
+       "style": "q2",
+       "t": "booddeetti haftan?"
+      },
+      {
+       "style": "q2",
+       "t": "Eyyee, gosi Ruuben yeroo dheeraa"
+      },
+      {
+       "style": "q2",
+       "t": "itti yaadanii"
+      },
+      {
+       "style": "q2",
+       "t": "murtoo gochuu hin dandeenye."
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "t": "Warri Giil'aad laga Yordaanos irraa gara ba'a-biiftuu taa'an; gosi Daan maaliif markaba biratti hafan? Gosi Asheeris qarqara galaanaa lafa namatti tolu sanatti in hafan.",
+     "alt": "፲፯",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Warri Giil'aad laga Yordaanos irraa"
+      },
+      {
+       "style": "q2",
+       "t": "gara ba'a-biiftuu taa'an;"
+      },
+      {
+       "style": "q2",
+       "t": "gosi Daan maaliif markaba"
+      },
+      {
+       "style": "q2",
+       "t": "biratti hafan?"
+      },
+      {
+       "style": "q2",
+       "t": "Gosi Asheeris qarqara galaanaa lafa namatti tolu sanatti in hafan."
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "t": "Gosi Zebuloon saba du'aaf kutatee dha; gosi Niftaalemis lafa lolaatti gara-kuteeyyii turan.",
+     "alt": "፲፰",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Gosi Zebuloon saba du'aaf kutatee dha;"
+      },
+      {
+       "style": "q2",
+       "t": "gosi Niftaalemis lafa lolaatti gara-kuteeyyii turan."
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "t": "Mootonni dhufanii in lolan; yommus mootonni Kana'aanis mandara Ta'anaatti bishaan Megidoo biratti in lolan; garuu meetii, waan biraas tokko illee hin saamne.",
+     "alt": "፲፱",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Mootonni dhufanii in lolan;"
+      },
+      {
+       "style": "q2",
+       "t": "yommus mootonni Kana'aanis"
+      },
+      {
+       "style": "q2",
+       "t": "mandara Ta'anaatti bishaan Megidoo biratti in lolan;"
+      },
+      {
+       "style": "q2",
+       "t": "garuu meetii, waan biraas"
+      },
+      {
+       "style": "q2",
+       "t": "tokko illee hin saamne."
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "t": "Urjoonni waaqa keessaa itti in duulan, urjoonni toora isaanii irra jiran Siiseraa in lolan.",
+     "alt": "፳",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Urjoonni waaqa keessaa itti in duulan,"
+      },
+      {
+       "style": "q2",
+       "t": "urjoonni toora isaanii irra jiran Siiseraa in lolan."
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "t": "Bishaan Qiison, bishaan inni durii durii sun, isaan haree in sokke; egaa yaa mogolee ko jabaadhuu itti adeemi!",
+     "alt": "፳፩",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Bishaan Qiison, bishaan"
+      },
+      {
+       "style": "q2",
+       "t": "inni durii durii sun,"
+      },
+      {
+       "style": "q2",
+       "t": "isaan haree in sokke;"
+      },
+      {
+       "style": "q2",
+       "t": "egaa yaa mogolee ko jabaadhuu"
+      },
+      {
+       "style": "q2",
+       "t": "itti adeemi!"
+      }
+     ]
+    },
+    {
+     "n": 22,
+     "t": "Fardeen isaanii warri humna-qabeeyyiin dha'iidhaan didichanii in dhufan.",
+     "alt": "፳፪",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Fardeen isaanii warri humna-qabeeyyiin"
+      },
+      {
+       "style": "q2",
+       "t": "dha'iidhaan didichanii in dhufan."
+      }
+     ]
+    },
+    {
+     "n": 23,
+     "t": "Ergamaan Waaqayyoo, ?Biyya Meroz abaaraa! Warri ishee keessa jiraatanis, Waaqayyoon gargaaruudhaaf, loltoota gidduuttis gara isaa goruudhaaf waan isaan hin ba'iniif, cimsaatii isaan abaaraa!? jedhe.",
+     "alt": "፳፫",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Ergamaan Waaqayyoo,"
+      },
+      {
+       "style": "q2",
+       "t": "?Biyya Meroz abaaraa!"
+      },
+      {
+       "style": "q2",
+       "t": "Warri ishee keessa jiraatanis,"
+      },
+      {
+       "style": "q2",
+       "t": "Waaqayyoon gargaaruudhaaf,"
+      },
+      {
+       "style": "q2",
+       "t": "loltoota gidduuttis gara isaa goruudhaaf"
+      },
+      {
+       "style": "q2",
+       "t": "waan isaan hin ba'iniif,"
+      },
+      {
+       "style": "q2",
+       "t": "cimsaatii isaan abaaraa!? jedhe."
+      }
+     ]
+    },
+    {
+     "n": 24,
+     "t": "Yaa'el haati manaa Heber Qenichaa dubartoota keessaa haa jajamtu! Dubartoota godoo keessa jiraatan hundumaa caalaas eebbifamtuu haa taatu!",
+     "alt": "፳፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yaa'el haati manaa Heber Qenichaa"
+      },
+      {
+       "style": "q2",
+       "t": "dubartoota keessaa haa jajamtu!"
+      },
+      {
+       "style": "q2",
+       "t": "Dubartoota godoo keessa jiraatan hundumaa caalaas eebbifamtuu haa taatu!"
+      }
+     ]
+    },
+    {
+     "n": 25,
+     "t": "Siiseraan bishaan ishee kadhannaan, aannan kenniteef, itittuus qabee-unataa warra gurguddootaatti in dhi'eessiteef.",
+     "alt": "፳፭",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Siiseraan bishaan ishee kadhannaan,"
+      },
+      {
+       "style": "q2",
+       "t": "aannan kenniteef,"
+      },
+      {
+       "style": "q2",
+       "t": "itittuus qabee-unataa"
+      },
+      {
+       "style": "q2",
+       "t": "warra gurguddootaatti in dhi'eessiteef."
+      }
+     ]
+    },
+    {
+     "n": 26,
+     "t": "Harka ishee gara qofoo dunkaanichaatti hiixattee, harka ishee mirgaatiin immoo buruusa hojjetootaa fudhatte; rukuttaa buruusichaatiin mataa Siiseraa cabsitee, qofoo sana immoo illee isaa keessa baafte.",
+     "alt": "፳፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Harka ishee gara qofoo dunkaanichaatti hiixattee,"
+      },
+      {
+       "style": "q2",
+       "t": "harka ishee mirgaatiin immoo buruusa hojjetootaa fudhatte;"
+      },
+      {
+       "style": "q2",
+       "t": "rukuttaa buruusichaatiin mataa Siiseraa cabsitee,"
+      },
+      {
+       "style": "q2",
+       "t": "qofoo sana immoo illee isaa keessa baafte."
+      }
+     ]
+    },
+    {
+     "n": 27,
+     "t": "Yommus Siiseraan miilla Yaa'el jalatti gombifamee in kufe; achitti in jorga'e; inni miilla ishee jalatti gombifamee in kufe. Lafa gombifame sanatti kufee, lubbuun isaa keessaa in baate.",
+     "alt": "፳፯",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yommus Siiseraan miilla Yaa'el jalatti"
+      },
+      {
+       "style": "q2",
+       "t": "gombifamee in kufe;"
+      },
+      {
+       "style": "q2",
+       "t": "achitti in jorga'e;"
+      },
+      {
+       "style": "q2",
+       "t": "inni miilla ishee jalatti gombifamee in kufe."
+      },
+      {
+       "style": "q2",
+       "t": "Lafa gombifame sanatti kufee,"
+      },
+      {
+       "style": "q2",
+       "t": "lubbuun isaa keessaa in baate."
+      }
+     ]
+    },
+    {
+     "n": 28,
+     "t": "Haati Siiseraa karaa hulaa qaawwa xixinnoo keessaan gad ilaaltee, iyyitee ?Maaliif konkolaataan mucaa kootii dhufuu dide? Maaliif sagaleen konkolaattota isaatii hin dhaga'amu?? jette.",
+     "alt": "፳፰",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Haati Siiseraa karaa hulaa qaawwa xixinnoo keessaan gad ilaaltee,"
+      },
+      {
+       "style": "q2",
+       "t": "iyyitee ?Maaliif konkolaataan mucaa kootii dhufuu dide?"
+      },
+      {
+       "style": "q2",
+       "t": "Maaliif sagaleen konkolaattota isaatii hin dhaga'amu?? jette."
+      }
+     ]
+    },
+    {
+     "n": 29,
+     "t": "Giiftoliin beektoonni ishee wajjin turan, gaaffii isheetiif deebii in kennan; isheen immoo irra deddeebitee ofii isheetti dubbattee,",
+     "alt": "፳፱",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Giiftoliin beektoonni"
+      },
+      {
+       "style": "q2",
+       "t": "ishee wajjin turan,"
+      },
+      {
+       "style": "q2",
+       "t": "gaaffii isheetiif deebii in kennan;"
+      },
+      {
+       "style": "q2",
+       "t": "isheen immoo irra deddeebitee"
+      },
+      {
+       "style": "q2",
+       "t": "ofii isheetti dubbattee,"
+      }
+     ]
+    },
+    {
+     "n": 30,
+     "t": "?Namoota isaa wajjin boojuu argatanii hirmaachuutti jiru mitii? Boojuu argatan sana keessaa adduma addaan dubartii tokko tokko yookiis lama lama, Siiseraadhaaf uffata mimmiidhagaa, anaaf immoo uffata hodhame dotteeffame, akkasumas morma kootiif uffata kuula baay'ee qabu in hirmaatu? jette.",
+     "alt": "፴",
+     "lines": [
+      {
+       "style": "p",
+       "t": "?Namoota isaa wajjin boojuu argatanii hirmaachuutti jiru mitii?"
+      },
+      {
+       "style": "q2",
+       "t": "Boojuu argatan sana keessaa"
+      },
+      {
+       "style": "q2",
+       "t": "adduma addaan"
+      },
+      {
+       "style": "q2",
+       "t": "dubartii tokko tokko yookiis"
+      },
+      {
+       "style": "q2",
+       "t": "lama lama,"
+      },
+      {
+       "style": "q2",
+       "t": "Siiseraadhaaf uffata mimmiidhagaa,"
+      },
+      {
+       "style": "q2",
+       "t": "anaaf immoo uffata hodhame dotteeffame,"
+      },
+      {
+       "style": "q2",
+       "t": "akkasumas morma kootiif uffata kuula baay'ee qabu in hirmaatu? jette."
+      }
+     ]
+    },
+    {
+     "n": 31,
+     "t": "Yaa Waaqayyo diinonni kee akkasuma haa badan! Warri si jaallatan garuu, akka biiftuu humna ishee guutuudhaan baatee ibsituu haa ta'an! Kana booddee biyyattiin waggaa afurtamaaf gabiitti in jiraatte.",
+     "alt": "፴፩",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yaa Waaqayyo diinonni kee"
+      },
+      {
+       "style": "q2",
+       "t": "akkasuma haa badan!"
+      },
+      {
+       "style": "q2",
+       "t": "Warri si jaallatan garuu,"
+      },
+      {
+       "style": "q2",
+       "t": "akka biiftuu humna ishee guutuudhaan"
+      },
+      {
+       "style": "q2",
+       "t": "baatee ibsituu haa ta'an! Kana booddee biyyattiin waggaa afurtamaaf gabiitti in jiraatte."
+      }
+     ]
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 5",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Faarfannaa Deboraa Fi Baaraaq Faarfatan",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Sabni Israa'el ammoo Waaqayyo duratti waan hamaa in hojjetan; kanaafis Waaqayyo dabarsee waggaa torbaaf harka warra Miidiyaanitti isaan kenne.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Qabaan warra Miidiyaan Israa'elitti waan jabaateef, sabni Israa'el isaan duraa miliquudhaaf boolla, holqaa fi da'oo jabaa tulluu irratti in qopheeffatan.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommuu warri Israa'el midhaan facaafatan, warri Miidiyaan, warri Amaaleqii fi warri gara ba'a-biiftuu jiraatan dhufanii biyya Israa'el in rukutu turan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Fuullee isaanii buufatanii wanta lafti isaanii baasu hamma naannoo mandara Gaazaatti in balleessu turan; akkasumas horii isaan ittiin jiraatan hoolaa, sa'a yookiis harree isaaniif hin hambifne.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Isaan dunkaanota isaanii fudhatanii horii isaanii ooffatanii akka gurmuu hawaannisaatti waan dhufaniif, namoota isaaniitii fi gaalota isaanii lakkaa'uun hin danda'amu ture; akkasitti biyyattii saamuudhaaf itti in duulan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Warri Miidiyaan Israa'eloota hiyyoomsanii gad waan deebisaniif, sabni Israa'el Waaqayyoon gargaarsa in kadhatan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Yommus sabni Israa'el waa'ee kanaaf warra Miidiyaan irratti Waaqayyoon in kadhatan.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Waaqayyo immoo raajii isaanitti in erge; raajichis isaaniin, ?Waaqayyo gooftaan saba Israa'el, ?Ani biyya Gibxii lafa isin garbummaatti turtan keessaa isin baaseera.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Harka warra Gibxii keessaa isin furee, warra isin cunqursan hundumaas isin oolche; fuula keessan duraa ari'ee isaan baasee, biyya isaaniis isiniif kenneera.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Ani Waaqayyo gooftaa keessan; isin warri biyya Amoorotaa keessa teessan, waaqayyolii isaanii akka hin sodaanne isin abboomeen ture; isin garuu anaaf dhaga'uu in diddan? jedheera? jedhe.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Yommus ergamaan Waaqayyoo dhufee qilxuu mandara Ofraa bukkee jiru tokko jala taa'e; lafichis kan Yo'aas nama sanyii Abii'ezer ture; yeroo sanatti Giidewon ilmi Yo'aas warra Miidiyaan jalaa dhokfachuudhaaf iddoo waynii cuunfanitti qamadii in dha'a ture.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Ergamaan Waaqayyoo sun Giidewonitti mul'atee, ?Yaa loltuu jagna nana! Waaqayyo sii wajjin jira!? jedheen.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Giidewon immoo deebiseefii, ?Yaa gooftaa ko! Waaqayyo nuu wajjin utuu jiraatee, maaliif wanti kun hundinuu nutti dhufa ree? Hojiin isaa inni dinqisiisaan inni abboonni keenya, ?Waaqayyotu ittiin biyya Gibxii nu baase? jedhanii nutti himaa turan meerre ree? Amma garuu Waaqayyo nu gatee harka warra Miidiyaanitti dabarsee nu kenne? jedheen.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Waaqayyos Giidewonitti dhi'aatee, ?Ati humna qabdu kanaan dhaqi! Israa'elin harka warra Miidiyaan jalaa akka baaftuuf ani si ergeera? jedhe.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Giidewon immoo, ?Yaa gooftaa ko, attamittan Israa'elin oolcha ree? Qomoon koo sanyii Minaasee keessaa qomoo xinnoo dha, ani mana abbaa kootiittis quxisuu dha? jedheen.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Kana irratti Waaqayyo deebiseefii, ?Ani sii wajjin waanan jiruuf, akka nama nama tokko rukututti warra Miidiyaan in rukutta? jedheen.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Giidewon immoo deebisee, ?Ani si duratti faara argadheera yoon ta'e, inni anatti dubbachaa jiru dhuguma si ta'uu isaa kanan ittiin beeku milikkita na argisiisi!",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Hamma ani deebi'ee kennaa midhaanii fidee siif dhi'eessutti hadaraa asii hin adeemin!? jedhe; gooftichis, ?Hamma ati deebitutti nan tura? jedheen.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Yommus Giidewon gara mana isaa dhaqee xobbaallaa reettii tokko qalee affeelee, daakuu safartuu tokkos fuudhee maxinoo tolche; foonicha gundoo irra kaa'ee, bishaan foonichaa xuwweetti naqee fidee, qilxuu jalatti gooftichaaf aarsaa in dhi'eesse.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Ergamaan Waaqayyoos Giidewoniin, ?Foonichaa fi maxinicha fuudhiitii dhagaa kana irra kaa'i, bishaan foonichaas irratti dhangalaasi!? jedhe; Giidewonis akkuma ergamichi jedhe in godhe.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Ergamaan Waaqayyoo sun ulee harka isaa keessa ture ol kaasee fiixee isaatiin foonichaa fi maxinicha in tuqe; achumaan dhagicha keessaa ibiddi boba'ee foonichaa fi maxinicha gubee in fixe; kana booddee ergamichi Giidewon duraa in sokke.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Ergamaa Waaqayyoo ta'uu isaa yommuu hubates Giidewon, ?Yaa Waaqayyo gooftaa ko, ani ergamaa kee dura dhaabadhee ija kootiin isa argeera, anaaf wayyoo!? jedhe.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Waaqayyo immoo, ?Nagaa dha'o, hin sodaatin hin duutu!? jedheen.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Giidewonis achitti Waaqayyoof iddoo aarsaa ijaaree, maqaa isaas, ?Nagaan kan Waaqayyoo ti? jedhee moggaase; iddoon aarsaa kun hamma har'aatti iyyuu mandara Ofraa isa kan sanyii Abii'ezer sana keessa jira.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Halkanuma sanatti Waaqayyo Giidewoniin, ?Iddoo aarsaa isa abbaan kee Ba'aal Waaqayyo tolfamaadhaaf ijaare diigi, utubaa Asheeraa waaqayyittii tolfamtuu isa naannoo iddoo aarsaa sanaa jirus muri! Tuntunoo abbaa keetii isa lammaffaa isa waggaa torba guute sana immoo qalma dhi'eessuudhaaf fuudhi!",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Da'oo kattaa ol jedhaa sana irratti Waaqayyo gooftaa keetiif iddoo aarsaa tooraan ijaari! Tuntunoo isa lammaffaa sana fuudhii qalii, qoraan utubaa Asheeraa isa murte sanaatiin qalma gubamu dhi'eessi!? jedhe.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Kana irratti Giidewon hojjetoota isaa keessaa nama kudhan fudhatee, isa Waaqayyo isatti hime in raawwate; garuu qomoo isaatii fi warra mandara sana keessa jiraatan waan sodaateef, kana guyyaa utuu hin ta'in halkan in hojjete.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Warri mandarichaa ganama obboroodhaan yommuu ka'an iddoon aarsaa Ba'aal diigamuu isaa, utubaan Asheeraa inni naannoo iddoo aarsaa tures muramuu isaa, tuntunoon tokkos iddoo aarsaa isa haaraa ijaarame irratti gubamuu isaa in baran.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Kana irratti namoonni, ?Kana kan godhe eenyuma laata?? jedhanii wal gaggaafatan; iyyaafatanii ba'eessa godhanii qoratanii, ?Giidewon ilma Yo'aastu kana godhe? kan jedhu bira in ga'an.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Warri mandarichaa Yo'aasiin, ?Ilmi kee iddoo aarsaa Ba'aal diigee, utubaa Asheeraa isa naannoo iddoo aarsaa sanaa tures waan mureef, ajjeefamuun isa irra jiraatii gad nuuf baasi!? jedhan.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Yo'aas garuu warra isatti naanna'anii dhaabatan hundumaan, ?Ba'aaliif isintu falmaa? Yookiis isintu isaaf birmataa? Namni isaaf falmu hundinuu bor ganama asitti haa ajjeefamu! Ba'aal immoo Waaqayyo yoo ta'e, isa namni iddoo aarsaa isaa diigeef haa falmatu!? jedhe.",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "Guyyaa sanaa jalqabee Giidewon ?Yiruub-Ba'aal? jedhamee in waamame, ?Yiruub-Ba'aal? jechuun, ?Ba'aal haa falmatu!? jechuu dha; kunis sababii namni iddoo aarsaa isaa diigeef akkas jedhame.",
+     "alt": "፴፪"
+    },
+    {
+     "n": 33,
+     "t": "Yommus warri Miidiyaan, warri Amaaleqii fi warri gara ba'a-biiftuu jiraatan walii wajjin laga Yordaanos ce'anii, dachaa Yizre'el keessa in buufatan.",
+     "alt": "፴፫"
+    },
+    {
+     "n": 34,
+     "t": "Hafuurri Waaqayyoo waan isa irra buufateef, Giidewon fiingee lolaa in afuufe; qomoon Abii'ezer immoo walitti qabamanii isa duukaa in bu'an.",
+     "alt": "፴፬"
+    },
+    {
+     "n": 35,
+     "t": "Guutummaa gosa Minaaseetti erginaan, isaanis walitti qabamanii isa duukaa in bu'an; akkasumas gosa Asheeritti, gosa Zebuloonii fi gosa Niftaalemitti in erge; isaanis ba'anii warra ka'anitti in dabalaman.",
+     "alt": "፴፭"
+    },
+    {
+     "n": 36,
+     "t": "Giidewon yommus Waaqayyoon, ?Saba Israa'el harka kootiin akka oolchituuf ati dubbatteetta;",
+     "alt": "፴፮"
+    },
+    {
+     "n": 37,
+     "t": "kunoo, ani rifeensa hoolaa oobdii keessa nan kaa'a, lafti hundinuu gogaa ta'ee, rifeensicha hoolaa irra fixeensi yoo bu'eef, saba Israa'el harka kootiin akka ati oolchitu nan beeka? jedhe.",
+     "alt": "፴፯"
+    },
+    {
+     "n": 38,
+     "t": "Wanti kunis akkuma inni jedhe ta'e; Giidewonis borumtaa isaa ganameeffatee ka'ee, bishaan willee tokko guutuu rifeensicha keessaa cuumfee baase.",
+     "alt": "፴፰"
+    },
+    {
+     "n": 39,
+     "t": "Ammas Giidewon Waaqayyoon, ?Al tokko immoo dubbadhee irratti nan ilaalaatii, hadaraa aariin kee ana irratti hin boba'in! Amma immoo rifeensichi duwwaan gogaa haa ta'u, lafa hundumaa irratti garuu fixeensi akka bu'u godhi!? jedhe.",
+     "alt": "፴፱"
+    },
+    {
+     "n": 40,
+     "t": "Halkan sanattis Waaqayyo akkuma inni jedhe lafa hundumaa irra fixeensi akka buufatu rifeensichi duwwaan garuu gogaa akka ta'u in godhe.",
+     "alt": "፵"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 6",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Giidewon Saba Israa'el Rakkina Jalaa Baasuudhaaf Waamamuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Giidewon, inni ?Yiruub-Ba'aal? jedhame, warri isaa wajjin turanis ganamaan ka'anii, burqaa Haarod bira in buufatan; buufanni warra Miidiyaan immoo tulluu Mooree irraa gara bitaatti dachaa keessa ture.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Waaqayyo yommus Giidewoniin, ?Namoonni sii wajjin jiran waan baay'ataniif, warra Miidiyaan harka isaaniitti dabarsee hin kennu; yoon kenne immoo Israa'eloonni, ?Humna keenyaan of oolchine? jedhanii ana irratti of in jaju.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Ammas namootatti lallabiitii, ?Namni isin keessaa sodaatee lapheen isaa sirbu tulluu Giil'aad irraa ka'ee gara manaatti haa deebi'u!? jedhi!? jedhe; yommus jara sana keessaa namoonni kumni digdamii lama gara manaatti deebi'an, namoonni kumni kudhan immoo achitti in hafan.",
+     "alt": "፫",
+     "refs": [
+      {
+       "origin": "7:3",
+       "target": "Kes 20:8."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "t": "Waaqayyo ammas Giidewoniin, ?Amma iyyuu namoonni sii wajjin jiran in baay'atan; gara laga bishaaniitti isaan geessi, anis achitti gargar siif nan fo'a; namni ani, ?Sii wajjin haa dhaqu!? jedhu, haa dhaqu! Inni ani, ?Sii wajjin hin dhaqin!? jedhu immoo, hin dhaqin!? jedhe.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Giidewon namoota gara bishaaniitti in geesse; Waaqayyo immoo, ?Nama akka sareetti arraba isaatiin bishaan dhuguu fi nama jilbeenfatee dhugu gargar baasi!? jedheen.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Lakkoobsi namoota harka isaanii keessaa arraba isaaniitiin bishaan dhuganii dhibba sadii ture; warri hafan hundinuu garuu jilbeenfatanii in dhugan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Waaqayyos Giidewoniin, ?Namoota dhibba sadan warra arraba isaaniitiin bishaan dhugan sanaan Israa'elin harka warra Miidiyaan nan oolcha, warra Miidiyaan immoo harka kee keessa nan buusa; dhibbi sadan sun duwwaan haa hafan malee, warri kaan hundinuu lafa dhufanitti haa deebi'an!? jedhe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Kana irratti Giidewon galaa isaaniitii fi fiinoo isaanii harkaa fuudhee gara mana mana isaaniitti isaan deebise; warra dhibba sadan sana garuu of biratti in hambifate; buufanni warra Miidiyaan immoo tulluu inni irra ture gad-jallaa dachaa keessa ture.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Waaqayyo halkanuma sanatti Giidewoniin, ?Buufata isaanii harka kee keessa waanan buusuuf, ka'iitii itti duuluudhaaf gad bu'i!",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Buufata isaaniitti duuluu yoo sodaatte garuu dura naa'oo kee isa ?Phuraa? jedhamuu wajjin gad bu'i!",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Waan isaan jedhan erga dhageessee booddee, buufata isaaniitti duuluudhaaf humna in argatta? jedhe; yommus Giidewon naa'oo isaa Phuraa wajjin gara loltoota daarii buufata warra Miidiyaan jiraniitti gad in bu'e.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Warri Miidiyaan, warri Amaaleqii fi warri gara ba'a-biiftuu jiraatan akka gurmuu hawaannisaatti baay'atanii dachaa keessa buufatanii turan; baay'inni gaalota isaaniis akka cirracha qarqara galaanaa lakkoobsa hin qabu ture.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Giidewon iddoo buufatichaa yommuu ga'etti, namni tokko hiriyaa isaatti abjuu in himata ture; innis, ?Kunoo, bixxilleen garbuu tokko konkolaachaa gara buufata warra Miidiyaanitti gad in dhufe; innis dunkaana tokkotti bu'ee, buqqisee in gara galche; kana irratti dunkaanichi in kufe? jedhe.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Hiriyaan isaas, ?Kun billaa Giidewon ilma Yo'aas nama Israa'elitti hiikama malee, waan biraatti hin hiikamu; Waaqayyo akkasitti warra Miidiyaanii fi loltoota isaanii hundumaa harka isaatti dabarsee kennuu isaa ti? jedhee deebiseef.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Giidewon abjichaa fi hiikaa isaa yommuu dhaga'e, Waaqayyoon in galateeffate; gara loltoota Israa'elitti deebi'ees isaaniin, ?Loltoota warra Miidiyaan Waaqayyo harka keessanitti dabarsee waan kenneef, ka'aa!? jedhe.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Jarreen dhibba sadan sanas iddoo sadiitti hiree, fiingeedhaa fi huuroo duwwaa guca of keessaa qabu tokko tokko hunduma isaaniitti in kenne.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Giidewonis, ?Na ilaalaatii, daarii buufatichaa yommuun ga'u waanan hojjedhu isinis immoo hojjedhaa!",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Anii fi namoonni anaa wajjin jiran fiingee yommuu afuufnu, isinis immoo naannoo buufatichaa hundumaatti fiingee afuufaatii, ?Waaqayyoof! Giidewoniif!? jedhaatii iyyaa!? jedhee jara abboome.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Giidewonii fi namoonni dhibbi tokko warri isaa wajjin turan yeroo kutanni halkan eegu inni lammaffaan geddaramutti gara daarii buufatichaa dhufanii fiingee isaanii afuufanii huuroo harkatti baatanis in caccabsan.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Akkasuma kutanni sadanuu fiingee isaanii afuufanii huuroo isaaniis caccabsanii, harka isaanii bitaatiin guca, isa mirgaatiin immoo fiingee qabatan afuufanii, ?Lolli kan Waaqayyoo ti! Lolli kan Giidewon!? jedhanii in iyyu turan.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Hundumti isaanii buufata sanatti naanna'anii iddoo qabatanii waan dhaabataniif, loltoonni achi buufatan hundinuu baqatanii iyyaa sokkan.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Namoonni Giidewon dhibbi sadanuu fiingee isaanii yeroo afuufanitti Waaqayyo akka loltoonni Miidiyaan walii isaaniitti ka'an in godhe; isaan billaadhaan walii isaanii rukutanii gara mandara Bet-Shitaahitti, gara mandara Zereeraatti hamma daarii Abeel Meholaatti isa Xabaat bukkee jirutti in baqatan.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Yommus namoonni Israa'el sanyii Niftaalem, sanyii Asheerii fi sanyii Minaasee hundumaa keessaa waamamanii warra Miidiyaan ari'uuf in ba'an.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Giidewon biyya gaara Efreem gubbaa warra jiraatan hundumaatti namoota ergee, ?Kottaa gara warra Miidiyaanitti gad bu'aatii fuullee isaaniitiin hamma Bet-Baraatti karaa bishaanii fi malkaa Yordaanos duraa qabadhaa!? jedhe; namoonni Efreemis hundinuu wal duukaa ba'anii hamma Bet-Baraatti karaa bishaanii fi malkaa Yordaanos in qabatan.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Warra Miidiyaan ari'anii, Oreebii fi Ze'eebin gurguddoota Miidiyaan lamaan booji'anii, Oreebin kattaa isa maqaa isaatiin ?Kattaa Oreeb? jedhamee moggaafame biratti Ze'eebin immoo iddoo cuunfaa waynii isa maqaa isaatiin ?Ze'eeb? jedhamee moggaafame biratti in ajjeesan; mataa Oreebii fi mataa Ze'eeb kutanii Yordaanos gamatti Giidewonitti in geessan.",
+     "alt": "፳፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 7",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Giidewon Warra Miidiyaan Rukutuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ergasii namoonni Efreem, ?Ati warra Miidiyaan loluudhaaf yommuu baate maaliif nu waamuu didde? Maaliif akkas nu goote?? jedhanii Giidewonin cimsanii in lolan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Inni garuu deebisee, ?Ani hamma keessan hojjedheeraa ree? Qarmiin ija waynii sanyiin Efreem funaanan isa sanyiin Abii'ezer guutummaatti ciranii galchan in caala mitii ree?",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Waaqayyo immoo Oreebii fi Ze'eebin gurguddoota Miidiyaan harka keessan keessa buuseera; ani garuu hamma isin hojjettan kana maalan hojjedhe ree?? jedhe; dubbii akkasii yeroo inni isaanitti dubbatetti, aariin isaanii irraa in gale.",
+     "alt": "፫",
+     "refs": [
+      {
+       "origin": "8:3",
+       "target": "Far 83:11."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "t": "Giidewonii fi jarreen dhibbi sadan isaa wajjin turan hamma laga Yordaanositti adeemanii, lagicha in ce'an; utuma dadhabanii iyyuu diinota isaanii ari'uu ittuma in fufan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Mandara Suukoot yommuu ga'an, Giidewon namoota achi jiraataniin, ?Jarreen ana duukaa jiran kun dadhabaniiru, hadaraa buddeena kennaaf! Ani immoo Zebaa fi Zalmunaa mootota Miidiyaan hordofuuttan jira? jedhe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Gurguddoonni Suukoot immoo deebisanii, ?Loltoota keetiif buddeena akka kenninuuf Zebaa fi Zalmunaa harka kee jala galfatteettaa ree?? jedhaniin.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Giidewon kana irratti, ?Waaqayyo yommuu Zebaa fi Zalmunaa harka koo keessa buusutti, ani qoraattii caakkaatiin, kombolchaanis isin reebee dhagna keessan nan kukkuta? jedheen.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Achii immoo ba'ee gara mandara Pheeni'el dhaqee namoota isaatiif buddeena in gaafate; namoonni Pheeni'elis akkuma warra Suukootitti deebii in deebisaniif.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Kana irratti Giidewon namoota Pheeni'eliin, ?Nagaadhaan yommuun deebi'u riqaa kana nan jigsa? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Yeroo sanatti Zebaanii fi Zalmunaan loltoota isaanii gara nama kuma kudha shanii wajjin iddoo ?Qarqor? jedhamu tokko turan; isaan hundinuu loltoota warra gara ba'a-biiftuu jiraatanii keessaa kan hafan turan; lola keessatti kan dhuman immoo namoota kumaatama dhibba tokkoo fi kuma digdama turan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Giidewon kana booddee Nobaa fi Yogbihaaraa gara ba'a-biiftuutiin daandii kara-adeemtuu irra dhaqee, loltoota bir'aa malee taa'an sana in rukute.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Mootonni warra Miidiyaan lamaan Zebaanii fi Zalmunaan in baqatan; Giidewon garuu duukaa bu'ee isaan in booji'e; kana irraa kan ka'es loltoonni Miidiyaan sun sodaatanii lapheen isaanii in sirbe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yommus Giidewon ilmi Yo'aas iddoo lolaa sanaa karaa Haaresitti ol ba'u irra gad in bu'e.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Namoota Suukoot keessaa dargaggeessa tokko qabee isa irraa in qorate; innis maqaa gurguddoota mandara Suukootii fi maanguddoota ishee kan nama torbaatamii torbaa in caafeef.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Giidewon ammoo gara Suukoot dhaqee namoota isheetiin, ?Zebaanii fi Zalmunaan warri isin waa'ee isaaniitiif anatti ga'iftanii, ?Namoota kee warra dadhabaniif buddeena akka kenninuuf Zebaa fi Zalmunaa harka kee jala galfatteettaa ree?? jettan kunoo ti!? jedheen.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Maanguddoota Suukoot warra hojii mandaraa geggeessan qabee, qoraattii caakkaatiin, kombolchaanis guddisee isaan in reebsise.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Akkasuma immoo riqaa Pheeni'el jigsee, namoota mandarichaas in ajjeesise.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Giidewon yommus Zebaa fi Zalmunaadhaan, ?Namoota attamii Taaboritti ajjeeftan?? jedhee in gaafate; isaan immoo deebisanii, ?Si fakkaatu, bifni isaaniis bifa ijoollee mootii in fakkaata? jedhaniin.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Giidewon deebisee, ?Isaan obboloota koo haadhoowwan koo turan; dhugaa Waaqayyoo isa jiraataa ti! Utuu isin isaan hin ajjeefne ta'ee, anis isin hin ajjeesuun ture!? isaaniin jedhe.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Inni achumaan Yeter ilma isaa isa angafaan, ?Ka'iitii jara kana ajjeesi!? jedhe; Yeter garuu mucaa waan tureef, in sodaate, billaa isaas hin luqqifanne.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Zebaanii fi Zalmunaan, ?Humni namaa hammuma abbichaa ga'a, kanaaf ati ofii keetii ka'iitii nu rukuti!? jennaan, Giidewon ka'ee isaan ajjeese; saakura morma gaalota isaaniitti tures ittii in fudhate.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Ergasii namoonni Israa'elis Giidewoniin, ?Harka warra Miidiyaan jalaa waan nu baafteef, ati, ilmi kee fi ilmi ilma keetii nu irratti mo'aa!? jedhan.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Giidewon garuu deebisee, ?Waaqayyo isin irratti haa mo'u malee, ani isin irratti hin mo'u, ilmi koos isin irratti hin mo'in!? jedheen.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Itti fufees, ?Waanan isin gaafadhu tokko qaba, innis hundumti keessan boojuu keessan keessaa amartii gurraa akka anaaf kennitanii dha? jedhe; amartii warqee gurratti kaa'achuun aadaa Ishmaa'eloota warra booji'aman sanaa ture.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Kanaaf isaan, ?Gammachuudhaan in kennina? jedhanii deebisaniif; isaan wayyaa lafa afanii adduma addaan waan booji'an keessaa amartii gurraa irra in bubbuusan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Amartiin warqee Giidewon gaafatee fudhate sheeqelii kuma tokkoo fi dhibba torba; innis akka kiilo graamii digdamaa in miijana ture; kana malees mi'a miidhaginaa, callee garaa garaa, uffannaa dhiilgee mootonni warra Miidiyaan uffatanii fi saakura morma gaalotaa isaaniitti baafate argatee ture.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Giidewon amartiiwwan warqee sana bifa dirata qomaatiin tolchee mandara isaa ishee ?Ofraa? jedhamtu keessa in kaa'e; Israa'eloonni hundinuu garuu Waaqayyoof amanamuu dhiisanii bifa sanaaf sagaduutti gara galan; bifni kun Giidewonii fi maatii isaatti iyyuu kiyyoo in ta'e.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Warri Miidiyaan harka Israa'elootaa jala erga galanii deebi'anii mataa isaanii ol hin qabanne; bara Giidewon keessa biyyichi waggaa afurtamaaf gabiitti in jiraate.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Giidewon ilmi Yo'aas inni ?Yiruub-Ba'aal? jedhame deebi'ee mana isaatti galee taa'e.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Inni dubartoota baay'ee fuudhee, ilmaan torbaatama in godhate.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Saajjatoon isaa isheen Sheekem turtes ilma in deesseef; inni immoo maqaa mucichaa ?Abiimelek? jedhee moggaase.",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "Giidewon ilmi Yo'aas jireenya gaarii jiraatee dulloomee in du'e; mandara Ofraa isa kan Abii'ezer keessatti lafa awwaala abbaa isaatiitti in awwaalame.",
+     "alt": "፴፪"
+    },
+    {
+     "n": 33,
+     "t": "Giidewon erga du'ee Israa'eloonni ammoo Waaqayyoof amanamuu dhiisanii Ba'aal waaqayyolii tolfamoof sagaduutti gara galan; isaan keessaa immoo ?Ba'aal Kakuu? jedhanii Waaqayyo isaanii in godhatan.",
+     "alt": "፴፫"
+    },
+    {
+     "n": 34,
+     "t": "Israa'eloonni Waaqayyoon gooftaa isaanii isa harka diinota naannoo isaanii jiran hundumaa keessaa isaan fure deebi'anii hin yaadanne.",
+     "alt": "፴፬"
+    },
+    {
+     "n": 35,
+     "t": "Akkasumas gaarummaa Giidewon inni ?Yiruub-Ba'aal? jedhame isaaniif godhe hundumaaf maatii isaatti iyyuu waan tolaa hin dubbanne.",
+     "alt": "፴፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 8",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warri Miidiyaan Raawwatanii Mo'amuu Isaanii",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Giidewon Erga Du'ee Israa'eloonni Waaqayyoon Irraanfachuu Isaanii",
+     "before": 29
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Abiimelek ilmi Giidewon isa ?Yiruub-Ba'aal? jedhamee, eessumman isaa fi qomoo haadha isaatii warra Sheekem keessa jiraatan hundumaa bira dhaqee,",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "?Warra mandara Sheekem keessa jiraatan hundumaa, ?Ilmaan Yiruub-Ba'aal torbaatamman akkuma jiranitti isin irratti mo'uu moo yookiis namni tokkichi duwwaan isin irratti mo'uu isiniif wayyaa?? jedhaatii gaafadhaa! Isin immoo ani dhiiga keessan foon keessan ta'uu koo yaadadhaa!? jedheen.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus eessumman isaa waa'ee Abiimelekiif dubbii kana hundumaa warra mandaricha keessa jiraatanitti in dubbatan; kana irratti warri mandara sanaa, yaadni isaanii isa duukaa jal'atee, ?Inni obboleessa keenya? jedhan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Galma Ba'aal-Kakuu keessaa birrii torbaatama fuudhanii Abiimelekiif in kennan; inni immoo horii kanaan namoota gatii hin qabnee fi namoota bor na-dhibaa hin beekne bitatee of duukaa in buuse.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Gara mana abbaa isaa isa mandara Ofraa keessaa dhaqee, obboloota isaa ilmaan Yiruub-Ba'aal torbaatamman kattaa tokko irratti in fixe; isaan keessaa Yotaam inni quxisuun garuu dhokatee in hafe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Ergasii warri Sheekemii fi warri Bet-Miiloo hundinuu walitti qabamanii qilxuu Sheekem keessa jiru jalatti Abiimelekin in moosifatan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Dubbii kana Yotaamitti yommuu himanitti inni roggee tulluu Geriiziimitti ol ba'ee, sagalee guddaadhaan iyyee, ?Yaa warra Sheekem! Isin anaaf dhaga'aa! Yoos Waaqayyo immoo isiniif in dhaga'a.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Al tokko mukkeetiin mootii moosifachuuf ba'anii, ejersaan, ?Nu irratti mo'i!? jedhan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Ejersi immoo, ?Mukkeetii irra adeemee isaan bulchuudhaaf, attamittan dibata koo isa waaqayyoliinii fi namoonni ittiin ulfina argatan baasuu dhiisa ree?? jedhee deebiseef.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Yommus mukkeetiin sun harbuudhaan, ?Kottuu ati nu irratti mo'i!? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Harbichis, ?Ani mukkeetii irra adeemee isaan bulchuudhaaf attamittan ija isa miyaa'aadhaa fi isa gaarii kana godhachuu dhiisa ree?? jedheen.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Amma immoo mukkeetiin sun wayniidhaan, ?Kottuu ati nu irratti mo'i!? jedhan.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Wayniinis, ?Ani mukkeetii irra adeemee isaan bulchuudhaaf attamittan ija isa daadhiin isaa waaqayyolii fi namoota gammachiisu kana kennuu dhiisa ree?? isaaniin jedhe.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yommus mukkeetiin hundinuu laaftoodhaan, ?Kottuu ati nu irratti mo'i!? jedhan.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Laaftoonis, ?Dhugumaan dibdanii of irratti na moosiftu yoo taataniif, kottaatii gaaddisa koo jalatti kooluu galaa! Akkana yoo ta'uu dhabaate garuu ibiddi qoraattii koo keessaa ba'ee gaatirraa Liibaanon xaph haa godhu!? jedheen.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "?Ammas Abiimelekin moosisuun keessan kun amanamuudhaan, garaa guutuudhaanis yoo ta'e, akkuma Yiruub-Ba'aal isiniif godhe, isinis isaaf maatii isaatiif akka ta'utti gaarii gootaniifii yoo jiraattan ba'eessa.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Abbaan koo hamma lubbuu isaa gatutti isiniif lolee harka warra Miidiyaan keessaa akka isin fures yaadadhaa!",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Isin garuu har'a mana abbaa kootii irratti kaatanii ilmaan isaa torbaatamman kattaa tokko irratti fixxanii, Abiimelekin isa garbittii irraa dhalate obboleessa keessan waan ta'eef, warra Sheekem irratti moosiftan.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Amma immoo wanta har'a Yiruub-Ba'aalii fi maatii isaatiif gootan amanamuudhaa fi garaa guutuudhaan gootan yoo ta'e, Abiimelekitti gammadaa, innis isinitti haa gammadu!",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Wanti isin gootan hamaadhaaf yoo ta'e garuu, Abiimelek biraa ibiddi ka'ee warra Sheekemiif warra Bet-Miiloo gubee haa fixu! Akkasumas ibiddi warra Sheekemiif warra Bet-Miiloo biraa ka'ee Abiimelekin gubee haa fixu!? jedhe.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Yotaamis obboleessa isaa Abiimelek duraa baqatee sokkee iddoo ?Be'er? jedhamu tokkotti galee in taa'e.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Abiimelek Israa'el irratti waggaa sadii in mo'e.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Kana booddee garuu Waaqayyo hafuura hamaa yaada Abiimelekii fi warra Sheekem gargar baasu isaanitti in erge; kana irratti warri Sheekem haxxummaadhaan Abiimelek irratti in ka'an.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Abiimelekii fi warri Sheekem ilmaan Yiruub-Ba'aal torbaatamman irratti humnaan ka'anii, dhiiga isaanii waan dhangalaasaniif, kun isaanitti dhufe; kanaanis hojiin inni hamaan mataa Abiimelek obboleessa isaanii isa isaan fixee fi mataa warra Sheekem warra ajjeechaa sana keessatti isa gargaaranitti in deebi'e.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Kanaaf warri Sheekem Abiimelekitti dubbii kaasuudhaaf namoota roggee tulluu irra riphanii eeggatan in kaa'an; namoonni sunis warra karaa sana irra darban hundumaa in saamu turan; kana gochuun isaanii Abiimelekitti in himame.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Yommus namichi ?Ga'aal? jedhamu ilmi Ebeed tokko obboloota isaa wajjin dhufee, Sheekemitti in gale; warri Sheekemis isa in amanan.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Isaanis gara iddoo dhaabaa waynii isaaniitti ba'anii ija waynii ciranii cuumfanii in ayyaaneffatan; galma waaqayyolii isaaniitti ol galanii, nyaatanii dhuganii Abiimelekin in salphisan.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Kana gidduutti Ga'aal ilmi Ebeed, ?Abiimelek eenyu? Nuyi warri Sheekem warri isaaf hojjennu moo eenyufa'i? Inni ilma Yiruub-Ba'aal; Zebul immoo isaa gaditti ajaja mitii ree? Isin egaa warra namoota sanyii Hamoor abbaa Sheekem keessaa ka'aniif hojjedhaa malee, nuyi maaliif Abiimelekiif hojjenna ree?",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Sabni kun utuu anaaf in abboomama ta'ee, Abiimelekiin, ?Loltoota hamma qabdu fudhadhuutii lolaaf ba'i!? jedhee, teessoo isaa irraa isa nan buusan ture? jedhe.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Zebul inni mandaricha bulchu wanta Ga'aal ilmi Ebeed jedhe yommuu dhaga'e aaree in boba'e.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Abiimelekittis malaan namoota ergee, ?Kunoo Ga'aal ilmi Ebeed obboloota isaa wajjin gara mandara Sheekem dhufee, namoota mandarichaa si irratti kaasaa jira;",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "ati garuu namoota keetii wajjin halkaniin ka'ii, qotiisa keessa riphii eeggadhu!",
+     "alt": "፴፪"
+    },
+    {
+     "n": 33,
+     "t": "Bor ganama yeroo boruun baqaqutti ka'ii mandaricha irratti goobani! Ga'aalii fi namoonni isaa wajjin jiran gara keetti yommuu gad ba'an, akkuma argattetti akka beektu isaan godhi!? jedheen.",
+     "alt": "፴፫"
+    },
+    {
+     "n": 34,
+     "t": "Abiimelekii fi namoonni isaa wajjin turan hundinuu halkaniin ka'anii, iddoo afuritti hiramanii mandara Sheekem duubaan in riphan.",
+     "alt": "፴፬"
+    },
+    {
+     "n": 35,
+     "t": "Ga'aal ilmi Ebeed immoo ba'ee karra mandarichaa keessa yeroo dhaabatetti, Abiimelekii fi namoonni isaa wajjin jiran, iddoo riphanii turanii itti in ba'an.",
+     "alt": "፴፭"
+    },
+    {
+     "n": 36,
+     "t": "Ga'aal namoota sana yommuu argee, Zebuliin, ?Kunoo, namoonni roggee tulluu irraa gad bu'aa jiru!? jedhe; Zebul immoo deebisee, ?Gaadidduu tulluu irraa sitti mul'atutu namoota sitti fakkaate!? jedheen.",
+     "alt": "፴፮"
+    },
+    {
+     "n": 37,
+     "t": "Itti dabalees Ga'aal, ?Kunoo namoonni tulluu isa handhuura lafaa sana irraa gad bu'aa jiru; kutanni tokko immoo karaa qilxuu warra ayyaana hedanii dhufaa jiru? jedheen.",
+     "alt": "፴፯"
+    },
+    {
+     "n": 38,
+     "t": "Zebulis, ?Afaan-bal'inni kee inni ati ?Abiimelek eenyu inni? Nuyis maaliif isaaf hojjenna?? jette, eessa ga'e ree? Namoonni ati tuffattes isaanuma kana mitii ree? Ammas ba'iitii isaan loli!? jedheen.",
+     "alt": "፴፰"
+    },
+    {
+     "n": 39,
+     "t": "Yeroo sanatti Ga'aal warra Sheekem dura bu'ee Abiimelekin in lole.",
+     "alt": "፴፱"
+    },
+    {
+     "n": 40,
+     "t": "Abiimelek garuu Ga'aalin in ari'e; innis fuula isaa duraa in baqate; namoonni Ga'aal immoo hamma karra mandarichaa bira ga'anitti iyyuu baay'een isaanii madaa'anii in kukkufan.",
+     "alt": "፵"
+    },
+    {
+     "n": 41,
+     "t": "Abiimelek iddoo ?Arumaa? jedhamutti in deebi'e; Zebul garuu Ga'aalii fi obboloonni Ga'aal Sheekem keessa akka hin jiraannetti ari'ee isaan in baase.",
+     "alt": "፵፩"
+    },
+    {
+     "n": 42,
+     "t": "Borumtaas warri Sheekem gara maasii isaanii dhaquudhaaf akka jiran namoonni tokko Abiimelekitti in himan.",
+     "alt": "፵፪"
+    },
+    {
+     "n": 43,
+     "t": "Innis namoota isaa fudhatee kutata sadiitti hiree, maasii keessa riphee isaan eeggate; jarri mandaricha keessaa ba'uu isaanii yommuu arge, achii ka'ee isaan in rukute.",
+     "alt": "፵፫"
+    },
+    {
+     "n": 44,
+     "t": "Abiimelek kutata isa bira turee wajjin itti fiigee karra kellaa mandarichaa dura in dhaabate; kutanni warri kaan lamaan immoo namoota maasii keessa jiran hundumaatti fiiganii in ajjeesan.",
+     "alt": "፵፬"
+    },
+    {
+     "n": 45,
+     "t": "Abiimelek guyyaa sana guutuu lolee mandaricha in qabate; warra isa keessa turan ajjeesee, mandarichas diigee, isa barbadeessuudhaaf soogidda irra in firfirse.",
+     "alt": "፵፭"
+    },
+    {
+     "n": 46,
+     "t": "Warri riqaa gurguddaa Sheekem keessa jiraatan hundinuu kana dhaga'anii, iddoo baqaa isa galma Waaqayyo isaanii Ba'aal-Kakuu jalaa keessa in lixan.",
+     "alt": "፵፮"
+    },
+    {
+     "n": 47,
+     "t": "Abiimelekis warri riqaa gurguddaa Sheekem keessa jiraatan hundinuu achitti walitti qabamuu isaanii in dhaga'e.",
+     "alt": "፵፯"
+    },
+    {
+     "n": 48,
+     "t": "Namoota isaa hundumaa fudhatee gara tulluu Zaalmonitti ol ba'ee, qottoo tokko fudhatee damee mukaa ittiin muree gatiittii isaa irra in kaa'ate; namoota isaa wajjin turaniin, ?Wanta ani gochuu koo argitan, isinis dafaatii akkasuma godhaa!? jedhe.",
+     "alt": "፵፰"
+    },
+    {
+     "n": 49,
+     "t": "Namoonni isaas adduma addaan damee mukaa tokko tokko muranii Abiimelek duukaa dhaqanii, damoota sana naannessanii iddoo baqaa sanatti tuulanii, namoota achi keessa jiran irratti ibidda in qabsiisan; kana keessatti namoonni riqaa gurguddaa Sheekem keessa turan, dhiironnii fi dubartoonni kumni tokko in dhuman.",
+     "alt": "፵፱"
+    },
+    {
+     "n": 50,
+     "t": "Kana booddee Abiimelek dhaqee, mandara Tebezitti marsee in qabate.",
+     "alt": "፶"
+    },
+    {
+     "n": 51,
+     "t": "Haa ta'u iyyuu malee, mandara sana keessa riqaan guddaan jabaan tokko waan tureef, warri mandara sanaa dhiironnii fi dubartoonni hundinuu gara isaatti baqatanii, balbala isaas karaa keessaa cufatanii gara bantii riqaa sanaatti ol in ba'an.",
+     "alt": "፶፩"
+    },
+    {
+     "n": 52,
+     "t": "Abiimelek utuu loluu riqaa sana bira ga'ee, balbala isaa ibiddaan gubuudhaaf itti in dhi'aate.",
+     "alt": "፶፪"
+    },
+    {
+     "n": 53,
+     "t": "Yommus dubartiin tokko majii dhagaa mataa Abiimelek irratti gad darbattee lafee mataa isaatii in cabsite.",
+     "alt": "፶፫",
+     "refs": [
+      {
+       "origin": "9:53",
+       "target": "2Sam 11:21."
+      }
+     ]
+    },
+    {
+     "n": 54,
+     "t": "Abiimelek immoo dafee dargaggeessa isa mi'a lolaa baatuuf waamee, ?Namoonni ?Dubartiitu isa ajjeese? akka anaan hin jennetti, ati billaa keetiin na ajjeesi!? jedheen; akkasitti dargaggeessichi billaa isa keessa in baase; kana irratti Abiimelek in du'e.",
+     "alt": "፶፬"
+    },
+    {
+     "n": 55,
+     "t": "Namoonni Israa'elis Abiimelek akka du'e yommuu argan gara lafa lafa dhufaniitti in deebi'an.",
+     "alt": "፶፭"
+    },
+    {
+     "n": 56,
+     "t": "Waaqayyo akka kanatti yakka Abiimelek isa inni obboloota isaa torbaatamman ajjeesuu isaatiin abbaa isaa yakkee ture sana mataa isaatti in deebise.",
+     "alt": "፶፮"
+    },
+    {
+     "n": 57,
+     "t": "Wanta hamaa warri Sheekem hojjetan hundumaas Waaqayyo mataa isaaniitti in deebise; abaarsi Yotaam ilma Yiruub-Ba'aal immoo isaan irra in ga'e.",
+     "alt": "፶፯"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 9",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warri Sheekem Abiimelekin Moosifachuu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Abiimelek erga du'ee booddee Israa'elin rakkina keessaa oolchuudhaaf tolaa ilma Phuwaa Dodootu ka'e; inni nama sanyii Yisaakor, biyya gaaraa isa kan Efreem keessaa iddoo ?Shaamiir? jedhamu jiraata ture.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Tolaan waggaa digdamii sadiif Israa'elin in geggeesse; kana booddee du'ee Shaamiiritti in awwaalame.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Tolaan erga du'ee booddee, Yaa'iir namni sanyii Giil'aad ka'ee Israa'elin waggaa digdamii lamaaf in geggeesse.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yaa'iir ilmaan soddoma qaba ture; isaan immoo harroota soddoma yaabbatanii kan adeemanii dha; Giil'aad keessaa mandaroota soddoma warra hamma har'aatti iyyuu ?Mandaroota Yaa'iir? jedhamanii waamaman qabu turan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yaa'iiris du'ee iddoo ?Qaamon? jedhamu tokkotti in awwaalame.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Israa'eloonni ammas Waaqayyoon dhiisanii Ba'aalii fi Ashtaarotiif akkasumas waaqayyolii Aaramiif, waaqayyolii Sidoonii fi Mo'aabiif, waaqayyolii Amoonotaa fi kan Filisxeemotaaf sagaduu isaaniitiin Waaqayyo duratti waan hamaa hojjetan; isaaf garuu hin hojjenne.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Kanaaf Waaqayyo dheekkamsa isaa isaan irratti bobeessee harka warra Filisxeemotaa fi warra Amoon jala isaan galche.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Isaan immoo waggaadhuma sanaa jalqabanii, waggaa kudha saddeetiif Israa'eloota warra laga Yordaanos irraa gara ba'a-biiftuu Giil'aad biyya warra Amoorotaa keessa jiraatan hundumaa gad cabsanii isaan in cunqursan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Warri Amoon yommuu gosa Yihudaa, gosa Benyaamiinii fi sanyii Efreem loluudhaaf laga Yordaanos ce'anitti, Israa'eloonni guddaa in dhiphatan.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Yommus Israa'eloonni gara Waaqayyotti iyyanii, ?Si Waaqayyo keenya dhiifnee Ba'aal waaqayyolii tolfamoodhaaf sagaduu keenyaan si duratti cubbuu hojjenneerra? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Waaqayyo immoo deebiseefii, ?Ani warra Gibxii, warra Amoonii fi warra Filisxeem jalaa isin baaseera mitii ree?",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Warri Sidoon, warri Amaaleqii fi warri Maa'on yommuu isin cunqursan, isin gara kootti in iyyattan, ani immoo isin nan oolche.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Amma garuu sababii isin ana dhiiftanii waaqayyolii ormaaf sagaddaniif, anis deebi'ee isin hin oolchu.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Dhaqaatii waaqayyolii warra fo'attan sanatti iyyadhaa! Isaan gidiraa keessaa isin haa oolchan!? jedheen.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Israa'eloonni immoo Waaqayyoon, ?Nuyi cubbuu hojjenneerra; ati waanuma gaarii ta'ee sitti mul'atte nu irratti hojjedhu! Miilanaaf garuu hadaraa nu oolchi!? jedhan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Kana booddee waaqayyolii ormaa of gidduudhaa baasanii Waaqayyoof in hojjetan; Waaqayyo immoo rakkina Israa'el irra ga'e kanaaf in gadde.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Warri Amoon lolaaf walitti waamamanii Giil'aad keessa buufannaan, Israa'eloonni walitti qabamanii mandara Miisphaa keessa buufatan.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Gurguddoonni warra Giil'aadis walii isaaniitiin, ?Nu keessaa namni duraan dursee Amoonota loluu jalqabu, warra Giil'aad keessa jiraatan hundumaa irratti dura-buutuu haa ta'u!? jedhan.",
+     "alt": "፲፰"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 10",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Tolaanii Fi Yaa'iir Wal Harkaa Fuudhanii Israa'elin Geggeessuu Isaanii",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Israa'eloonni Waaqayyoon Dhiisanii Rakkinatti Galuu Isaanii",
+     "before": 6
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Yiftaan Giil'aadichi loltuu jabaa ture; inni dubartii ejjituu tokko irraa dhalate, abbaan isaas ?Giil'aad? jedhama ture.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Haati manaa Giil'aad immoo ilmaan in deesseef; isaan erga gurguddatanii Yiftaadhaan, ?Ati dubartii kan biraa irraa waan dhalatteef, mana abbaa keenyaatii dhaala hin argattu? jedhanii, ari'anii isa in baasan.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Innis obboloota isaa duraa baqatee biyya Xoobitti in gale; namoonni gatii hin qabnes isatti in dacha'an.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Kana booddee warri Amoon Israa'elitti lola in kaasan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yeroo warri Amoon lola itti kaasanitti, maanguddoonni Giil'aad Yiftaa biyya Xoobii waammachuu in dhaqan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Yiftaadhaanis, ?Warra Amoon akka lolluuf kottuutii ajajjuu waraanaa nuuf ta'i!? jedhan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Inni immoo maanguddoota sanaan, ?Isin ana jibbitanii mana abbaa kootii ariitanii na baaftan mitii ree? Yeroo rakkina keessaniitti immoo maaliif na barbaacha dhuftan ree?? jedhe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Maanguddoonni Giil'aadis Yiftaadhaan, ?Ati nuu wajjin baatee warra Amoon akka loltuuf, nuyi warra Giil'aad keessa jiraannu hundumaa irrattis dura-buutuu akka taatuuf gara kee dhufne? jedhan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yiftaan immoo maanguddoota Giil'aadiin, ?Warra Amoon loluudhaaf biyyatti yoo na deebiftan, Waaqayyos harka koo keessa yoo isaan buuse, dhugumaan ani dura-buutuu keessan nan ta'aa ree?? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Yommus isaan deebisanii, ?Akkuma ati amma dubbatte gochuuf akka jirru Waaqayyo nuu fi si gidduutti dhuga-baatuu haa ta'u!? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Kana irratti Yiftaan maanguddoota Giil'aadii wajjin in gale; warri biyyasiis dura-buutuu fi ajajjuu waraanaa isa in godhatan; Yiftaan dubbii kana hundumaa Miisphaatti fuula Waaqayyoo duratti in dubbate.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Yiftaan gara mootii warra Amoonitti namoota ergee, ?Ati biyya koo keessatti na loluudhaaf kan dhufte anii fi ati maal walittii qabna?? jedhee gaafachiise.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Mootiin warra Amoon immoo namoota Yiftaan ergeen, ?Warri Israa'el Gibxii yommuu ba'an biyya koo laga Aarnonii hamma laga Yaaboqitti, darbees hamma laga Yordaanositti fudhataniiru; amma garuu, ?Ati jaalalaan anaaf deebisi!? jedhaan!? jedhe.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Ammas Yiftaan gara mootii warra Amoonitti namoota ergee, dhaamsa tokko itti in dhaame.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Dhaamsa isaa keessatti, ?Yiftaan, ?Israa'eloonni biyya Mo'aab, biyya warra Amoonis hin fudhanne.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Haa ta'u iyyuu malee, Gibxii yommuu ba'an lafa onaa keessa gara galaana diimaatti darbanii hamma Qedeeshitti in dhufan.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Isaan gara mootii Edoomitti namoota erganii:- Hadaraa biyya kee keessa akka darbinuuf tole nuuf jedhi! jedhan; mootiin Edoom garuu isaaniif hin dhageenye; akkasumas gara mootii Mo'aabitti erginaan, innis immoo isaan dide; kanaaf Israa'eloonni Qedeesh keessa takka taa'an.",
+     "alt": "፲፯",
+     "refs": [
+      {
+       "origin": "11:17",
+       "target": "Lak 20:14-21."
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "t": "Ergasiis lafa onaa keessa darbanii biyya Edoomii fi biyya Mo'aab laga Aarnonis naanna'anii gama keessaan Mo'aab irraa gara ba'a-biiftuu in buufatan; lagni Aarnon daarii biyyichaa waan ta'eef, isaan lagicha itti hin ceene, daarii Mo'aabis hin darbine.",
+     "alt": "፲፰",
+     "refs": [
+      {
+       "origin": "11:18",
+       "target": "Lak 21:4."
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "t": "? ?Israa'eloonni gara Sihoon mootii Amoorotaa isa mandara Heshboon keessa taa'ee mo'etti namoota erganii:- Hadaraa biyya kee keessa baanee gara lafa keenyaatti akka darbinuuf tole nuuf jedhi! jedhaniin.",
+     "alt": "፲፱",
+     "refs": [
+      {
+       "origin": "11:19",
+       "target": "Lak 21:21-24."
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "t": "Sihoon garuu Israa'eloonni nagaadhaan biyya isaa keessa darbuu isaanii hin amanne; kanaaf namoota isaa hundumaa walitti qabatee iddoo Yaahaz jedhamu buufatee isaan lole.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Waaqayyo gooftichi Israa'el immoo Sihoonii fi namoota isaa hundumaa harka Israa'elootaa keessa in buuse; Israa'eloonni isaan rukutanii, biyya Amoorota warra achi keessa jiraatanii hundumaas in qabatan.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Biyya Amoorotaa hundumaa laga Aarnonii hamma laga Yaaboqitti, karaa ba'a-biiftuu immoo lafa onaadhaa hamma laga Yordaanositti in qabatan.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Egaa isa Waaqayyo gooftichi Israa'el warra Amoorotaa saba isaa duraa ari'ee baase, ati immoo amma ariitee isaan baasuu feetaa ree?",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Ati qabeenya warra Waaqayyo kee inni:- Kemosh jedhamu si duraa ari'ee baasuu in qabatta mitii ree? Nus immoo qabeenya warra Waaqayyo gooftaan keenya nu duraa ari'ee baasuu in qabanna.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Ati immoo Balaaq ilma Ziphoor mootii Mo'aab in caaltaa ree? Inni Israa'elin mormeeraa ree? Lolas itti kaaseeraa ree?",
+     "alt": "፳፭",
+     "refs": [
+      {
+       "origin": "11:25",
+       "target": "Lak 22:1-6."
+      }
+     ]
+    },
+    {
+     "n": 26,
+     "t": "Sabni Israa'el mandaroota Heshboonii fi Aro'er gandeen isaanii keessas, mandaroota qarqara Aarnon jiran hundumaa keessas waggaa dhibba sadii jiraataniiru; isin yeroo sana keessa maaliif mandaroota kana deebiftanii harkaa baafachuu dhiiftan ree?",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Ani sitti hin darbine, ati garuu lola anatti kaasuu keetiin dabaa ana irratti hojjette; Waaqayyo abbaan firdii har'a warra Israa'eliif warra Amoon gidduutti haa faradu!? siin jedha? jedhe.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Mootiin warra Amoon garuu dhaamsa Yiftaan itti dhaame kana hin fudhanne.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Hafuurri Waaqayyoo Yiftaa in geggeessa ture; innis biyya Giil'aadii fi biyya Minaasee keessa ba'ee, gara Miisphaa isa Giil'aad keessaatti darbee achii immoo ka'ee gara warra Amoon in dhaqe.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Waaqayyoofis wareega wareegee, ?Ati dhugumaan warra Amoon kana harka koo keessa yoo buufte,",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "ani immoo yeroon nagaadhaan achii deebi'ee dhufu, waanuma duraan dursee ana simachuudhaaf balbala mana koo keessaa gad ba'u siif nan kenna; qalma gubamu godhees siif nan dhi'eessa? jedhe.",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "Kana booddee Yiftaan warra Amoon loluuf gara isaaniitti in ce'e; Waaqayyo immoo warra Amoon harka isaa keessa in buuseef.",
+     "alt": "፴፪"
+    },
+    {
+     "n": 33,
+     "t": "Yiftaanis Aro'eerii jalqabee hamma Miiniititti akkasumas hamma Abeel-Karamiimitti warra Amoon rukuttaa cimaadhaan rukutee, mandaroota digdama in qabate; yommus warri Amoon harka Israa'elootaa jala in galan.",
+     "alt": "፴፫"
+    },
+    {
+     "n": 34,
+     "t": "Yiftaan ergasii Miisphaatti gara mana isaatti yommuu deebi'e, kunoo intalli isaa dibbee fudhattee sirbaa isa simachuudhaaf gad itti baate; isheen mucaa tokkittii dha; inni ishee malee ilma yookiis durba hin qabu ture.",
+     "alt": "፴፬"
+    },
+    {
+     "n": 35,
+     "t": "Yommuu ishee arge immoo gadda irraa kan ka'e uffata isaa tarsaasee, ?Wayyoo! Yaa intala ko! Baay'ee na gaddisiifte, na dhiphiftes; ani Waaqayyo duratti afaan kootiin waanan dubbadhe qaba; isa dhiisuus hin danda'u? jedhe.",
+     "alt": "፴፭",
+     "refs": [
+      {
+       "origin": "11:35",
+       "target": "Lak 30:2."
+      }
+     ]
+    },
+    {
+     "n": 36,
+     "t": "Intalli isaa immoo, ?Yaa abbaa ko! Waaqayyo diinota kee warra Amoon irratti ijaa waan siif baaseef, wanta isa duratti afaan keetiin dubbatte, akkuma dubbii keetiitti ana irratti raawwadhu!? jetteen.",
+     "alt": "፴፮"
+    },
+    {
+     "n": 37,
+     "t": "Itti dabaltee abbaa isheetiin, ?Dura garuu waan tokkittii ani si kadhadhu anaaf raawwadhu! Dhaqee tulluu irra asii fi achi deddeebi'ee durboota hiriyoota koo wajjin durbummaa kootiin karaadhaa deebi'uu kootiif akkan boo'utti ji'a lamaaf yeroo anaaf kenni!? jette.",
+     "alt": "፴፯"
+    },
+    {
+     "n": 38,
+     "t": "Inni immoo ?Dhaqi!? jedhee, ji'a lamaaf ishee erge; isheenis durboota hiriyoota ishee wajjin gara tulluu dhaqxee achi irratti durbummaa isheetiin karaadhaa deebi'uu isheetiif in boosse.",
+     "alt": "፴፰"
+    },
+    {
+     "n": 39,
+     "t": "Intalattiin raawwattee utuu dhiira bira hin ga'in yeroo ji'i lamaan ishee dhumutti, gara abbaa isheetiitti in deebite; innis isa wareegee ture ishee irratti in raawwate.",
+     "alt": "፴፱"
+    },
+    {
+     "n": 40,
+     "t": "Kana irraa kan ka'e durboonni Israa'el waggaa waggaatti guyyaa afuriif ba'anii intala Yiftaa Giil'aadichaaf in boo'u turan; kunis biyya Israa'el keessatti amala ta'e.",
+     "alt": "፵"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 11",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Yiftaan Ajajjuu Waraanaa Ta'uu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Yiftaan Mootii Warra Amoon Gaafachiisuu Isaa",
+     "before": 12
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Yiftaan Waaqayyoof Wareegee Mo'icha Argachuu Isaa",
+     "before": 29
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Warri Efreem lola dhaquudhaaf waamamanii, gara mandara Zaafonitti ce'anii, Yiftaadhaan, ?Ati warra Amoon loluudhaaf gara isaaniitti yommuu darbite nuyi sii wajjin akka dhaqnuuf maaliif nu waamuu didde? Amma mana kee ibiddaan si irratti in gubna? jedhan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Yiftaanis deebisee isaaniin, ?Anii fi sabni koo warra Amoonii wajjin wal'aansoo jabaa irra turre; ani gargaarsaaf gara keessanitti yoon iyyadhe iyyuu isin na oolchuudhaaf, anaaf hin birmanne.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Akka isin anaaf hin birmatin yommuun arges fittee irra of buusee, gara warra Amoonitti nan darbe; Waaqayyo immoo harka koo keessa isaan in buuse; egaa isin maaliif har'a ana loluudhaaf dhuftan ree?? jedhe.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yommus Yiftaan warra Giil'aad hundumaa waraanaaf walitti qabatee warra Efreem in lole; warri Giil'aad, sababii warri Efreem, ?Yaa warra Giil'aad! Isin Efreem irraa cabsattanii, Efreemii fi Minaasee gidduu in teessu? jedhanii irratti dubbataniif isaan in rukutan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Warri Giil'aad malkaa laga Yordaanos isa warri Efreem ittiin ce'an hundumaa in qabatan; warra Efreem keessaa namni tokko jalaa ba'uudhaaf, ?Nan ce'a? jedhee, yeroo kadhatutti warri Giil'aad immoo, ?Ati nama sanyii Efreemii?? jedhanii in gaafatu; inni immoo, ?Waawuu? yoo jedhe,",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "yommus mee, ?Shibolet? jedhi! in jedhuun; inni garuu kana jechuuf arrabni isaa qajeeluufii didee ?Sibolet? yoo jedhe, qabanii karaa ce'umsa Yordaanos irratti isa in ajjeesu; yeroo sana akkasitti warra Efreem keessaa namoota kuma afurtamii lamatu dhume.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Yiftaan Giil'aadichi Israa'elin waggaa ja'aaf erga geggeessee booddee du'ee, mandara isaatti Giil'aad keessatti in awwaalame.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Yiftaan erga du'ee booddee Ibzaan nama Betlihemtu Israa'elin geggeesse.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Inni ilmaan soddoma qaba ture; intaloota isaa soddomman namoota ormaatti heerumsiise, ilmaan isaas durboota soddoma sanyii ormaa keessaa in fuusise; Israa'elin waggaa torba erga geggeessee booddee,",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Ibzaan du'ee, Betlihemitti in awwaalame.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Ibzaan duunaan Eloon namni sanyii Zebuloon Israa'elin waggaa kudhan in geggeesse.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Eloonis du'ee, biyya Zebuloon keessaa Ayalonitti in awwaalame.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Eloon erga du'ee booddee, Abdoon ilma Hiilel Phiiraatonichaatu Israa'elin geggeesse.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Inni ilmaan afurtama in godhate; ilmaan ilmaan isaatii immoo soddoma turan; isaan kun harroota torbaatama yaabbatanii kan adeemanii dha; barri Abdoon Israa'elin geggeesse immoo waggaa saddeet ture.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Kana booddee Abdoon ilmi Hiilel Phiiraatonichaa du'ee, biyya Efreem keessaa tulluu Amaaleqootaa gubbaatti Phiiraatonitti in awwaalame.",
+     "alt": "፲፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 12",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Yiftaa Fi Namoonni Efreem Wal Komachuu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Israa'eloonni ammoo Waaqayyo duratti waan hamaa in hojjetan; kanaafis Waaqayyo dabarsee waggaa afurtamaaf harka warra Filisxeemotaatti isaan kenne.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Yeroo sanatti biyya Zoraa sanyii Daan keessa namni ?Maano'aa? jedhamu tokko ture; haati manaa isaas dhabduu waan turteef dhala hin godhanne.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus ergamaan Waaqayyoo haadha manaa namichaatti mul'atee, ?Ati dhabduu waan taateef dhala hin godhanne, amma garuu in ulfoofta ilmas in deessa.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Kanaaf si'achi daadhii waynii yookiis waanuma nama macheessu dhuguuttii, waan xuraa'aas nyaachuuttii of eeggadhu!",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Kunoo, in ulfoofta, mucaan ati deessu kun garaa kee keessaa jalqabee Waaqayyoof addaan waan ba'eef, qarabaan mataa isaa irra hin ga'in! Mucichi Israa'elin harka warra Filisxeemotaa jalaa baasuuf jira? jedhe.",
+     "alt": "፭",
+     "refs": [
+      {
+       "origin": "13:5",
+       "target": "Lak 6:1-5."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "Yommus dubartittiin gara abbaa manaa ishee dhaqxe, ?Namni Waaqayyoo inni bifni isaa akka bifa ergamaa Waaqayyoo guddaa sodaachisaa ta'e tokko gara koo in dhufe; ani eessaa akka inni dhufe isa hin gaafanne, innis maqaa isaa anatti hin himne.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Garuu, ?Kunoo, in ulfoofta ilmas in deessa; mucichi garaa kee keessaa jalqabee hamma guyyaa du'a isaatiitti Waaqayyoof addaan kan ba'e waan ta'uuf, egaa daadhii waynii yookiis dhugaatii nama macheessu hin dhugin, waan xuraa'aa tokko illees hin nyaatin!? naan jedhe? jetteen.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Maano'aan yommus, ?Yaa gooftaa, namni Waaqayyoo inni ati ergitee turte sun deebi'ee gara keenya dhufee, mucaa dhalatu sana attamitti akka guddifnu nutti haa himuuf sin kadhadha? jedhee Waaqayyoon kadhate.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Waaqayyo kadhata Maano'aa in dhaga'e; ergamaan Waaqayyoo ammoo gara haadha manaa Maano'aa in dhufe; isheen yommus maasii keessa turte, abbaan manaa ishee garuu ishee bira hin turre.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Isheen ariitiidhaan gara abbaa manaa isheetti fiigdee, ?Kunoo! Namichi inni gaaf tokko gara koo dhufee ture ammas anatti mul'ate? jettee itti himte.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Kana irratti Maano'aan ka'ee haadha manaa isaa duukaa bu'ee gara namichaa dhufee, ?Dubartii kanatti waa kan hime sii?? jedhee gaafannaan, namichis, ?Eyyee, ana? jedheen.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Maano'aan immoo namichaan, ?Dubbiin kee yommuu raawwatamu seerri mucichi ittiin jiraatu, wanti gochuun isaaf ta'us maali?? jedhe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yommus ergamaan Waaqayyoo sun Maano'aadhaan, ?Dubartiin kun waan ani isheetti hime hundumaattii of haa eeggattu!",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Isheen waan ija waynii irraa hojjetamu hundumaa akka hin nyaanne, daadhii waynii yookiis dhugaatii nama macheessu akka hin dhugne, waan xuraa'aa akka hin nyaanne, waan ani ishee abboome kana hundumaa haa eegdu!? jedhe.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Ergasii Maano'aan ergamaa Waaqayyootiin, ?Xobbaallaa reettii tokko qopheessinee hamma siif dhi'eessinutti hadaraa xinnoo nuuf turi!? jedhe.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Namichi ergamaa Waaqayyoo ta'uu isaa Maano'aan hin beekne ture; ergamaan Waaqayyoo sun garuu, ?Ati yoo ana giddisiifte iyyuu, ani nyaata kee hin nyaadhu; qalma gubamu dhi'eessuu yoo feete immoo isa Waaqayyoof dhi'eessi!? jedheen.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Maano'aan immoo ergamaa Waaqayyootiin, ?Dubbiin kee yommuu raawwatamu ulfina akka siif kenninutti maqaan kee eenyu?? jedhe.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Ergamaan Waaqayyoos Maano'aadhaan, ?Maaliif maqaa koo gaafatta ree? Innoo dinqisiisaa namni bira ga'uu hin dandeenyee dha? jedhe.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Kana booddee Maano'aan xobbaallaa reettii fi kennaa midhaanii fudhatee, kattaa tokko irratti Waaqayyo isa dinqii hojjetuuf aarsaa in dhi'eesse; Maano'aanii fi haati manaa isaa gara aarsaa sanaa in ilaalu turan.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Arrabni ibiddaa iddoo aarsichaatii gara waaqaatti yommuu ol ka'u, ergamaan Waaqayyoo arraba ibiddaa sana keessaan ol ba'uu isaa arganii Maano'aanii fi haati manaa isaa adda isaaniitiin gad in gombifaman.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Kana irratti namichi sun ergamaa ta'uu isaa Maano'aan in bare; ergamaan Waaqayyoo sun ergasii deebi'ee Maano'aa fi haadha manaa isaatti hin mul'anne.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Yommus Maano'aan haadha manaa isaatiin, ?Nuyi Waaqayyoon erga arginee, dhuguma du'uu keenya!? jedhe.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Haati manaa isaa garuu deebifteefii, ?Waaqayyo nu ajjeesuu utuu barbaadee qalma gubamuu fi kennaa midhaanii nu harkaa hin fudhatu, kana hundumaa nutti hin argisiisu, dubbii kana hundumaas nu hin dhageessisu ture? jetteen.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Dubartittiin ilma deessee maqaa isaa ?Siimson? jettee moggaafte; mucichis in guddate; Waaqayyo immoo isa in eebbise.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Siimson mandara buufata Daan keessa utuu jiruu Zoraa fi Eshta'ol gidduutti hafuurri Waaqayyoo isa tuttuqee yaada isaa kaasuu in jalqabe.",
+     "alt": "፳፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 13",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Dhalachuun Siimson Abdachiifamuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Maano'aan Waaqayyoof Aarsaa Dhi'eessuu Isaa",
+     "before": 15
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Gaaf tokko Siimson gara mandara Tiimnaat dhaqee, achitti dubartoota Filisxeemotaa keessaa intala tokko arge.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Gara manaatti deebi'ee abbaa isaatiif haadha isaatiin, ?Warra Filisxeemotaa keessaa intala tokko mandara Tiimnaatitti argadheeraatii ana fuusisaa!? jedhe.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Abbaan isaatii fi haati isaa garuu, ?Ati Filisxeemota warra dhagna hin qabanne keessaa niitii fuudhuuf kan dhaqxu dhugumaan intaloota sanyii keetii yookiis saba keenya hundumaa keessaa durba fuutu dhabde moo?? jedhanii in gaafatan; inni immoo abbaa isaatiin, ?Isheen ija kootti tolteettii ana fuusisi!? jedhe.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yaadni kun Waaqayyo biraa akka ta'e abbaan isaatii fi haati isaa hin beekne turan; Israa'eloonni yeroo sanatti mootummaa isaanii jala waan turaniif, Waaqayyo ittiin qabee warra Filisxeemitti lola kaasuu in barbaade.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Kanaaf Siimson abbaa isaatii fi haadha isaatii wajjin gara Tiimnaat in dhaqe; akkuma isaan iddoo waynii Tiimnaat ga'aniin, leenci saafelli tokko aadaa isatti in dhufe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Battaluma sanatti hafuurri Waaqayyoo Siimsoniif dhufnaan, innis homaa of harkaa utuu hin qabaatin akkuma ilmoo reettiitti leencicha in kukkute; kana gochuu isaas abbaa isaatii fi haadha isaatti hin himne.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Ergasii dhaqee intalattii wajjin in haasa'e; isheenis ija isaatti in tolte.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Guyyaa muraasa booddee ishee fuudhuudhaaf utuu deebi'uu raqa leencichaa ilaaluudhaaf itti gore; raqa leencichaa keessatti immoo gurmuu kanniisaa fi damma arge.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Dammichas harka isaatiin kutatee nyaachaa adeemee, gara abbaa isaatii fi haadha isaatii in dhufe; dammicha raqa leencaa keessaa akka kutate utuu isaanitti hin himin, isaaniif immoo in kenne, isaanis in nyaatan.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Abbaan isaa gara mana intalattii ishee Siimson fuudhuuf dubbatee in dhaqe; akkuma dargaggoonni yeroo fuudhanitti cidha godhatan Siimsonis achitti cidha in qopheesse.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Warri naannoo sanaas qophee isaa yommuu argan, namoonni soddomni hamaamota isaa ta'anii isaa wajjin akka turan in godhan.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Siimson namoota sanaan, ?Ani hibboo isin nan hibbifadha, isinis guyyoota cidhaa torban kana keessatti hiikaa isaa argattanii yoo anatti himtaniif, wayyaa quncee talbaa irraa hojjetame soddoma, geddarachuudhaafis uffata guutuu soddoma isiniif nan kenna.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Isin immoo hiikaa isaa anatti himuu yoo dadhabdan, wayyaa quncee talbaa irraa hojjetame soddoma, uffata guutuu soddomas anaaf in kennitu? jedhe; isaan yommus deebisanii, ?Mee nu hibbifadhu kaa in dhageenyaa? jedhan.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Innis, ?Isa nyaatu keessaa waanta nyaatamutu ba'e, isa jabaa keessaa wanta miyaa'utu ba'e? jedhe; isaanis guyyaa sadii keessatti hiikaa hibboo sanaa himuu hin dandeenye.",
+     "alt": "፲፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Innis, ?Isa nyaatu keessaa waanta nyaatamutu ba'e,"
+      },
+      {
+       "style": "q2",
+       "t": "isa jabaa keessaa wanta miyaa'utu ba'e? jedhe; isaanis guyyaa sadii keessatti hiikaa hibboo sanaa himuu hin dandeenye."
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "t": "Gaafa guyyaa afuraffaa jarri haadha manaa Siimsoniin, ?Isin nu deegsuudhaaf asitti nu waamtan mitii ree? Hiikaa hibboo sanaa dhageessee akka nutti himtuuf abbaa manaa kee sossobadhu! Kanaa achi mana abbaa keetii wajjin ibiddaan si gubna? jedhan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yommus isheen Siimsonitti boossee, ?Ati na jibbita malee, ana hin jaallattu; ijoollee keenya hibboo hibbifattee hiikaa isaa immoo anatti hin himin hafte? jetteen; inni immoo, ?Argitee! Ani kana abbaa kootii fi haadha kootti iyyuu hin himne; sitti immoo attamittan hima ree?? jedheen.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Isheen garuu hamma yeroon cidha isaanii inni guyyaa torbaa raawwatutti isatti boossee waan isa rakkifteef, gaafa guyyaa torbaffaa hiikaa hibbichaa isheetti in hime; isheen immoo firoota ishee sanatti in himte.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Namoonni mandarichaas gaafa guyyaa torbaffaa sana aduun utuu hin lixin Siimsoniin, ?Damma caalaa maaltu miyaa'a ree? Leenca caalaas maaltu jabaata ree?? jedhan; inni immoo, ?Raada kootiin utuu qotuu dhabaattanii, hiikaa hibboo kootii hin argattan turtan? jedhe.",
+     "alt": "፲፰",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Namoonni mandarichaas gaafa guyyaa torbaffaa sana aduun utuu hin lixin Siimsoniin, ?Damma caalaa maaltu miyaa'a ree?"
+      },
+      {
+       "style": "q2",
+       "t": "Leenca caalaas maaltu jabaata ree?? jedhan;"
+      },
+      {
+       "style": "q2",
+       "t": "inni immoo, ?Raada kootiin utuu qotuu dhabaattanii,"
+      },
+      {
+       "style": "q2",
+       "t": "hiikaa hibboo kootii hin argattan turtan? jedhe."
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "t": "Battaluma sanattis hafuurri Waaqayyoo Siimsoniif dhufnaan, gara Ashqalon dhaqee, namoota achii keessaa soddoma ajjeesee uffata isaanii irraa fudhatee, namoota hibboo isaa hiikan sanaaf uffata geddaraa tokko tokko in kenne; kana booddee aarii guddaadhaan gara mana abbaa isaatiitti in deebi'e.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Haadha manaa isaa garuu hamaamota isaa keessaa isa inni miinjee godhatetti in heerumsiisan.",
+     "alt": "፳"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 14",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Siimson Fuudhuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Kana booddee yeroo qamadiin haamamutti Siimson xobbaallaa reettii tokko fudhatee, haadha manaa isaa ilaaluu dhaqee, ?Gara kutaa manaa iddoo haati manaa koo jirtutti ol nan gala? jedhe; abbaan ishee garuu ol galuu isa dhowwee,",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "?Anoo dhugaadhumatti raawwattee ishee jibbite se'een miinjee keetti ishee heerumsiise; quxisuun ishee ishee caalaa kan bareeddu jirti, egaa qooda ishee ishee kana fuudhi!? jedhe.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Siimson immoo, ?Yoos ani si'achi Filisxeemota irratti hamaa yoon hojjedhe hin komatamu? jedhe.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yommus Siimson ba'ee, waangota dhibba sadii qabee, eegee lamaan lamaan isaanii walitti hidhe; eegee lamaan lamaan isaanii gidduutti xomboora tokko tokko hidhe;",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "xomboorichattis ibidda qabsiisee waangota sana midhaan Filisxeemotaatti gad dhiise; midhaan isa tuullaa, isa hin haamamin akkasumas waynii fi ejersa in gube.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Kana irratti warri Filisxeemotaa, ?Maaltu akkas godhe?? jedhanii, wal gaafatan; jarreen tokko immoo, ?Siimson soddaa Tiimnaatichaatu sababii abbiyyuun isaa haadha manaa isaa nama inni miinjee godhatee turetti heerumsiiseef akkas godhe? jedhan; warri Filisxeemotaa immoo dhaqanii haadha manaa Siimsonii fi abbaa ishee mana isaa keessa ibiddaan guban.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Siimson immoo jaraan, ?Erga isin akkas gootanii, ijaa utuun isin hin baafatin hin dhiisu? jedhe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Achumaanis rukuttaa jabaa isaatiin isaan rukutee namoota baay'ee in fixe; darbees holqa dhagaa Etaam keessa in taa'e.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Ergasii warri Filisxeemotaa ol ba'anii Yihudaa keessa buufatanii, saamuudhaaf mandara Lehii keessa in tamsa'an.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Namoonni Yihudaa Filisxeemotaan, ?Maaliif nu irratti ka'uudhaaf ol baatan?? jedhan; isaan immoo, ?Siimsonin qabnee hiinee waan inni nu irratti raawwate isa irratti raawwachuudhaaf dhufne? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Achumaan namoonni Yihudaa kumni sadii gara holqa dhagaa Etaamitti gad bu'anii Siimsoniin, ?Warri Filisxeemotaa akka nu irratti mo'an hin beektu moo? Ati dubbii kana maaliif nutti fidde?? jedhan. Inni immoo deebise, ?Waan isaan ana irratti hojjetan anis isaan irratti nan hojjedhe? jedhe.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Isaanis, ?Nuyi qabnee si hiinee Filisxeemotattis dabarsinee si kennuudhaaf dhufne? jedhan; Siimson immoo, ?Isin ofii keessanii akka anatti hin buune anaaf kakadhaa!? jedhe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Isaan immoo, ?Nuyi qabnee si hiinee harka Filisxeemotaatti si kennina malee, si hin ajjeefnu? jedhan; kana booddee funyoo haaraa lamaan isa hidhanii holqa dhagichaa keessaa fuudhanii ol ba'an.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Akkuma Siimson mandara Lehiitti dhi'aateen Filisxeemonni wacaa gara isaatti in adeeman; battaluma sanatti hafuurri Waaqayyoo isaaf dhufee, funyoon ittiin harki isaa hidhamee ture sunis akka fo'aa ibiddi qabatee in ta'e, hidhaan harka isaatiis irraa in bu'e.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Yeroo sanatti Siimson lafee mangaagaa harree ho'aa isaa argee fudhatee ittiin namoota kuma tokko rukutee ajjeese.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Siimson, ?Lafee mangaagaa harreettiin, tuullaa tuullaadhaan wal irra isaan nan naqe, lafee mangaagaa harreettiin, namoota kuma nan ajjeese? jedhe.",
+     "alt": "፲፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Siimson, ?Lafee mangaagaa harreettiin,"
+      },
+      {
+       "style": "q2",
+       "t": "tuullaa tuullaadhaan wal irra isaan nan naqe,"
+      },
+      {
+       "style": "q2",
+       "t": "lafee mangaagaa harreettiin,"
+      },
+      {
+       "style": "q2",
+       "t": "namoota kuma nan ajjeese? jedhe."
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "t": "Kana dubbachuu isaa erga raawwatee lafee mangaagaa sana of harkaa in gate; kana irratti maqaan iddoo sanaa ?Raamat-Lehii? jedhamee in waamame; ?Raamat-Lehii? jechuun ?Tulluu lafee mangaagaa? jechuu dha.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Yommus Siimson baay'ee waan dheeboteef, gara Waaqayyotti wawwaatee, ?Harka garbicha keetiin mo'icha guddaa kana laatteetta; amma immoo dheebuudhaan akkan du'u yookiis harka warra dhagna hin qabannee kana keessa akkan bu'u hin godhin!? jedhe.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Waaqayyo immoo harawwa Lehii keessa jiru in dhoose, bishaanis isa keessaa in burqe; Siimson bishaanicha dhugnaan hafuurri isaa deebi'eefii humna in argate; burqaan sunis ?En-Haaqoree? jedhamee hamma har'aatti iyyuu mandara Lehii keessatti in beekama; ?En-Haaqoree? jechuun, ?Burqaa nama Waaqayyoon kadhatee? jechuu dha.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Bara Filisxeemonni mootummaa isaanii jabeessanitti Siimson Israa'elin waggaa digdamaaf in geggeesse.",
+     "alt": "፳"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 15",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Siimson Warra Filisxeemotaa Ijaa Baafachuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Gaaf tokko Siimson gara mandara Gaazaa dhaqee dubartii ejjituu tokko argee gara isheetti ol gale.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Warri Gaazaas, Siimson ?Mandara kana dhufeera? jechuu dhaga'anii, itti marsanii halkan guutuu karaa karra mandarichaa riphanii isa eeggachaa bulan; isaan, ?Yommuu lafti bari'u isa in ajjeefna? jedhanii, halkan guutuu homaa hin dubbanne, asii fi achis hin sokoksine.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Siimson garuu hamma halkan walakkaatti rafe; kana booddee ka'ee michichila karra mandarichaa lamaan qabee, cufaa isaatii fi danqaraa isaa wajjin buqqisee gatiittii isaa irra kaa'atee roggee tulluu isa fuullee Kebroon jirutti ol in baase.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Ergasii booddee Siimson dubartii ?Deliilaa? jedhamtu dachaa Sooreq keessa jiraattu tokko in jaallate.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Gurguddoonni Filisxeemotaa warri humnaan mo'an gara dubartittii dhaqanii, ?Siimson humna guddaa kana eessaa akka argatu, nuyis maal goonee akka humna isa caalu, attamittis hiinee akka gad isa qabnu sossobii isa irraa bari! Nuyis tokkon tokkon keenya meetii kuma tokkoo fi dhibba tokko tokko mama malee siif in kennina? jedhan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Deliilaan yommus Siimsoniin, ?Humna guddaa qabdu kana eessaa akka argattu, attamittis hidhanii gad si qabuun akka danda'amu hadaraa anatti himi!? jette.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Siimson deebiseefii, ?Ribuu haaraa hin goggogin jiru torbaan yoo na hidhan nan dadhaba, akkuma nama kan biraas nan ta'a? jedhe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Yommus gurguddoonni Filisxeemotaa ribuu haaraa hin goggogin jiru torba isheetti in fidan; isheen immoo ittiin namicha in hiite.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yeroo sana namoonni kutaa mana ishee gar tokko keessa riphanii in eeggatu turan; isheenis, ?Yaa Siimson! Filisxeemonni sitti dhufan!? jette; inni immoo akkuma fo'aan jirbii yeroo ibiddatti dhi'aatu gargar yaa'utti, ribuu sana in kukkute; humni isaa eessaa akka dhufu garuu amma illee hin beekamne.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Deliilaan ammas Siimsoniin, ?Edaa ati anatti ga'ifte, soba anatti dubbattes; amma garuu maaliin akka hidhamtu hadaraa anatti himi!? jette.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Inni immoo, ?Funyoo haaraa kanaan dura ittiin hin hojjetaminiin yoo na hidhan nan dadhaba, akkuma nama kan biraas nan ta'a? jedheen.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Achumaan Deliilaan funyoo haaraa fudhattee ittiin isa hiite; namoonni immoo kutaa mana ishee gar tokko keessa riphanii in eeggattu turan; isheen immoo, ?Yaa Siimson! Filisxeemonni sitti dhufan!? jetteen; inni garuu akka nama fo'aa kututti funyicha irree isaatii in kukkute.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Deliilaan kana irratti Siimsoniin, ?Ati hamma ammaatti anatti ga'ifte, soba anatti dubbattes; amma maaliin akka hidhamtu anatti himi!? jette; yommus Siimson, ?Daabee mataa kootii torban manii keessa baaftee gudunfitee, jabeessitee qofootti yoo hiite nan dadhaba, akkuma nama kan biraas nan ta'a? jedhe.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Isheenis utuu inni rafee jiruu daabee mataa isaatii torban manii keessa baaftee gudunfitee, jabeessitee qofootti hiitee, ?Yaa Siimson, Filisxeemonni sitti dhufan!? jette; innis hirribaa dammaqee qofoo isa isheen daabee mataa isaatii manii keessa baaftee gudunfitee itti hiite sana in buqqise.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Isheen ammas, ?Kunoo ati humna kee isa guddaa kana eessaa akka argattu anatti himuu dhiiftee si'a sadii anatti ga'ifte; garaan kee ana bira utuu hin jiraatin, attamitti ?Sin jaalladha? naan jetta ree? jetteen.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Har'aa bor isa gaafachuudhaan rakkiftee taa'uu fi ka'uu waan isa dhowwiteef hamma du'aatti in gadde.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Kana irraa kan ka'es, ?Ani garaa haadha kootiitii jalqabee Waaqayyoof addaan waanan baafameef, takkaa qarabaan mataa koo irra hin geenye; mataan koo yoo haadame garuu humna nan dhaba, nan dadhaba, akkuma nama kan biraas nan ta'a? jedhee, dhoksaa garaa isaatii hundumaa isheetti in hime.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Deliilaan yommus Siimson dhoksaa garaa isaatii hundumaa akka isheetti hime hubattee, gurguddoota Filisxeemotaatti ergitee, ?Namichi dhoksaa garaa isaatii hundumaa anatti himeera; kanaaf amma kana kottaa!? jettee waamte; kanaaf gurguddoonni Filisxeemotaa horii ishee abdachiisanii turan harkatti qabatanii gara ishee in dhufan.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Isheen immoo jilba ishee irra isa rafiftee, nama tokko waammattee, daabee mataa Siimson torbanuu irraa in haadchifatte; akkasitti isheen gad isa qabuu jalqabde, innis humna in dhabe.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Yeroo sanatti Deliilaan, ?Yaa Siimson! Filisxeemonni sitti dhufan?! jetteen; inni garuu hirribaa dammaqee, Waaqayyo akka isa irraa gara gale utuu hin beekin, ?Akkuma koo kanaan duraa of irraa darbadheen gad ba'a? jedhee yaade.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Yommus Filisxeemonni Siimsonin qabanii ija isaa keessaa baasanii gara Gaazaatti gad in geessan; achitti funcaa sibiila diimaatiin isa hidhanii, mana hidhaa sana keessatti daakuu isa in daaksisu turan.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Haa ta'u iyyuu malee, rifeensi mataa isaatii inni haadamee ture deebi'ee guddachuufii in jalqabe.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Gurguddoonni Filisxeemotaa, ?Daagon Waaqayyoon keenya, harka keenya keessa buuse Siimson diina keenya? jedhanii, Waaqayyo isaaniitiif kennaa qalma guddaa isaa dhi'eessuudhaaf isatti gammaduudhaafis walitti in qabaman.",
+     "alt": "፳፫",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Gurguddoonni Filisxeemotaa, ?Daagon Waaqayyoon keenya,"
+      },
+      {
+       "style": "q2",
+       "t": "harka keenya keessa buuse Siimson diina keenya? jedhanii, Waaqayyo isaaniitiif kennaa qalma guddaa isaa dhi'eessuudhaaf isatti gammaduudhaafis walitti in qabaman."
+      }
+     ]
+    },
+    {
+     "n": 24,
+     "t": "Jarri Siimsonin yommuu argan, Waaqayyo isaanii jajatanii, ?Waaqayyo inni kan keenyaa harka keenya keessa buuse diina keenya, isa biyya keenya balleesse, namoota baay'ees nu duraa ajjeese? jedhan.",
+     "alt": "፳፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Jarri Siimsonin yommuu argan, Waaqayyo isaanii jajatanii, ?Waaqayyo inni kan keenyaa"
+      },
+      {
+       "style": "q2",
+       "t": "harka keenya keessa buuse diina keenya,"
+      },
+      {
+       "style": "q2",
+       "t": "isa biyya keenya balleesse,"
+      },
+      {
+       "style": "q2",
+       "t": "namoota baay'ees nu duraa ajjeese? jedhan."
+      }
+     ]
+    },
+    {
+     "n": 25,
+     "t": "Garaa isaanii guutuudhaan yeroo gammadanitti, ?Siimson dhufee nuuf haa taphatu, isa waamaa!? jedhan; Siimsonin mana hidhaa keessaa waamsisanii, utuboota gidduu dhaabachiisanii, akka inni isaan duratti taphatu in godhan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Siimson immoo, dargaggeessicha harka qabee isa geggeessuun, ?Utuboota manicha baatanii jiran qaqqabadhee akkan itti hirkadhuuf gad na dhiisi!? jedhe.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Dhiironnii fi dubartoonni, gurguddoonni Filisxeemotaa hundinuus manicha keessa guutanii turan; isaan malees tapha Siimson argisiisu ilaaluudhaaf dhiironnii fi dubartoonni kumni sadii kutaa manichaa isa gara irraa keessa turan.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Yommus Siimson, ?Yaa gooftaa ko, na yaadadhu! Ija koo lamaaniif Filisxeemota irratti tokkicha ijaa akkan baafadhuuf maaloo yaa Waaqayyo alana duwwaa humna anaaf kenni!? jedhee Waaqayyoon waammate.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Utuboota manicha baatanii jiran warra gidduu lamaan, utubaa isa tokko harka isaa mirgaatiin, isa kaan immoo harka isaa bitaatiin dhisee in qabe.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Achumaanis, ?Filisxeemota kanaa wajjin nan obbaafadha? jedhee, utuboota sana humnaan gargar in dhiibe; manichi gurguddootaa fi namoota isa keessa turan hundumaa irratti in jige; akkasitti Siimson warra fayyaatti utuu jiruu ajjeese caalaa gaafa du'e sana namoota baay'ee in fixe.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Yommus obboloonni isaaf qomoon abbaa isaa hundinuu dhaqanii reeffa isaa fuudhanii geessanii, lafa awwaala abbaa isaa Maano'aa isa Zoraadhaa fi Eshta'ol gidduu jirutti in awwaalan; Siimson waggaa digdama Israa'elin geggeessee ture.",
+     "alt": "፴፩"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 16",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Siimson Gaazaatti Argamuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Siimson Dubartiidhaan Gowwoomfamuu Isaa",
+     "before": 4
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Siimson Namoota Baay'ee Fixee Wajjin Du'uu Isaa",
+     "before": 23
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Biyya gaaraa isa kan Efreem keessa namni maqaan isaa ?Miikaa? jedhamu tokko ture.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Yommus inni haadha isaatiin, ?Meetiin kumni tokkoo fi dhibbi tokko si duraa hatamnaan, nama si duraa hate abaaruu kee si irraa dhaga'eera; kunoo, meetii kana anatu fuudhe, amma iyyuu ana bira jira? jedhe; haati isaas, ?Yaa ilma ko, Waaqayyo si haa eebbisu!? jetteen.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Achumaan inni meetii kuma tokkoo fi dhibba tokkon sana deebisee haadha isaatti in fide; haati isaa immoo, ?Abaarsi koo si mucaa koo irra akka hin geenyetti meetii kana maqaa keetiin Waaqayyoof addaan nan baasa; meeticha siif deebisee bifa fakkeenyaas muka irraa soofsisee, meetii isa irratti nan uffisiisa? jette.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Miikaan meeticha deebisee haadha isaatti kenninaan, isheen meeticha irraa dhibba lama fuutee nama meetii baqsutti in kennite; namichis bifa fakkeenyaa muka irraa qirixee meetii irratti uffise; bifni fakkeenyaa sunis mana Miikaa keessa in kaa'ame.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Akkasitti Miikaan waaqayyolii isaatiif galma godhatee dirata fuula duraaf bifa waaqayyolii qopheessisee, ilmaan isaa keessaa tokko luba akka isaaf ta'uuf hojii irra isa in dhaabe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Yeroo sana sabni Israa'el mootii waan hin qabneef, namni hundinuu waanuma qajeelaa isatti fakkaatu in hojjeta ture.",
+     "alt": "፮",
+     "refs": [
+      {
+       "origin": "17:6",
+       "target": "Abo 21:25."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "t": "Yommus dargaggeessi sanyii Lewwii tokko Betlihem biyya Yihudaa keessa Yihudoota gidduu galaa ta'ee in jiraata ture.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Inni iddoo itti galaa ta'ee hojjetu barbaaddachuudhaaf mandara Betlihem biyya Yihudaatii ba'ee, gara biyya gaaraa isa kan Efreem keessaa gara mana Miikaa in dhufe.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yommus Miikaan, ?Eessaa dhufte?? jedhee isa gaafate; inni immoo, ?Ani nama sanyii Lewwii ti; iddoon itti galaa ta'ee jiraadhu barbaaddachuudhaafan Betlihem Yihudaatii dhufe? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Miikaan deebisee, ?Ana bira taa'i! Abbaadhaa fi luba anaaf ta'i! Ani immoo nyaataa fi uffata, waggaattis meetii kudhan siif nan kenna? jedheen; innis kanatti in gale.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Dargaggeessichi sanyii Lewwii sun Miikaa bira taa'uu in jaallate; namichis ilmaan isaa keessaa akka isa tokkootti isa in ilaale.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Miikaan akkasitti dargaggeessicha Lewwii sana hojii lubummaa irra in dhaabe; inni immoo luba ta'ee mana Miikaa in taa'e.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yommus Miikaan, ?Namni Lewwii luba erga anaaf ta'ee, Waaqayyo amma waan gaarii akka anaaf godhu nan beeka? jedhe.",
+     "alt": "፲፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 17",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Miikaan Galma Waaqayyo Tolfamaa Isaatiif Qopheessuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Miikaan Nama Sanyii Lewwii Tokko Luba Godhachuu Isaa",
+     "before": 7
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Yeroo sana sabni Israa'el mootii hin qaban turan; gosi Daan immoo hamma bara sanaatti gosoota Israa'el gidduudhaa dhaala waan hin argatiniif, biyya itti galanii keessa jiraatan in barbaaddatu turan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Warri Daan namoota qomoo isaanii Zoraa fi Eshta'ol keessaa biyyicha gaadanii keessa akka baraniif loltoota jajjaboo shan in ergan; jaraanis, ?Dhaqaatii biyyicha keessa baraa!? jedhan; yommus jarri gara biyya gaaraa isa kan Efreem dhufanii mana Miikaa in bulan.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Mana Miikaa yeroo turanitti dargaggeessicha Lewwii sana akka haasaa isaatiin isa baranii gara isaatti gara galanii, ?Maaltu as si fide? Asii maal hojjetta? Asii maal qabda?? jedhanii gaafatan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Inni immoo wanta Miikaan godheef isaanitti himee, ?Luba ta'ee, akkan hojjedhuuf na qacarate? jedhe.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Kana irratti isaan dargaggeessichaan, ?Yaadni nuyi adeemnuuf kun wal nuuf qixxaata yoo ta'eef hadaraa Waaqayyoon nuuf gaafadhu!? jedhan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Lubichis, ?Yaadni isin adeemtaniif kun Waaqayyo duratti fudhatamaa dha, nagaadhaan dhaqaa!? jedhe.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Yommus jarreen shanan achii adeemanii gara mandara Laa'iish dhaqanii, warri mandarichaa akka warri Sidoon itti jiraatanitti nagaadhaa fi gabiitti bir'aa malee jiraachuu isaanii in argan; warri mandara sanaa warra Sidoonittii fagaatanii in jiraatan, nama kan biraa wajjinis walitti hin adeemne; biyyicha keessattis namni aboo isaa jala galchee isaan yeellaasisee hin beeku.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Warri gaadduun sun mandaroota Zoraa fi Eshta'ol lafa obboloonni isaanii jiranitti yommuu deebi'an, obboloonni isaaniis, ?Inni isin dhaqxaniif attam ture?? jedhanii isaan gaafatan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Isaan immoo deebisaniifii, ?Biyyichi baay'ee ba'eessa ta'uu isaa argineerra. Kanaafis ka'aa, isaanitti in duullaa! Calluma jettanii hin dhiisinaa! Biyyicha fudhachuudhaaf itti lixuu hin seesinaa!",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Yommuu dhaqxan biyya namoonni bir'aa malee jiraatan, biyya sonaan bal'atutti in baatu; Waaqayyo lafa wanti biyya lafaa irratti argamu tokko illee itti hin hir'anne sana isiniif kenneera? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Kana irratti namoota Daan keessaa dhibbi ja'a mi'a lolaa hidhatanii mandaroota Zoraa fi Eshta'olii ba'anii adeeman.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Dhaqaniis biyya Yihudaa mandara Kiriiyat-Ya'ariim keessa buufatan; kanaaf iddoon gara lixa-biiftuu Kiriiyat-Ya'ariim jiru kun hamma har'aatti iyyuu ?Buufata Daan? jedhamee in waamama.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Darbaniis biyya gaaraa isa kan Efreem keessaa gara mana Miikaa in dhufan.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yommus jarreen shanan mandara Laa'iish biyya naannoo isaa jiru gaaduudhaaf dhaqanii turan obboloota isaaniitiin, ?Isin manneen Miikaa kana keessa diranni fuula duraa, bifni waaqayyolii mana keessaa, bifni fakkeenya muka irraa qirixamee meetiin irratti uffifames akka jiran baraa! Ammas isaan kana akka beektan godhaa!? jedhan.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Kana irratti isaan goranii gara mana Miikaa lafa dargaggeessichi Lewwii sun jiru dhaqanii nagaa in gaafatan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yeroo sana namoonni Daan warri dhibbi ja'an mi'a lolaa hidhatanii, karra bukkee in dhaabatu turan.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Dargaggeessichi inni luba ta'e sun jarreen dhibbi ja'an mi'a lolaa hidhatanii wajjin karra bukkee dhaabatee utuu jiruu, warri shanan biyyicha gaaduuf dhaqanii turan ol galanii, dirata fuula duraa, bifa waaqayyolii mana keessaa, bifa fakkeenya muka irraa qirixamee meetiin irratti uffifames in fudhatan.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Yommuu isaan mana Miikaa lixanii dirata fuula duraa, bifa waaqayyolii mana keessaa, bifa fakkeenya muka irraa qirixamee meetiin irratti uffifames fudhatanitti lubichi, ?Jarana, maal gochuu keessan?? jedheen.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Isaan immoo deebisanii, ?Calluma jedhi! Afaan kee qabadhuutii nu duukaa bu'i, abbaa fi luba nuuf ta'i! Maatii nama tokkoof luba ta'uu irra qomoo fi gosa Israa'el tokkoof luba ta'uu siif wayya mitii ree?? jedhaniin.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Yommus lubichi garaa isaatti gammadee, dirata fuula duraa, bifa waaqayyolii mana keessaa, bifa fakkeenya muka irraa qirixamees fudhatee jara gidduu bu'ee adeeme.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Ergasii jarreen deebi'anii ijoollee isaanii, horii isaanii fi qabeenya isaanii of dura buusanii achii in adeeman.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Namoonni Daan mana Miikaa biraa erga fagaatanii, warri naannoo mana Miikaa walitti waamamanii jara hordofanii in qaqqaban.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Itti iyyuu isaanii irraa kan ka'es namoonni Daan gara isaaniitti gara galanii Miikaadhaan, ?Maal taatee namoota nutti dachaafte?? jedhan.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Miikaan deebisee jaraan, ?Attamitti ?Maal taate? jettanii na gaafattu? Waaqayyolii ani tolfadhee fi luba koo fudhattanii erga adeemtanii anaaf immoo maaltu hafe ree?? jedhe.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Warri Daan yommus Miikaadhaan, ?Namoonni kun aaranii akka si irratti hin kaanetti, atis namoota mana keetii wajjin lubbuu kee akka hin dhabnetti ?Xis? jettee hin dubbatin!? jedhan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Achumaanis karaa isaanii irra in bu'an; Miikaan warri Daan isa caalaa jaboo akka ta'an hubatee deebi'ee gara mana isaatti in gale.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Warri Daan waaqayyolii Miikaan tolfate, luba inni hojjechiifatus duraa fudhatanii, saba nagaadhaa fi gabiitti jiraatu loluudhaaf mandara Laa'iishitti in duulan; namoota billaadhaan ajjeesanii, mandaricha immoo ibiddaan in guban.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Laa'iish, Sidoonittii fagoo Bet-Rehoob dachaa keessa waan turteef, namoota mandara biraa wajjinis waan walitti hin adeemneef homtinuu hin birmanneef; ergasii garuu warri Daan mandaricha deebisanii ijaaranii keessa taa'an.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Maqaa mandara Laa'iish jedhamaa ture sanaas maqaa abbaa isaanii ilma Yaaqoobitti ?Daan? jedhanii moggaasan.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Yommus namoonni Daan waaqayyolii tolfamoo sana in dhaabbatan; hamma guyyaa biyyichi qabameetti Yonaataanii fi ilmaan isaa gosa Daaniif luboota ta'anii hojjechaa turan; Yonaataan kun ilma Gershoom, Gershoom immoo ilma Musee ture.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Hamma bara manni Waaqayyoof itti sagadan Shiiloo turetti, warri Daan immoo Waaqayyo tolfamaa isa Miikaan hojjetate sana in dhaabbatan.",
+     "alt": "፴፩"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 18",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gosi Daan Laa'iishin Qabachuu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Bara Israa'el mootii hin qabne sanatti namni sanyii Lewwii tokko galaa ta'ee moggaa biyya gaaraa isa kan Efreem keessa in jiraata ture; inni Betlihem biyya Yihudaatii dubartii tokko dabalee fuudhee saajjatoo in godhate.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Saajjatoon isaa kun isatti aartee, mana abbaa ishee isa Betlihem biyya Yihudaa jirutti galtee ji'a afur in teesse.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Abbaan manaa ishee immoo garaa laaffifatee ishee galfachuudhaaf dargaggeessa tokkoo fi harroota lama fudhatee, ishee barbaacha dhaqe; isheen mana abbaa isheetiitti ol isa galchite, abbaan ishees yommuu isa arge gammachuudhaan isa simate.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Abbiyyuun isaa abbaan dubartittii takka achi akka turuuf isa giddisiifnaan, innis guyyaa sadiif isa bira in bubbule; yeroo kanatti wajjin in nyaatu, in dhugus turan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Gaafa guyyaa afuraffaa ganama obboroodhaan ka'anii, soddaan namichaa immoo adeemuuf in qophaa'e; abbaan dubartittii garuu soddaa isaatiin, ?Jabaattee akka adeemtutti dura afaan bulee baafadhu!? jedhe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Isaan lamaan taa'anii in nyaatu, in dhugus turan; kana booddee abbaan dubartittii soddaa isaatiin, ?Hadaraa har'as nu bira buli, garaan kees haa gammadu!? jedhe.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Namichi Lewwii sun adeemuudhaaf ka'ee ture; garuu abbiyyuun isaa akka inni ooluuf waan isa giddisiiseef, halkan sanas immoo achi bule.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Gaafa guyyaa shanaffaas immoo namichi Lewwii sun ganama obboroodhaan adeemuudhaaf in ka'e; abbaan dubartittii garuu, ?Maaloo, qarri aduu hamma siif cabutti turi! Karaadhaafis waan si jabeessu fudhadhu!? jedheen; lamaanuus wajjin in nyaatan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Kana booddee namichi Lewwii sun saajjatoo isaa fi dargaggeessa isa bira turee wajjin adeemuuf kaanaan, abbiyyuun isaa abbaan dubartittii, ?Kunoo isinitti galgalaa'eera, dhi'uu ga'eeras; kanaaf hadaraa halkan akka isinitti hin taanetti as bulaa! Bor ganama obboroodhaan kaatanii in adeemtu? jedheen; addumaan immoo soddaa isaatiin, ?Bor mana keetti in galta, har'aaf buli, garaan kees haa gammadu!? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Namichi garuu achi buluu hin barbaanne; harroota fe'aman lamaanii fi saajjatoo isaa fudhatee adeemee, fuullee Yibus in ga'e; Yibus kun isa ?Yerusaalem? jedhamuu dha.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Yibusitti yommuu dhi'aatan aduun baay'ee waan dhi'eef, dargaggeessichi gooftaa isaatiin, ?Kottaa gara mandara Yibusootaa kanatti gorree bullaa!? jedhe.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Gooftaan isaa garuu, ?Lakkii darbinee Giibe'aa dhaqna malee, mandara ormaa isa namoonni Israa'el keessa hin jirretti hin gorru!",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Beenu! Iddoo tokkotti butannee Giibe'aa yookiis Raamaa in bulla? jedhe.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Darbanii adeemanii Giibe'aa isa kan gosa Benyaamiinitti yommuu dhi'aatan aduun in lixxe.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Isaan illee Giibe'aa buluuf itti goran; namichi dhaqee waltajjii mandarichaa keessa in taa'e; garuu namni tokko iyyuu isaan bulchuudhaaf mana isaatti isaan hin simanne.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Haa ta'u iyyuu malee, jaarsi biyya gaaraa isa kan Efreemii dhufee, mandara Giibe'aa isa namoonni Benyaamiin keessa taa'anitti galaa ta'ee jiraatu tokko ture; jaarsichi gaafas maasii isaa keessa hojjechaa oolee galgala sana gara manaatti utuu deebi'uu,",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "namicha kara-adeemaa sana waltajjii mandarichaa keessatti yommuu arge, ?Eessaa dhufte? Eessas dhaqxa?? jedhee in gaafate.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Namichi immoo deebiseefii, ?Nuyi kara-adeemoo dha; Betlihem biyya Yihudaatii gara moggaa biyya gaaraa isa kan Efreem lafa ani dhufetti deebi'aan jira; Betlihem biyya Yihudaa dhaqeen ture, amma immoo gara mana isa ani Waaqayyoof itti hojjedhutti nan deebi'a; asittis namni mana isaatti na simatu tokko illee hin jiru.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Nuyi garboota keetti wanti hir'atu hin jiru, anaafis, garbittii keetiif, dargaggeessicha kanaafis buddeennii fi daadhiin waynii jira, harrootaafis cidii fi habaqii qabna? jedhe.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Yommus jaarsichi, ?Nagaan siif haa ta'u! Wanta si barbaachisu hundumaa anatti dhiisi! Waltajjii kana keessa garuu hin bulin!? jedheen.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Innis gara mana isaatti isaan fudhatee galee, harrootaaf habaqii kenne; jarri immoo miilla isaanii dhiqatanii, in nyaatan, in dhuganis.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Jarri garaa isaaniitti gammadaa utuu jiranii, mandaricha keessaa namoonni wanta jibbisiisaa hojjetan manichatti marsanii balbala isaas itti reebanii jaarsicha abbaa manaa sanaan, ?Namicha mana kee dhufe kana akka gadhessinutti gad nuuf baasi!? jedhan.",
+     "alt": "፳፪",
+     "refs": [
+      {
+       "origin": "19:22",
+       "target": "Uma 19:5-8."
+      }
+     ]
+    },
+    {
+     "n": 23,
+     "t": "Abbaan manichaa garuu gad isaanitti ba'ee, ?Lakkisaa! Yaa obboloota ko, wanta hamaa kana hin hojjetinaa! Namni kun keessummummaa mana koo dhufe; wanta yeellaasisaa akkasii isa irratti hin raawwatinaa!",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Mucaan durbaa koo fi saajjatoon keessummaa kanaa kunoo ti! Isaan gad isiniif nan baasa, akkuma jaallattan isaan godhaa, isaanitti taphadhaas! Namicha kana irratti garuu wanta yeellaasisaa akkasii hin raawwatinaa!? jedhe.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Jarreen sun garuu dubbii isaa dhaga'uu hin barbaanne; kanaaf namichi Lewwii saajjatoo isaa harka qabee gad isaaniif baafnaan, isaan ishee bira ga'anii halkan guutuu hawwa isaanii gar malee ishee irratti raawwatanii yeroo boruun baqaqutti gad ishee dhiisan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Dubartittiinis ganama bariidhaan dhuftee, balbala manichaa isa abbaan manaa ishee keessa jiru jalatti kufte; yommuu lafti ifes achuma ciiftee in argamte.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Abbaan manaa ishees ganama ka'ee adeemuudhaaf balbala manichaa yommuu banu, saajjatoon isaa balbala duratti harka ishee buusaa balbalichaa irratti facaaftee kuftee argee,",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "?Ka'i, in adeemnaa!? jedheen; garuu deebii hin arganne; kana irratti du'uu ishee baree reeffa ishee harree irra kaa'ee gara mana isaa in dhaqe.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Mana isaas yommuu ga'e haaduu fudhatee reeffa haadha manaa isaatii iddoo kudha lamatti buusaa buusaatti kukkutee, kutaa biyya gosoota Israa'el hundumaatti tokko tokko in erge.",
+     "alt": "፳፱",
+     "refs": [
+      {
+       "origin": "19:29",
+       "target": "1Sam 11:7."
+      }
+     ]
+    },
+    {
+     "n": 30,
+     "t": "Warri kana argan immoo, ?Sabni Israa'el biyya Gibxii erga ba'ee jalqabee hamma har'aatti wanti akkasii ta'ee hin beeku, argamees hin beeku; kanaaf waa'ee isaa itti yaaduun, irratti mari'achuun, wanta gochuun ta'us walitti himuun barbaachisaa dha? jedhan.",
+     "alt": "፴"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 19",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Nama Sanyii Lewwii Tokkoo Fi Saajjatoo Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Dabaa Namoonni Giibe'aa Saajjatoo Namicha Lewwii Irratti Hojjetan",
+     "before": 22
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Yommus sabni Israa'el hundinuu kutaa biyya Daan isa gara bitaatii hamma Bersheebaatti akkasumas biyya Giil'aad isa gara ba'a-biiftuutii ba'anii, waldaan guutuun yaada tokkichaan Miisphaatti Waaqayyo duratti walitti in qabaman.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Gurguddoonni gosoota Israa'el hundinuus wal-ga'ii saba Waaqayyoo, lafoo kumaatama dhibba arfan billaa hidhatanii lolaaf ba'an sana gidduutti in argaman.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus warri Benyaamiin gosoonni Israa'el warri kaan Miisphaatti akka ol ba'an in dhaga'an; namoonni Israa'elis, ?Wanti hamaan kun attamitti akka raawwatame nutti himaa!? waliin jedhan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Kana irratti namichi Lewwii, abbaan manaa dubartii ajjeefamte sanaa deebisee, ?Anii fi saajjatoon koo biyya isa kan Benyaamiin keessa Giibe'aa buluudhaaf dhufne.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Halkan sanatti namoonni Giibe'aa ana irratti ka'anii, mana ani keessa turetti marsanii na ajjeesuu barbaadan; saajjatoo kootti gar malee in taphatan, isheenis kana irratti in duute.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Isaan koratanii wanta yeellaasisaa akkasii Israa'el keessatti waan hojjetaniif, ani reeffa saajjatoo kootii fuudhee kukkutee biyya Israa'eloonni dhaala godhatanii keessa jiraatan hundumaatti nan erge.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Egaa yaa namoota Israa'el, hundumti keessan irratti dudubbadhaatii waan gochuun ta'u mari'adhaa!? jedhe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Namoonni sun hundinuu immoo yaada tokkichaan, ?Nu keessaa namni tokko illee gara dunkaana isaatti yookiis gara mana isaatti hin deebi'in!",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Amma muka buufannee Giibe'aa irratti kaanee, itti in duulla.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Gosoota Israa'el hundumaa keessaa loltootaaf galaa kan fidan namoota dhibba keessaa kudhan, kuma tokko keessaa dhibba tokko, kuma kudhan keessaa kuma tokko in qopheessina; loltoonni immoo gara Giibe'aa isa kan Benyaamiin yommuu dhaqan, wanta yeellaasisaa namoonni Giibe'aa Israa'el keessatti hojjetaniif adaba argachuun isaaniif ta'u isaan irratti haa raawwatan!? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Akkasitti namoonni Israa'el hundinuu yaada tokkoon mandara sana irratti ka'uudhaaf walitti in qabaman.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Yommus gosoonni Israa'el warri kaan gosa Benyaamiin hundumaatti namoota erganii, ?Wanti hamaan isin gidduutti ta'e kun maali?",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Amma namoota waan jibbisiisaa akkasii hojjetanii Giibe'aa keessa jiraatan qabaatii nutti kennaa! Nuyis isaan ajjeefnee, hojii hamaa akkasii Israa'el keessaa in balleessinaa!? jedhan; warri Benyaamiin garuu dubbii obboloota isaanii namoota Israa'el kana hin fudhanne.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Kanaaf mandaroota isaanii hundumaa keessaa ba'anii namoota Israa'el loluudhaaf Giibe'aatti wal ga'an.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Guyyaa sanatti warri Benyaamiin namoota dhibba torba lolaaf fo'amanii Giibe'aa keessa jiraatan malee, mandaroota isaanii keessaa loltoota billaa hidhatan kuma digdamii ja'a lolaaf in baasan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Jara kana hundumaa keessaa immoo namoonni fo'aman dhibbi torba bitaacha turan; isaan furrisaan dhagaa yoo darbatan qal'aa in kutu turan.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Warri Israa'el immoo karaa isaanii loltoota billaa hidhatanii lolatti beekaman kumaatama dhibba afur lolaaf in baasan.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Namoonni Israa'el Bet'elitti ol ba'anii, ?Gosa Benyaamiinitti lola kaasuudhaaf nu keessaa gosi eenyuu dura haa ba'u?? jedhanii Waaqayyoon in gaafatan; Waaqayyo immoo, ?Gosi Yihudaa dura haa ba'u!? jedhee deebiseef.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Namoonni Israa'el borumtaa ganamaan ka'anii, fuullee mandara Giibe'aa in buufatan.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Isaan gosa Benyaamiin loluudhaaf ba'anii, Giibe'aatti loltoota isaanii toora galfatanii fuullee isaanii in dhaabatan.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Gaafas namoonni Benyaamiin Giibe'aadhaa ba'anii Israa'eloota kuma digdamii lama lafatti in dabalan.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Namoonni warra Israa'el garuu ammas wal jajjabeessanii, dhaqanii iddoo isaanii isa gaafa jalqabaatti loltoota isaanii toora in galchan.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Israa'eloonnis dhaqanii Waaqayyo duratti hamma galgalaatti boo'anii, ?Ammas obboloota keenya namoota Benyaamiin loluudhaaf itti dhi'aannuu ree?? jedhanii isa in gaafatan; Waaqayyo immoo deebiseefii, ?Eyyee! Ol ba'aatii isaan lolaa!? jedheen.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Guyyaa lammaffaattis namoonni Israa'el warra Benyaamiin loluudhaaf gara isaaniitti in dhi'aatan.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Warri Benyaamiin immoo guyyaa lammaffaa sanatti isaan rukutuudhaaf mandara Giibe'aatii ba'anii, warra Israa'el keessaa loltoota billaa hidhatan kuma kudha saddeet lafatti in dabalan.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Gaafas namoonni Israa'el hundumti isaanii Bet'elitti ol ba'anii, achittis fuula Waaqayyoo dura taa'anii, hamma galgalaatti soomanii in boo'an, qalma gubamuu fi qalma araaraa Waaqayyoof dhi'eessan.",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Israa'eloonni Waaqayyoon in gaafatan; bara sanatti sanduuqi kakuu Waaqayyoo iddoo sana waan tureef,",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Fiinehaas ilmi Ele'azaar ilmi Aaron immoo isa dura dhaabatee in hojjeta ture; namoonni Israa'el gaaffii isaanii keessatti, ?Obboloota keenya warra Benyaamiin loluudhaaf ammas baanu moo yookiis dhiifnu?? jedhan; Waaqayyo immoo deebisee, ?Ani bor harka keessanitti isaan nan kennaatii dhaqaa!? jedhe.",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Yommus warri Israa'el namoota riphanii eeggatan Giibe'aatti naannessanii in kaa'an.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Gaafa guyyaa sadaffaas namoonni Israa'el warra Benyaamiin rukutuudhaaf ol ba'anii, akkuma yeroo duraa lamaanii fuullee Giibe'aatti loltoota isaanii toora in galfatan.",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "Warri Benyaamiin Israa'eloota rukutuuf mandara keessaa ba'anii hamma fagaatanitti in adeeman; akkuma yeroo duraa lamaaniis karaa gara Bet'elitti ol baasuu fi karaa gara Giibe'aatti geessu irratti rukutuu jalqabanii Israa'eloota keessaa akka namoota soddomaa bakkeetti in ajjeesan.",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "Warri Benyaamiin yommus, ?Israa'eloonni akkuma kanaan duraa fuula keenya duratti mo'amuu isaanii ti? jedhanii yaadan; warri Israa'el garuu, ?Kottaa gara booddeetti deebinee mandara isaanii irraa fagaatanii gara karaatti akka ba'an isaan in goonaa!? jedhan.",
+     "alt": "፴፪"
+    },
+    {
+     "n": 33,
+     "t": "Yommus loltoonni Israa'el hundinuu iddoo isaaniitii ka'anii, iddoo ?Ba'aal Taamaar? jedhamutti lolaaf toora in galan; warri riphanii eeggachaa turanis bakkee Gebaa lafa dhokatanii jiran sanaa in ba'an.",
+     "alt": "፴፫"
+    },
+    {
+     "n": 34,
+     "t": "Loltoonni kumni kudhan Israa'eloota hundumaa keessaa fo'amanii Giibe'aa rukutuudhaaf in dhufan; lolli sun jabaa waan tureef, warri Benyaamiin badiifni akka isaan irra ga'e hin hubanne.",
+     "alt": "፴፬"
+    },
+    {
+     "n": 35,
+     "t": "Warri Benyaamiin Israa'eloota duratti akka mo'aman Waaqayyo waan godheef, namoonni Israa'el guyyaa sanatti Benyaamiin keessaa loltoota billaa hidhatan namoota kuma digdamii shanii fi dhibba tokko in fixan.",
+     "alt": "፴፭"
+    },
+    {
+     "n": 36,
+     "t": "Warri Benyaamiin mo'amuu isaanii in hubatan; akki isaan itti mo'amanis kanatti aanee jira; warri Israa'el loltoota isaanii warra naannoo Giibe'aa riphanii jiran waan abdataniif, loltoota Benyaamiiniif lafa in hilan.",
+     "alt": "፴፮"
+    },
+    {
+     "n": 37,
+     "t": "Jarreen riphanii turan sun immoo ariitiidhaan gara Giibe'aatti fiiganii, mandaricha keessas asii fi achi adeemanii, namoota hundumaa billaadhaan in rukutan.",
+     "alt": "፴፯"
+    },
+    {
+     "n": 38,
+     "t": "Namoonni Israa'el warra riphanii wajjin milikkita tokko irratti waliif galanii turan; milikkitichis, warri riphanii turan mandaricha gubanii aara dukkanaa'aa guddaa isaa akka ol aarsaniif ture.",
+     "alt": "፴፰"
+    },
+    {
+     "n": 39,
+     "t": "Yeroo loltoonni Israa'el waraana irraa gara booddee isaanii deebi'anitti, loltoonni Benyaamiin Israa'eloota rukutuu jalqabanii, akka namoota soddomaa in ajjeesan; kana irratti, ?Dhugumaan akkuma lola isa kanaan duraa keessatti ta'etti, fuula keenya duratti mo'amuu isaanii ti? jedhan.",
+     "alt": "፴፱"
+    },
+    {
+     "n": 40,
+     "t": "Haa ta'u iyyuu malee, aarri mandaricha keessaa akka utubaatti ol in ka'e; warri Benyaamiin immoo gara galanii, mandarichi guutummaatti gubatee aarri gara waaqaatti ol ka'uu isaa in argan.",
+     "alt": "፵"
+    },
+    {
+     "n": 41,
+     "t": "Badiifni akka isaanitti dhufe hubatanii in na'an; loltoonni Israa'el garuu isaanitti gara galan.",
+     "alt": "፵፩"
+    },
+    {
+     "n": 42,
+     "t": "Warri Benyaamiin immoo dugda isaanitti gatanii karaa lafa onaa in baqatan; haa ta'u iyyuu malee, loltoota Israa'el jalaa ba'uu hin dandeenye; warri mandaricha rukutanis gad itti ba'anii gidduutti isaan in fixan.",
+     "alt": "፵፪"
+    },
+    {
+     "n": 43,
+     "t": "Loltoonni Israa'el namoota Benyaamiin marsanii, utuu aara hin galfatin karaa gara ba'a-biiftuu hamma fuullee Giibe'aatti ari'anii isaan irra in yaa'an.",
+     "alt": "፵፫"
+    },
+    {
+     "n": 44,
+     "t": "Loltoota Benyaamiin warra jajjaboo kuma kudha saddeet in kukkufisan.",
+     "alt": "፵፬"
+    },
+    {
+     "n": 45,
+     "t": "Yommus warri hafan gara galanii gara lafa onaa gara dhagaa Rimoonitti in baqatan, loltoonni Israa'el karaatti namoota kuma shan isaan keessaa ciranii, hamma Giidomitti utuu ari'anii namoota kuma lama immoo dabalanii in rukutan.",
+     "alt": "፵፭"
+    },
+    {
+     "n": 46,
+     "t": "Guyyaa sanatti loltoonni Benyaamiin warri jajjaboonni billaa hidhatan kumni digdamii shan in dhuman.",
+     "alt": "፵፮"
+    },
+    {
+     "n": 47,
+     "t": "Namoonni dhibbi ja'a immoo of irra gara galanii gara lafa onaa gara dhagaa Rimoonitti jalaa baqatanii ji'a afuriif dhagicha keessa taa'an.",
+     "alt": "፵፯"
+    },
+    {
+     "n": 48,
+     "t": "Israa'eloonni gara namoota Benyaamiin warra kaaniitti deebi'anii namoota, horii, waan mandara keessatti argan hundumaas billaadhaan in rukutan; mandaroota itti dhufan hundumaas ibiddaan in guban.",
+     "alt": "፵፰"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 20",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Sabni Israa'el Giibe'aa Fi Gosa Benyaamiin Loluu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ergasii namoonni Israa'el iddoo Miisphaa jedhamutti wal ga'anii, ?Nu keessaa namni tokko illee intala isaa ilmaan gosa Benyaamiinitti hin heerumsiisu? jedhanii waliif in kakatan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Sabni sun gara Bet'el dhaqanii, hamma galgalaatti achi taa'anii, Waaqayyo duratti sagalee guddaadhaan boo'icha jabaa isaa boo'anii,",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "?Yaa Waaqayyo goofticha Israa'el! Wanti kun maaliif Israa'el irra ga'e? Maaliifis har'a Israa'el keessaa gosi tokko dhabame?? jedhan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Borumtaas jarri bariidhaan ka'anii, achitti iddoo aarsaa ijaaranii, qalma gubamuu fi qalma araaraa in dhi'eessan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Israa'eloonni, ?Namni Miisphaatti fuula Waaqayyoo duratti hin argamin hafe raawwatee haa ajjeefamu!? jedhanii, cimsanii kakatanii turan; kana irratti, ?Gosoota keenya hundumaa keessaa wal ga'ii fuula Waaqayyoo duratti ta'e kana keessatti kan hin argamin eenyufa'i?? jedhanii wal gaafatan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Yommus Israa'eloonni, ?Har'a gosi tokko nu gidduudhaa in balleeffame!? jedhanii, gosa obboleessa isaanii Benyaamiiniif in gaddan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Kanaafis, ?Nuyi durboota keenya gosa Benyaamiinitti akka hin heerumsiifne maqaa Waaqayyootiin kakanneerra, egaa amma warra hafan kana eessaa fuusifna ree?? jedhan.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Ammas Israa'eloonni, ?Gosoota keenya keessaa Miisphaatti ol ba'ee Waaqayyo duratti kan hin argamin eenyu?? jedhanii wal gaafatan; kunoos wal ga'ichaaf namni tokko illee Yaabesh-Giil'aadii gara buufata sanaa kan dhufe hin turre.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Namoonni yeroo to'atamanitti namni Yaabesh-Giil'aadii dhufe tokko illee hin turre.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Kanaaf waldichi namoota isaa warra jajjaboo keessaa kuma kudha lama itti ergee, ?Gara Yaabesh-Giil'aad dhaqaatii warra achi jiraatan dubartootaa fi ijoollota iyyuu utuu hin dhiisin billaadhaan rukutaa!",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Egaa wanti isin gootan dhiirota hundumaa, dubartoota dhiirri bira ga'e hundumaas raawwattanii balleessuu dha!? jedhe in abboome.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Yommus isaan namoota Yaabesh-Giil'aad keessa jiraatan hundumaa keessaa durboota dhiirri isaan bira ga'ee hin beekne dhibba afur argatanii, Shiiloo iddoo buufata isaanii isa biyya Kana'aan keessa jirutti in geessan.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Kana booddee guutummaan waldichaa namoota Benyaamiin warra dhagaa Rimoon keessa turanitti ergee, nagaan akka bu'e itti himsiise.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yeroo sanatti namoonni Benyaamiin gara iddoo isaaniitti in deebi'an; warri Israa'elis durboota Yaabesh-Giil'aad keessaa baraaramanii dhufan isaanitti in heerumsiisan; durboonni sun garuu wal isaan hin geenye.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Waaqayyo gosoota Israa'el keessaa tokko cabsee waan hir'iseef, sabni Israa'el gosa Benyaamiiniif in gaddan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Ergasii maanguddoonni waldichaa, ?Gosa Benyaamiin keessaa dubartoonni badduu ba'aniiru; egaa warra hafan kana eessaa fidnee fuusifnu ree?",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Gosi tokko raawwatee Israa'el keessaa akka hin badnetti, dhaalli gosa Benyaamiin hambaa gosa isaatiif haa ta'u!",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Haa ta'u iyyuu malee, namoonni keenya, ?Nu keessaa namni intala isaa gosa Benyaamiinitti heerumsiise abaaramaa haa ta'u!? jedhanii waan kakataniif, nuyi durboota keenya isaanitti heerumsiisuu hin dandeenyu.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Kunoo, Shiiloo isa Bet'el irraa gara bitaatti karaa Bet'elii gara Sheekemitti geessu irraa gara ba'a-biiftuutti, Lebonaa irraa immoo gara mirgaatti argamu keessatti ayyaanni waggaa waggaatti Waaqayyoof ayyaaneffamu in ta'a? jedhan.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Itti dabalanii namoota Benyaamiiniin, ?Dhaqaa! Dhaabaa waynii keessa riphaatii eeggadhaa!",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Yommuu durboonni Shiiloo lafa ayyaanichaatti sirbaaf gad ba'an eegaatii, iddoo dhaabaa waynichaatii ba'aa, durba tokko tokko butaa! Fudhadhaatii gara biyya Benyaamiin dhaqaa!",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Abboonni isaanii yookiis obboloonni isaanii dhufanii yoo nutti himatan, ?Nuyi immoo yeroo lolaatti hunduma isaanii fuusisuuf durba hin arganne; ammas immoo isin waan itti hin heerumsiisiniif yakka isinitti hin ta'u; kanaaf nuuf jedhaatii faara tolaadhaan jara kana ilaalaa!? ittiin in jenna? jedhan.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Warri Benyaamiin akkuma isaan jedhan in godhan; durboota warra sirbituu sana keessaas tokko tokko butanii gara biyya dhaala isaaniitti in deebi'an; mandarootas deebisanii ijaaranii keessa in taa'an.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Yeroo sanatti namoonni Israa'el achii ba'anii adduma addaan gara gosa gosa isaanii fi gara qomoo qomoo isaanii in dhaqan; akkasittis hundinuu gara dhaala isaaniitti in deebi'an.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Yeroo sanatti sabni Israa'el mootii waan hin qabneef, namni hundinuu waanuma qajeelaa isatti fakkaatu in hojjeta ture.",
+     "alt": "፳፭",
+     "refs": [
+      {
+       "origin": "21:25",
+       "target": "Abo 17:6."
+      }
+     ]
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 21",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gosi Benyaamiin Lakkoobsa Gosa Israa'el Keessaa Hir'achuu Isaa",
+     "before": 1
+    }
+   ]
+  }
+ ]
+}

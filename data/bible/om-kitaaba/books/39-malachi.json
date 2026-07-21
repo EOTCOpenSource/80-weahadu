@@ -1,0 +1,429 @@
+{
+ "edition": "om-kitaaba",
+ "book": "MAL",
+ "usfm_id": "MAL",
+ "order": 39,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Dubbiin Waaqayyo karaa Miilkiyaas saba Israa'elitti hime kanatti fufee jira;",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Waaqayyo, ?Ani isin nan jaalladhe? jedha; isin garuu, ?Attamitti nu jaallate? Esaawuun obboleessa Yaaqoob mitii ree?? jettanii in gaafattu; Waaqayyo immoo, ?Ani amma iyyuu Yaaqoobin nan jaalladhe,",
+     "alt": "፪",
+     "refs": [
+      {
+       "origin": "1:2",
+       "target": "Rom 9:13."
+      },
+      {
+       "origin": "1:2",
+       "target": "Isa 34:5-17; 63:1-6; Erm 49:7-22; His 25:12-14; 35:1-15; Amo 1:11,12; Oba 1:1-14."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "Esaawuu garuu nan jibbe; tulloota isaas lafa onaa nan godhe, dhaala isaas lafa waangonni jiraatan nan godhe? jedhe.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Sanyiin Esaawuu Edoomonni, ?Mandaroonni keenya caccabanii turan, amma garuu warra diigaman sana deebifnee in ijaarra!? in jedhu; garuu Waaqayyo gooftaan maccaa, ?Isaan illee in ijaaru, ani garuu nan diiga, ?Biyyi sun biyya hamaa, sabni isaas saba Waaqayyo bara baraan itti dheekkamu? in jedhamu;",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "isin sabni Israa'el kana ija keessaniin argitanii, ?Daarii Israa'el garasitti iyyuu Waaqayyo guddaa dha? in jettu? jedhe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Waaqayyo gooftaan maccaa luboota warra isa tuffataniin, ?Ilmi abbaa isaatiif, hojjetaanis isa isa hojjechiifatuuf ulfina in kenna; egaa ergan abbaa ta'ee ulfinni anaaf ta'u meerre ree? Ergan isa hojjechiifatu ta'ees sodaatamuun anaaf ta'u meerre ree? Isin garuu, ?Attamitti si tuffanne?? jettanii in gaafattu.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Isin kennaa midhaanii isa xuraa'aa iddoo aarsaa koo irratti in dhi'eessitu; garuu kanuma keessaa immoo, ?Attamitti si xureessine?? jettanii in gaafattu; dabaltaniis, ?Iddoon itti Waaqayyoof aarsaa dhi'eessan waa'ee hin baasu? in jettu.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Horii jaamaa aarsaadhaaf yommuu dhi'eessitan kun wanta gadhee dha mitii ree? Horii naafa yookiis dhukkubsataa aarsaadhaaf yommuu dhi'eessitan, kunis wanta gadhee dha mitii ree? Mee wanta akkasii isa isin bulchuuf dhi'eessaa kaa! Inni dhuguma isinitti in gammadaa ree? Jaallatees isin harkaa in fudhataa ree?? jedha; kana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፰",
+     "refs": [
+      {
+       "origin": "1:8",
+       "target": "Kes 15:21."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "t": "Waaqayyo gooftaan maccaa, ?Isin harka keessaniin wanta akkasii ana Waaqayyoof utuu aarsaa dhi'eessitanii yoo akka ani isinitti araaramuuf na kadhattan ani isiniif nan dhaga'aa ree?",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Ani isin hin jaalladhu, aarsaa isin anaaf dhi'eessitanis isin harkaa hin fudhadhu waanan ta'eef, akka isin iddoo aarsaa koo irratti akkasumaan ibidda hin qabsiifnetti, maaloo namni isin keessaa balbala mana qulqullummaa cufu utuu jiraate!",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Maqaan koo ba'a-biiftuutii saba biyya lafaa gidduutti guddaa in ta'a; maqaan koo saba biyya lafaa gidduutti guddaa waan ta'eef, iddoo hundumaatti ulfina maqaa kootiif ixaannii fi kennaan midhaanii in dhi'eeffama? jedha; kana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Ammas Waaqayyo gooftaan maccaa, ?Isin garuu, ?Iddoon itti Waaqayyoof aarsaa dhi'eessan nyaata achi irraatiin xuraa'eera, jibbameeras? jettanii isa in xureessitu;",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "dabaltaniis, ?Kun ba'aa dha!? jettanii itti in ga'iftu; isinoo horii hatame, horii naafa, horii dhukkubsataas fiddanii aarsaa in dhi'eessitu, egaa kana harka keessan keessaa fudhadhuu ree?",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Namni bushaayee isaa keessaa korbeessa isa ana Waaqayyo duratti fudhatamaa ta'e aarsaa dhi'eessuudhaaf wareegee, iddoo isaa horii mudaa qabu dhi'eessuudhaan gowwoomsaa hojjetu abaaramaa haa ta'u! Ani mootii guddaa waanan ta'eef, maqaan koo saba lafa irraa keessatti sodaatamaa in ta'a? jedha; kana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፲፬"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Waaqayyo Saba Isaa Akka Jaallatu Himuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Luboonni Dheekkamamuu Isaanii",
+     "before": 6
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Waaqayyo gooftaan maccaa, ?Yaa lubootaa! Abboommiin kun isiniif ba'e;",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "isin yoo anaaf dhaga'uu diddan, maqaa kootiif ulfina kennuudhaaf yoo itti yaaduu dhiiftan, ani immoo abaarsa isin irratti nan erga, eebba keessanis abaarsatti nan geddara; sababii isin ulfina anaaf kennuudhaaf itti yaaduu dhiiftaniif, dhuguma ani ammuma iyyuu abaareera.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Kunoo ani sababii keessaniif jedhee, sanyii keessan nan ifadha, fuula keessanitti dhoqqee nan diba; dhoqqee horii isa yeroo ayyaanaa qaltanii aarsaa dhi'eessitan keessaa ba'u wajjinis diidatti in gatamtu.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yommus kakuun koo inni ani Lewwiidhaaf gale akka itti fufuuf jedhee, abboommii kana akkan kenne in beektu; kana ana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፬",
+     "refs": [
+      {
+       "origin": "2:4",
+       "target": "Lak 3:11-13."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "t": "Kakuun koo inni isaa wajjin ture sun kakuu jireenyaa fi kakuu nagaa ti; kanas akka inni ana safeeffatuufan isaaf kenne; innis ana sodaatee maqaa kootiif ulfina kenneera.",
+     "alt": "፭",
+     "refs": [
+      {
+       "origin": "2:5",
+       "target": "Lak 25:12."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "Barsiisa dhugaa in barsiisa ture, dubbiin jal'aanis afaan isaa keessaa hin baane, nagaadhaa fi qajeelummaadhaan anaa wajjin jiraateera, namoota baay'ees yakkattii deebiseera.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "?Lubni beekumsa isa dhugaa in eega; inni ergamaa Waaqayyo gooftaa maccaa waan ta'eef, namni afaan isaa keessaa barumsa in barbaada.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Isin garuu karaa irraa jal'attanii namoota baay'ees barsiisa keessaniin gufachiiftaniittu, kakuu ani Lewwiidhaaf gales cabsitaniittu; kana ana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Sababii isin abboommii koo eeguu diddanii seera koo yommuu barsiiftanis nama wal caalsiftaniif, ani immoo saba hundumaa duratti akka tuffatamtaniif akka gad deebitan nan godha? jedha.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Hundumti keenya abbaa tokkicha qabna mitii ree? Waaqayyo isa tokkichatu hunduma keenya uume mitii ree? Maaliif nuyi walii walii keenyaaf amanamuu dhabnee, wal irratti ka'uudhaan kakuu abboota keenyaa cabsina ree?",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Namoonni Yihudaa amanamummaa in dhaban; Israa'elii fi Yerusaalem keessattis wanta ciiggaasisaatu hojjetame; namoonni Yihudaa durboota waaqayyolii ormaa fuudhuudhaan iddoo qulqullaa'aa isa Waaqayyo jaallatu sana in xureessan.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Waaqayyo nama wanta xuraa'aa akkasii hojjetu, nama isaaf aarsaa dhi'eessu illee yoo ta'e sanyii Yaaqoob keessaa raawwatee isa haa balleessu!",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Wanti lammaffaan isin gootan immoo, isa isin imimmaaniin iddoo aarsaa Waaqayyoo dhiqxanii dha; sababii Waaqayyo gara aara aarsaa keessanii ilaaluu didee, gammachuudhaan isin harkaa fudhachuu dhiiseef isin in iyyitu, in wawwaattus.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Isin, ?Kun maaliif ta'e?? jettanii in gaafattu; Waaqayyo isiniif haadha manaa isin qerrummaadhaan fuutan gidduutti dhuga-baatuu dha; isheen hidhata keessan, haadha manaa kakuu keessanii taatee utuma jirtuu, isin isheedhaaf amanamuu dhiiftanii ishee in gowwoomsitan.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Waaqayyo foonitti, lubbuuttis tokko isaan hin goonee ree? Maaliifis tokko isaan godhe? Sanyii ofii isaatiif kaafachuudhaaf kana godhe; kanaafis jireenya keessan eeggadhaa! Haadha manaa qerrummaa keessan irraas amanamummaa hin dhabinaa!",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Waaqayyo gooftaan inni kan Israa'el, ?Namni haadha manaa isaa gad dhiisuun humnaan ishee irratti ka'uu akka uffataatti uffachuu isaa waan ta'uuf, wanta akkasii baay'isee nan jibba; kanaafis isin jireenya keessan eeggadhaa, amanamummaas hin dhabinaa!? jedha.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Isin dubbii keessanin Waaqayyoon dadhabsiiftaniittu; garuu, ?Attamitti isa dadhabsiifne?? jettanii in gaafattu; isin, ?Warri wanta hamaa hojjetan hundinuu fuula Waaqayyoo duratti gaarii dha, innis isaanitti in gammada; yookiis immoo Waaqayyo abbaan firdii dhugaa eessa jira?? jettanii gaafachuudhaan isa in dadhabsiiftu.",
+     "alt": "፲፯"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 2",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Luboota Akeekkachiisuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Biyyi Yihudaa Amanamummaa Dhabuu Ishee",
+     "before": 10
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Waaqayyo gooftaan maccaa, ?Kunoo, ani ergamaa koo isa karaa anaaf qopheessu of dura nan erga; dingatas gooftichi inni isin barbaaddan sun gara mana qulqullummaa isaa in dhufa; kunoo, ergamaan kakichaa inni isin hawwitan sun in dhufa? jedha.",
+     "alt": "፩",
+     "refs": [
+      {
+       "origin": "3:1",
+       "target": "Mat 11:10; Mar 1:2; Luq 1:76; 7:27."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "t": "Garuu guyyaa dhufa isaatti eenyutu obsuu danda'a ree? Yeroo inni mul'atus eenyutu dhaabachuu danda'a ree? Inni akka ibidda isa sibiila qulleessuu ti, akka saamunaa isa ittiin uffata miicanii tis.",
+     "alt": "፪",
+     "refs": [
+      {
+       "origin": "3:2",
+       "target": "Yoe 2:11; Mul 6:17."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "Inni akka nama sibiila baqsuutti, akka nama meetii qulleessuuttis taa'ee warra Lewwootaa baqsee akka warqee fi akka meetiitti isaan in qulleessa; isaanis warra Waaqayyoof aarsaa qajeelaa dhi'eessan in ta'u.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yommus aarsaan Yihudaa fi aarsaan Yerusaalem akka baroota darbanii, akka waggoota durii sanaattis Waaqayyo duratti fudhatamaa in ta'a.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Waaqayyo gooftaan maccaa, ?Ani firdii kennuudhaaf isinitti dhi'aadheera; warra qoricha namatti godhan irratti, warra ejjitoota irratti, warra sobaan kakatan irratti, namoota warra hojjetoota, haadha hiyyeessaa fi ijoollee abbaa fi haati irra hin jirre cunqursan irratti, warra nama galaa firdii dhowwatan irratti, warra ana hin sodaanne irrattis dafee dhugaa nan ba'a? jedha.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Itti fufees, ?Ani Waaqayyo waanan ta'eef, hin geddaramu; kanaaf yaa ilmaan Yaaqoob isin raawwattanii hin badne.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Bara abboota keessaniitii jalqabdanii hamma ammaatti isin seerrata koo irraa gortaniittu, isa hin eegnes; ani Waaqayyo gooftaan maccaa, ?Gara kootti deebi'aa! Anis gara keessanitti nan deebi'a? isiniin jedheera; isin garuu, ?Attamitti deebina?? in jettu.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Namni Waaqayyoon in saamaa? Isin garuu ana in saamtu, ?Attamitti si saamna?? jettanii in gaafattu; isin kudhan keessaa tokkoon, aarsaadhaanis ana in saamtu;",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "isin, sabni hundinuu ana waan saamtaniif, dhugumaan abaaramtaniittu;",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "mana koo keessatti nyaanni akka ta'uuf kudhan keessaa tokko guutummaatti gombisaa kootti galchaa! Ani immoo ittisa bantii waaqaa banee, eebba danuu isin irratti yoon dhangalaasuu dhabaadheef qoraa ana ilaalaa!",
+     "alt": "፲",
+     "refs": [
+      {
+       "origin": "3:10",
+       "target": "Lew 27:30; Lak 18:21-24; Kes 12:6; 14:22-29; Nah 13:12."
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "t": "Midhaan keessan kan balleessu isin irraa nan ifadha; maasii keessan keessaa mukti waynii keessanii hin maseenu; kana ana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Isin biyya nama gammachiisu keessa waan jiraattaniif sabni warri kaan hundinuu, ?Isin warra eebbifamoo dha? isiniin in jedhu.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "?Isin ana irratti dubbii cimaa dubbattaniittu; kanuma keessaa immoo, ?Maal si irratti dubbanne?? in jettu;",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "isin, ?Waaqayyoof hojjechuun akkasumaan; akka warra gaddaniitti fuula Waaqayyo gooftaa maccaa dura utuu deddeebi'aa jirruu, wanta inni abboome eeguun keenya maal waa'ee baasa?",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Warri of gurguddisan kan eebbifamanii dha, warri hamaa hojjetan in guddatu, Waaqayyoon qoraniis isa jalaa in ba'u? in jettu? jedha.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Amma immoo warri Waaqayyoon sodaatan walii wajjin utuu dudubbatanii Waaqayyo isaan dhaggeeffatee, waan isaan dubbatan in dhaga'e; macaafni seenaa waa'ee warra isa sodaatanii fi warra maqaa isaatiif ulfina kennanii, fuula isaa duratti caafameera.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Waaqayyo gooftaan maccaa, ?Guyyaa ani murtoo godhe sanatti isaan qabeenya dhuunfaa koo in ta'u; akkuma abbaan ilma isaaf hojjetuuf oo'u akkasuma anis isaaniif nan oo'a;",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "yommus isin garaa garummaa warra qajeelotaa fi warra jal'oota gidduu jiru, warra ana Waaqayyoof hojjetuu fi warra anaaf hin hojjenne gidduu jirus dabaltanii in argitu? jedha.",
+     "alt": "፲፰"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 3",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Guyyaan Firdii Akka Dhufu Himuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Kudhan Keessaa Tokko Akka Baasaniif Abboomuu Isaa",
+     "before": 6
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Waaqayyo gooftaan maccaa, ?Kunoo, guyyaan akka iddoo ibiddaa gubu in dhufa; yommus warri koortuunii fi warri hamaa hojjetan hundinuu akka cidii in ta'u; guyyaan dhufu sun isaan in guba; hidda yookiis damee isaaniif hin hambisu.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Isin warra maqaa koo sodaattaniif garuu aduun qajeelummaa inni qarri isaa fayyina of keessaa qabu isiniif in ba'a; akka jabbii goorana keessaa ba'ees gad baatanii in burraaqxu;",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "isin yommus warra hamoota in dhidhiittu; isaanis guyyaa ani waan kana godhutti koomee keessan jalatti daaraa in ta'u; kana ana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "?Barsiisa garbicha koo Musee, seerrataa fi wanta ana Waaqayyo duratti qajeelaa ta'e, isa ani tulluu Horeeb irratti guutummaa Israa'eliif isatti kenne yaadadhaa!",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Kunoo, guyyaan koo inni guddaanii fi inni sodaachisaan sun utuu hin dhufin dura ani Eliyaas raajicha isiniif nan erga.",
+     "alt": "፭",
+     "refs": [
+      {
+       "origin": "4:5",
+       "target": "Mat 11:14; 17:10-13; Mar 9:11-13; Luq 1:17; Yoh 1:21."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "Ani dhufee, lafa abaarsaan rukutee akkan hin balleessinetti, inni garaa abbootaa gara ijoollee isaaniitti, garaa ijoollees gara abboota isaaniitti in deebisa? jedha.",
+     "alt": "፮"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 4",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Guyyaan Waaqayyoo Akka Dhufu Himuu Isaa",
+     "before": 1
+    }
+   ]
+  }
+ ]
+}

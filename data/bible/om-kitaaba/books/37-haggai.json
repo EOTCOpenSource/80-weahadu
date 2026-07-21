@@ -1,0 +1,278 @@
+{
+ "edition": "om-kitaaba",
+ "book": "HAG",
+ "usfm_id": "HAG",
+ "order": 37,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Daariyos biyya Faares irratti mo'ee waggaa lammaffaatti, waggicha keessaa ji'a ja'affaatti, ji'icha keessaa guyyaa tokkoffaatti, dubbiin Waaqayyoo karaa Haagee raajichaa gara Zarubaabel ilma She'altii'el isa biyya Yihudaa bulchuu akkasumas gara Iyaasuu angafa lubootaa ilma Yozaadaaq in dhufe;",
+     "alt": "፩",
+     "refs": [
+      {
+       "origin": "1:1",
+       "target": "Izr 4:24-5:2; 6:14."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "t": "Waaqayyo gooftaan maccaa, ?Sabni kun, ?Yeroon manni qulqullummaa Waaqayyoof itti ijaaramu hin geenye? in jedhu? jedhe.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus dubbiin Waaqayyoo karaa Haagee raajichaa dhufee,",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "?Yaa saba ko, manni qulqullummaa koo kun diigamee utuu jiruu isin ofii keessanii mana ba'eessa ta'ee ijaarame keessa taa'uun yeroo isaa tii ree?? jedhe.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Waaqayyo gooftaan maccaa, ?Mee, wanta isin irra ga'aa jiru ilaalaa!",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Baay'ee facaaftu, muraasa galfattu; in nyaattu, garuu beela hin baatan; in dhugdu, garuu hin quuftan; in uffattu, garuu isinitti hin ho'u; namni qacaramee hojjetus mindaa argatu korojoo tarsa'aa keessa in kaa'ata? jedha.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Waaqayyo gooftaan maccaa, ?Mee, kun maaliif akka isin irra ga'e ilaalaa!",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Amma gara tulluutti ol ba'aa muka fidaatii, mana qulqullummaa koo ijaaraa! Yommus ani isatti nan gammada, ittis nan galateeffama.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Isin baay'ee galfanna jettanii abdattan; garuu muraasa galfattan; wanta isin galfattan sanas ani afuufee nan balleesse; maaliifan kana godhe? Manni qulqullummaa koo diigamee utuu jiruu isin immoo adduma addaan waa'ee mana keessaniitiif asii fi achi waan fiigdaniif kun ta'e.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Sababii keessaniif waaqni fixeensa in dhowwata, laftis midhaan hin baasu;",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "ani lafa irratti, tulloota irratti, midhaan irratti, muka waynii irratti, muka ejersaa irratti, waanuma lafti biqilchu irratti, nama irratti, horii irratti, wanta harki keessan hojjete hundumaa irrattis gogii nan fida? jedhe.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Ergasii Zarubaabel ilmi She'altii'el, Iyaasuun angafni lubaa, ilmi Yozaadaaq, saba keessaa warri hafan hundinuus Waaqayyo raajicha waan ergeef, sagalee Waaqayyo gooftaa isaaniitiif, ergaa Haagee raajichi isaanitti hime sanaafis in abboomaman; jarris Waaqayyoon in sodaatan.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Kanaaf Haageen inni Waaqayyo erge sun, ergaa kanatti fufee jiru sabatti in hime. Waaqayyo, ?Ani isinii wajjinan jira? jedhee dubbateera.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Ergasii Waaqayyo hafuura Zarubaabel ilma She'altii'el isa Yihudaa bulchuu, hafuura Iyaasuu ilma Yozaadaaq isa angafa lubaa turee fi hafuura saba warra hafan hundumaa in dammaqse; yommus isaan dhufanii hojii mana qulqullummaa Waaqayyo isaanii isa kan Waaqayyo gooftaa maccaa sana hojjechuu in jalqaban.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Kun immoo Daariyos mo'ee waggaa lammaffaa isaatti, waggicha keessaa, ji'a ja'affaatti, ji'icha keessaas guyyaa digdamii afuraffaatti ta'e.",
+     "alt": "፲፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Mana Qulqullummaa Deebisanii Akka Ijaaraniif Waamuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ji'a torbaffaatti, ji'icha keessaa guyyaa digdamii tokkoffaatti dubbiin Waaqayyoo ammas karaa Haagee raajichaa dhufee,",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "?Zarubaabel ilma She'altii'el isa Yihudaa bulchutti, Iyaasuu angafa lubaa ilma Yozaadaaqitti, saba warra hafanittis dubbadhu, gaaffii kanas isaan gaafadhu!",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Isaaniinis, ?Isin keessaa namni manni kun dur attam ulfina-qabeessa akka ture yaadatu jiraa? Amma immoo inni maal fakkaata? Inni akkuma waan hin jirree ti mitii ree?? jedhi!",
+     "alt": "፫",
+     "refs": [
+      {
+       "origin": "2:3",
+       "target": "Izr 3:12."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "t": "Amma garuu yaa Zarubaabel, yaa Iyaasuu angafa lubaa ilma Yozaadaaq, jabaadhaa! Isin, sabni biyyicha keessa jirtan hundinuus ani isinii wajjinan jira, jabaadhaatii hojjedhaa!",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Kakuun ani biyya Gibxii yommuun isin baasee, ?Hafuurri koo isin gidduu in jiraataatii isin hin sodaatinaa!? jedhee isiniif kakadhe isa kana.",
+     "alt": "፭",
+     "refs": [
+      {
+       "origin": "2:5",
+       "target": "Bau 29:45,46."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "?Ani Waaqayyo gooftaan maccaa, ammas immoo yeroo gabaabaatti bantiiwwan waaqaa, lafa, galaana, lafa gogaas nan sochoosa;",
+     "alt": "፮",
+     "refs": [
+      {
+       "origin": "2:6",
+       "target": "Ibr 12:26."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "t": "saba lafa irraa hundumaa nan sochoosa, badhaadhummaan saba lafa irraa hundinuu as in fidama; ani mana kana ulfinaan nan guuta; kana ana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Meetichi kan koo ti, warqichis kan koo ti; kana ana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "?Ulfinni mana isa ammaa kanaa ulfina mana isa durii irra in caala; ani iddoo kanatti nagaa nan kenna? jedha Waaqayyo gooftaan maccaa, jedhiitii itti himi!? jedhe; kana Waaqayyo gooftaa maccaatu dubbate.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Daariyos mo'ee waggaa lammaffaatti, waggicha keessaa ji'a salgaffaatti, ji'icha keessaa guyyaa digdamii afuraffaatti, dubbiin Waaqayyoo ammas gara Haagee raajichaa dhufee,",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "?Waaqayyo gooftaan maccaa, ?Mee wanta seerri jedhu luboota gaafadhaa!",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Namni tokko foon addaan baafame fiixee uffata isaatiitti baatee utuu adeemuu, fiixeen uffatichaa buddeenichatti yookiis ittootti yoo bu'e yookiis daadhii waynii yookiis dhadhaa ejersaa yookiis waan nyaatamu tokko yoo tuqe, wanti sun kanaan qulqulluu in ta'aa ree?? jedha? jedhe. Luboonnis deebisanii ?Lakkii? jedhan.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yommus Haageen, ?Namni reeffatti bu'e tokko, nyaata kana keessaa tokkotti yoo bu'e nyaatichi in xuraa'aa ree?? jedhee in gaafate; luboonnis deebisanii, ?Eyyee, in xuraa'a!? jedhan.",
+     "alt": "፲፫",
+     "refs": [
+      {
+       "origin": "2:13",
+       "target": "Lak 19:11-22."
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "t": "Kana irratti Haageen, ?Sabni kun, namoonni kunis ana duratti akkasuma wanti isaan harka isaaniitiin hojjetan, wanti isaan iddoo sanatti dhi'eessanis akkasuma xuraa'aa dha; kana Waaqayyotu dubbate? jedhe.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Waaqayyo, ?Mana qulqullummaa dhagaadhaan ijaaruu utuu hin jalqabin waan ta'aa ture ba'eessa godhaatii yaadadhaa!",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yeroo sana namni, ?Guuboo digdama nan argadha? jedhee gara tuullaa midhaanii dhaqu, guuboo kudhan duwwaa in argata; yommuu inni, ?Liitrii dhibba laman argadha? jedhee gara qodaa waynii itti cuunfanii dhaqu, liitrii saddeettama duwwaa in argata;",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "ani Waaqayyo isinin, wanta isin itti dadhabdanii harka keessaniin hojjettan hundumaa gogiidhaan, waagiidhaan, cabbiidhaanis nan rukute; garuu isin amma illee gara kootti hin deebine.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Egaa guyyaa har'aatii jalqabee gara fuula duraatti ji'a salgaffaa, ji'icha keessaa guyyaa digdamii afuraffaa, guyyaa hundeen mana qulqullummaa itti kaa'ame kana garaatti qabadhaa!",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Sanyiin gombisaa keessa hin jiru yoo ta'e iyyuu, mukti waynii, mukti harbuu, mukti rumaanii fi mukti ejersaa ija hin godhanne yoo ta'e iyyuu, ani har'aa jalqabee isin nan eebbisa? jedha.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Ammas dubbiin Waaqayyoo ji'icha keessaa guyyaa digdamii afuraffaatti si'a lammaffaa gara Haagee raajichaa dhufee,",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "?Zarubaabel isa Yihudaa bulchutti dubbadhuutii, Waaqayyo, ?Ani Waaqayyo waaqaa fi lafa nan sochoosa,",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "teessoo mootummootaa gara nan galcha, humna mootummoota saba lafa irraas nan balleessa, konkolaataa isaanii fi abboota fardeenii isaanii garan gaggalcha, fardeenii fi abboonni fardeenii adda addaan billaa walii walii isaaniitiin in dhumu.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Guyyaa sanatti ani Waaqayyo gooftaan maccaa, si garbicha koo Zarubaabel ilma She'altii'el si fo'adhee akka amartii mallattoo kootii sin godhadha? jedha? jedhe; kana Waaqayyo gooftaatu dubbate.",
+     "alt": "፳፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 2",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Waa'ee Ulfina Manicha Isa Haaraa Dubbachuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Mana Qulqullummaa Deebisanii Ijaaruudhaan Eebbifamuu Isaanii",
+     "before": 10
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Zarubaabeliif Abdii Kennuu Isaa",
+     "before": 20
+    }
+   ]
+  }
+ ]
+}

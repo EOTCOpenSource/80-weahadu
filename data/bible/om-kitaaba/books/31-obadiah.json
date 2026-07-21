@@ -1,0 +1,650 @@
+{
+ "edition": "om-kitaaba",
+ "book": "OBA",
+ "usfm_id": "OBA",
+ "order": 31,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Mul'anni Waaqayyo gooftaan waa'ee biyya Edoomiif Obaadiiyaatti mul'ise kanatti fufee jira; ergamaan tokko gara saba biyya lafaa irra jiraniitti ergamee, ?Ka'aa! Dhaqnee biyya Edoom in lollaa!? jechuuf akka jiru nuyi Waaqayyo irraa dhageenyeerra.",
+     "alt": "፩",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Mul'anni Waaqayyo gooftaan"
+      },
+      {
+       "style": "q2",
+       "t": "waa'ee biyya Edoomiif Obaadiiyaatti mul'ise kanatti fufee jira;"
+      },
+      {
+       "style": "q2",
+       "t": "ergamaan tokko"
+      },
+      {
+       "style": "q2",
+       "t": "gara saba biyya lafaa irra jiraniitti ergamee,"
+      },
+      {
+       "style": "q2",
+       "t": "?Ka'aa! Dhaqnee"
+      },
+      {
+       "style": "q2",
+       "t": "biyya Edoom in lollaa!?"
+      },
+      {
+       "style": "q2",
+       "t": "jechuuf akka jiru"
+      },
+      {
+       "style": "q2",
+       "t": "nuyi Waaqayyo irraa dhageenyeerra."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "t": "Ammas Waaqayyo, ?Kunoo, saba lafa irraa keessaa ati akka xinnaattu, raawwattees akka tuffatamtu nan godha;",
+     "alt": "፪",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Ammas Waaqayyo, ?Kunoo,"
+      },
+      {
+       "style": "q2",
+       "t": "saba lafa irraa keessaa ati akka xinnaattu,"
+      },
+      {
+       "style": "q2",
+       "t": "raawwattees akka tuffatamtu nan godha;"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "ati yaa isa mana kee iddoo ol jedhaa irratti ijaarrattee, yaa isa holqa dhagaa keessa jiraattuu, ?Eenyutu lafatti gad na buusa?? jettuu, of tuulummaa garaa keetiitu si gowwoomse.",
+     "alt": "፫",
+     "lines": [
+      {
+       "style": "p",
+       "t": "ati yaa isa mana kee"
+      },
+      {
+       "style": "q2",
+       "t": "iddoo ol jedhaa irratti ijaarrattee,"
+      },
+      {
+       "style": "q2",
+       "t": "yaa isa holqa dhagaa keessa jiraattuu,"
+      },
+      {
+       "style": "q2",
+       "t": "?Eenyutu lafatti gad na buusa?? jettuu,"
+      },
+      {
+       "style": "q2",
+       "t": "of tuulummaa garaa keetiitu si gowwoomse."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "t": "Ati akka joobiraa yoo ol kaate iyyuu, mann'ee kees urjoota gidduutti yoo ijaarratte iyyuu, ani achii gad sin buusa? jedhee dubbateera.",
+     "alt": "፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Ati akka joobiraa yoo ol kaate iyyuu,"
+      },
+      {
+       "style": "q2",
+       "t": "mann'ee kees urjoota gidduutti"
+      },
+      {
+       "style": "q2",
+       "t": "yoo ijaarratte iyyuu,"
+      },
+      {
+       "style": "q2",
+       "t": "ani achii gad sin buusa?"
+      },
+      {
+       "style": "q2",
+       "t": "jedhee dubbateera."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "t": "Hattuun yookiis saamtuun halkaniin mana kee dhufuun si balleessuudhaaf yoo ta'e iyyuu, hammuma barbaadan hatu mitii ree? Warri ija waynii ciratanis yoo dhufan, qarmii in hambisu mitii ree?",
+     "alt": "፭",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Hattuun yookiis saamtuun"
+      },
+      {
+       "style": "q2",
+       "t": "halkaniin mana kee dhufuun"
+      },
+      {
+       "style": "q2",
+       "t": "si balleessuudhaaf yoo ta'e iyyuu,"
+      },
+      {
+       "style": "q2",
+       "t": "hammuma barbaadan hatu mitii ree?"
+      },
+      {
+       "style": "q2",
+       "t": "Warri ija waynii ciratanis"
+      },
+      {
+       "style": "q2",
+       "t": "yoo dhufan,"
+      },
+      {
+       "style": "q2",
+       "t": "qarmii in hambisu mitii ree?"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "Garuu attamitti qabeenyi Esaawuu fonqolfame, badhaadhummaan inni dhokfates attamitti akka jirutti saamame ree?",
+     "alt": "፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Garuu attamitti qabeenyi Esaawuu fonqolfame,"
+      },
+      {
+       "style": "q2",
+       "t": "badhaadhummaan inni dhokfates"
+      },
+      {
+       "style": "q2",
+       "t": "attamitti akka jirutti saamame ree?"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "t": "Warri garee keetii hundinuu gara daariitti si in dhiibu, firoonni kees gowwoomsaadhaan si mo'u; firoonni kee warri amanamoon dhoksaatti kiyyoo si dura in kaa'u, ?Inni immoo hin hubatu? siin jedhu.",
+     "alt": "፯",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Warri garee keetii hundinuu"
+      },
+      {
+       "style": "q2",
+       "t": "gara daariitti si in dhiibu,"
+      },
+      {
+       "style": "q2",
+       "t": "firoonni kees gowwoomsaadhaan si mo'u;"
+      },
+      {
+       "style": "q2",
+       "t": "firoonni kee warri amanamoon"
+      },
+      {
+       "style": "q2",
+       "t": "dhoksaatti kiyyoo si dura in kaa'u,"
+      },
+      {
+       "style": "q2",
+       "t": "?Inni immoo hin hubatu? siin jedhu."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "t": "Guyyaa sanatti Waaqayyo, ?Ani warra ogeessota Edoom keessaa, warra hubatoo tulluu Esaawuu irraa hin balleessuu ree?? jedhee dubbateera.",
+     "alt": "፰",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Guyyaa sanatti Waaqayyo,"
+      },
+      {
+       "style": "q2",
+       "t": "?Ani warra ogeessota Edoom keessaa,"
+      },
+      {
+       "style": "q2",
+       "t": "warra hubatoo tulluu Esaawuu irraa hin balleessuu ree??"
+      },
+      {
+       "style": "q2",
+       "t": "jedhee dubbateera."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "t": "?Yaa Temaan! Loltoonni kee in sodaachifamu, warri tulluu Esaawuu irra jiran hundinuus ajjeefamanii in dhumu.",
+     "alt": "፱",
+     "lines": [
+      {
+       "style": "p",
+       "t": "?Yaa Temaan! Loltoonni kee in sodaachifamu,"
+      },
+      {
+       "style": "q2",
+       "t": "warri tulluu Esaawuu irra"
+      },
+      {
+       "style": "q2",
+       "t": "jiran hundinuus"
+      },
+      {
+       "style": "q2",
+       "t": "ajjeefamanii in dhumu."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "t": "Obboleessa kee Yaaqoob irratti humnaan waan kaateef, in yeellaasifamta, bara baraanis in badda.",
+     "alt": "፲",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Obboleessa kee Yaaqoob irratti"
+      },
+      {
+       "style": "q2",
+       "t": "humnaan waan kaateef,"
+      },
+      {
+       "style": "q2",
+       "t": "in yeellaasifamta,"
+      },
+      {
+       "style": "q2",
+       "t": "bara baraanis in badda."
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "t": "Yommuu warri ormaa loltoota isaa booji'anii dallaa isaatti ol lixanii Yerusaalem irratti muka buufatan, atis akkuma warra kaanii isaanitti taatee, irraa fagaattee in dhaabatte.",
+     "alt": "፲፩",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yommuu warri ormaa loltoota isaa booji'anii"
+      },
+      {
+       "style": "q2",
+       "t": "dallaa isaatti ol lixanii"
+      },
+      {
+       "style": "q2",
+       "t": "Yerusaalem irratti muka buufatan,"
+      },
+      {
+       "style": "q2",
+       "t": "atis akkuma warra kaanii"
+      },
+      {
+       "style": "q2",
+       "t": "isaanitti taatee,"
+      },
+      {
+       "style": "q2",
+       "t": "irraa fagaattee in dhaabatte."
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "t": "Guyyaa obboleessi kee rakkatutti isa tuffachuun, guyyaa badiisa namoota Yihudaatti, gammaduun, yeroo dhiphina isaaniittis isaanitti baanachuun siif hin ta'u ture!",
+     "alt": "፲፪",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Guyyaa obboleessi kee rakkatutti"
+      },
+      {
+       "style": "q2",
+       "t": "isa tuffachuun,"
+      },
+      {
+       "style": "q2",
+       "t": "guyyaa badiisa namoota Yihudaatti, gammaduun,"
+      },
+      {
+       "style": "q2",
+       "t": "yeroo dhiphina isaaniittis isaanitti baanachuun"
+      },
+      {
+       "style": "q2",
+       "t": "siif hin ta'u ture!"
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "t": "Guyyaa badiisi saba kootti dhufutti dallaa isaaniitti ol lixuun, guyyaa badiisa isaaniitti isaanitti ga'isuun, isaan saamuunis siif hin ta'u ture!",
+     "alt": "፲፫",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Guyyaa badiisi saba kootti dhufutti"
+      },
+      {
+       "style": "q2",
+       "t": "dallaa isaaniitti ol lixuun,"
+      },
+      {
+       "style": "q2",
+       "t": "guyyaa badiisa isaaniitti isaanitti ga'isuun,"
+      },
+      {
+       "style": "q2",
+       "t": "isaan saamuunis"
+      },
+      {
+       "style": "q2",
+       "t": "siif hin ta'u ture!"
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "t": "Guyyaa dhiphina isaaniitti karaa qaxxaamuraa irra dhaabattee eegdee warra baqatanii ba'an rukuttee ajjeesuun, warra hafanis dabarsitee kennuun, siif hin ta'u ture!",
+     "alt": "፲፬",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Guyyaa dhiphina isaaniitti"
+      },
+      {
+       "style": "q2",
+       "t": "karaa qaxxaamuraa irra dhaabattee"
+      },
+      {
+       "style": "q2",
+       "t": "eegdee warra baqatanii ba'an"
+      },
+      {
+       "style": "q2",
+       "t": "rukuttee ajjeesuun,"
+      },
+      {
+       "style": "q2",
+       "t": "warra hafanis dabarsitee kennuun,"
+      },
+      {
+       "style": "q2",
+       "t": "siif hin ta'u ture!"
+      }
+     ],
+     "refs": [
+      {
+       "origin": "1:14",
+       "target": "Isa 34:5-17; 63:1-6; Erm 49:7-22; His 25:12-14; 35:1-15; Amo 1:11,12; Mil 1:2-5."
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "t": "?Guyyaan ani Waaqayyo saba hundumaatti faradu dhi'aateera; akkuma ati nama irratti hojjette si irratti in hojjetama; hojiin kees mataa keetti in deebi'a.",
+     "alt": "፲፭",
+     "lines": [
+      {
+       "style": "p",
+       "t": "?Guyyaan ani Waaqayyo"
+      },
+      {
+       "style": "q2",
+       "t": "saba hundumaatti faradu dhi'aateera;"
+      },
+      {
+       "style": "q2",
+       "t": "akkuma ati nama irratti hojjette"
+      },
+      {
+       "style": "q2",
+       "t": "si irratti in hojjetama;"
+      },
+      {
+       "style": "q2",
+       "t": "hojiin kees mataa keetti in deebi'a."
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "t": "Akkuma sabni koo tulluu koo isa qullaa'aa irratti xoofoo dheekkamsaa keessaa dhugan akkasuma immoo sabni hundinuu utuu wal irraa hin kutin isa in dhugu; isaan qodaa isaa keessaa xuruurfatanii in dhugu, akka waan hin jirrees in ta'u.",
+     "alt": "፲፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Akkuma sabni koo tulluu koo isa qullaa'aa irratti"
+      },
+      {
+       "style": "q2",
+       "t": "xoofoo dheekkamsaa keessaa dhugan"
+      },
+      {
+       "style": "q2",
+       "t": "akkasuma immoo sabni hundinuu"
+      },
+      {
+       "style": "q2",
+       "t": "utuu wal irraa hin kutin"
+      },
+      {
+       "style": "q2",
+       "t": "isa in dhugu;"
+      },
+      {
+       "style": "q2",
+       "t": "isaan qodaa isaa keessaa"
+      },
+      {
+       "style": "q2",
+       "t": "xuruurfatanii in dhugu,"
+      },
+      {
+       "style": "q2",
+       "t": "akka waan hin jirrees in ta'u."
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "t": "Warri hafan garuu tulluu Xiyoon irra in jiraatu, tullichis qulqullaa'aa in ta'a; sanyiin Yaaqoob immoo warra lafa isaanii fi qabeenya isaanii isaan irraa fudhatee harkaa deebisanii in fudhatu.",
+     "alt": "፲፯",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Warri hafan garuu"
+      },
+      {
+       "style": "q2",
+       "t": "tulluu Xiyoon irra in jiraatu,"
+      },
+      {
+       "style": "q2",
+       "t": "tullichis qulqullaa'aa in ta'a;"
+      },
+      {
+       "style": "q2",
+       "t": "sanyiin Yaaqoob immoo"
+      },
+      {
+       "style": "q2",
+       "t": "warra lafa isaanii fi qabeenya isaanii"
+      },
+      {
+       "style": "q2",
+       "t": "isaan irraa fudhatee harkaa"
+      },
+      {
+       "style": "q2",
+       "t": "deebisanii in fudhatu."
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "t": "Yommus egaa sanyiin Yaaqoob ibidda, sanyiin Yoseefis barbadaa itti ta'anii, sanyii Esaawuu isa akka habaqii gubanii in fixu; sanyii Esaawuu keessaa kan oolu tokko illee hin jiru? jedhee dubbateera.",
+     "alt": "፲፰",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Yommus egaa sanyiin Yaaqoob ibidda,"
+      },
+      {
+       "style": "q2",
+       "t": "sanyiin Yoseefis"
+      },
+      {
+       "style": "q2",
+       "t": "barbadaa itti ta'anii,"
+      },
+      {
+       "style": "q2",
+       "t": "sanyii Esaawuu isa akka habaqii"
+      },
+      {
+       "style": "q2",
+       "t": "gubanii in fixu;"
+      },
+      {
+       "style": "q2",
+       "t": "sanyii Esaawuu keessaa kan oolu"
+      },
+      {
+       "style": "q2",
+       "t": "tokko illee hin jiru? jedhee dubbateera."
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "t": "Warri biyya gara mirgaa tulluu Esaawuu, warri gaara jala jiraatan immoo biyya Filiisxiyaa in qabatu; isaan Samaariyaadhaa fi lafa sanyii Efreem in qabatu, sanyiin Benyaamiin immoo Giil'aadin in qabatu.",
+     "alt": "፲፱",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Warri biyya gara mirgaa tulluu Esaawuu,"
+      },
+      {
+       "style": "q2",
+       "t": "warri gaara jala jiraatan immoo"
+      },
+      {
+       "style": "q2",
+       "t": "biyya Filiisxiyaa in qabatu;"
+      },
+      {
+       "style": "q2",
+       "t": "isaan Samaariyaadhaa fi"
+      },
+      {
+       "style": "q2",
+       "t": "lafa sanyii Efreem in qabatu,"
+      },
+      {
+       "style": "q2",
+       "t": "sanyiin Benyaamiin immoo"
+      },
+      {
+       "style": "q2",
+       "t": "Giil'aadin in qabatu."
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "t": "Loltoonni Israa'el warri booji'amanii turan biyya Kana'aan hamma Zaarefaatitti in qabatu; warri Yerusaalemii booji'amanii Sefaaraad jiran immoo mandaroota biyya gara mirgaa keessa jiran in qabatu.",
+     "alt": "፳",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Loltoonni Israa'el"
+      },
+      {
+       "style": "q2",
+       "t": "warri booji'amanii turan"
+      },
+      {
+       "style": "q2",
+       "t": "biyya Kana'aan hamma Zaarefaatitti in qabatu;"
+      },
+      {
+       "style": "q2",
+       "t": "warri Yerusaalemii booji'amanii"
+      },
+      {
+       "style": "q2",
+       "t": "Sefaaraad jiran immoo"
+      },
+      {
+       "style": "q2",
+       "t": "mandaroota biyya"
+      },
+      {
+       "style": "q2",
+       "t": "gara mirgaa keessa jiran in qabatu."
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "t": "warri isaan furan tulluu Xiyoon irratti ol ba'anii Esaawuutti in faradu; yommus mootummaan kan Waaqayyoo in ta'a.",
+     "alt": "፳፩",
+     "lines": [
+      {
+       "style": "p",
+       "t": "warri isaan furan tulluu Xiyoon irratti"
+      },
+      {
+       "style": "q2",
+       "t": "ol ba'anii Esaawuutti in faradu;"
+      },
+      {
+       "style": "q2",
+       "t": "yommus mootummaan"
+      },
+      {
+       "style": "q2",
+       "t": "kan Waaqayyoo in ta'a."
+      }
+     ]
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Firdiin Edoom Irratti Akka Dhufu Himuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s2",
+     "kind": "section",
+     "text": "(Isa :-; :-; Er :-; His :-; :-; Amo :-; Mil :-)",
+     "before": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,831 @@
+{
+ "edition": "om-kitaaba",
+ "book": "1TI",
+ "usfm_id": "1TI",
+ "order": 73,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ani Phaawulos, abboommii Waaqayyoo fayyisaa keenyaa fi Kristos Yesus abdii keenyaan ergamaa Kristos Yesus kanan ta'e,",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "gara Ximotewos isa dhuguma amantiidhaan ilma koo ta'eetti caafuu koo ti. Waaqayyo abbaan, Kristos Yesus gooftaan keenyas ayyaana, araara, nagaas siif haa kennu.",
+     "alt": "፪",
+     "refs": [
+      {
+       "origin": "1:2",
+       "target": "Hoj 16:1."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "Yeroon Maqedooniyaa dhaquuf ka'e akkuman si gorsee ture, namoonni tokko tokko barsiisa biraa akka hin barsiifne akka dhowwituuf, mandara Efesoon turuu kee nan barbaada.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Mammaaksa amantii eeguu, hidda qomoo isaanii isa dhuma hin qabne lakkaa'uus akka dhiisan godhi! Wanti isaan godhan kun falmaa duwwaa kaasuu malee, akeeka Waaqayyoo isa amantiidhaan fudhatamu sanaaf hin hojjetu.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Nuyi garuu barsiisa biraa sana dhowwine, jaalala garaa qullaa'aa keessaa, yaada garaa hin boora'in keessaa fi amantii gowwoomsaa hin qabne keessaa ba'u dammaqsuudhaaf in barsiifna.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Namoonni gar tokko isaan kana irraa kaatanii, gara falmaa waa'ee hin baafneetti galaniiru.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Isaan kun waan ofii dubbatan yookiis waa'ee isa cimsanii dubbatan sanaa utuu hin hubatin, barsiisota seerichaa ta'uu in barbaadu.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Namni akka ta'utti yoo ittiin hojjete, seerichi gaarii akka ta'e nuyi in beekna.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Namichi sun, seerri nama qajeelaadhaaf akka hin tumamin in beeka; garuu warra seera malee jiraataniif, warra hin abboomamneef, warra Waaqayyo malee jiraataniif, warra cubbamootaaf, warra karaa qulqulluu irraa jal'ataniif, warra wanta qulqullaa'aadhaan mormaniif, abbootaa fi haadhota warra ajjeesaniif, warra gumaaf,",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "warra halaleedhaaf, warra nama gadhoomsaniif, warra nama butaniif, warra sobduudhaaf, warra kakaa sobaa kakataniif, kan biraas yoo jiraatan warra barsiisa sirriidhaan mormaniif tumame.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Barsiifni sirriin kun immoo wangeela isa waa'ee ulfina Waaqayyoo eebbifamaa dubbatuu dha; inni akkan isa lallabuuf hadaraa anatti kennameera.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Ani, Kristos Yesus gooftaa keenya isa hojii koo kanaaf humna anaaf kenne kana, ?Amanamaa dha? jedhee hojii isaa irra na dhaabuu isaatiif nan galateeffadha.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Dur illee ani maqaa balleessaa, ari'achaa, humnaan nama irratti ka'aan ture; garuu amanuu koo dura wallaalummaatti waanan kana godheef, inni araara anaaf buuse.",
+     "alt": "፲፫",
+     "refs": [
+      {
+       "origin": "1:13",
+       "target": "Hoj 8:3; 9:4,5."
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "t": "Ayyaanni gooftaa keenyaas amantii fi jaalala Kristos Yesusiin argamanii wajjin, guutee irra anaaf dhangala'eera.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Dubbiin, ?Kristos Yesus cubbamoota fayyisuudhaaf gara biyya lafaa dhufe? jedhu, amanamaa dha; guutummaatti fudhatamuunis in ta'aaf; warra cubbamootatti lakkaa'aman sana keessaa immoo ani isa duraa ti.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Haa ta'u iyyuu malee, Yesus Kristos ana isa cubbuutti isa duraa ta'e kana keessaan obsa isaa guutummaatti akka mul'isutti, warra jireenya bara baraatiif isatti amananiif fakkeenya akka ta'uuf, ani araara argadheera.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Mootii bara baraa isa hin duune, isa ijaan hin argamne, Waaqayyo tokkicha sanaaf baruma baraan ulfinnii fi guddinni haa ta'u! Ameen.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Ximotewos, ilma ko! Akka dubbii raajii waa'ee keetiif dubbatame sanaatti, gaarii gootee akka loltuuf abboommii kana hadaraa sitti nan kenna.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Kanaafis amantii, yaada garaa qullaa'aas qabaadhu! Namoonni tokko yaada garaa isaanii tuffachuu isaaniitiin amantii isaanii akka caccabaa markabaatti hurreessaniiru.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Himnewosii fi Iskindir, jara kana keessa jiru; ani immoo, Waaqayyoon arrabsuu dhiisuu akka baraniif, adaba harka Seexanaatti dabarsee isaan kenneera.",
+     "alt": "፳"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Nagaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Barsiisa Sobaa Irraa Of Eeggachiisuu Isaa",
+     "before": 3
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Araara Waaqayyoof Galateeffachuu Isaa",
+     "before": 12
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ammas waan hundumaa dura himannaan, kadhannaan, warra kaaniif dubbachuun, galata dhi'eessuunis Waaqayyo duratti nama hundumaaf akka godhamuuf nan gorsa.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Nagaatti gabiitti akka namoota Waaqayyootti jireenya ulfina qabu jiraachuu akka dandeenyuuf, moototaaf, biyya bulchuu keessatti warra aboo qaban hundumaafis akkasuma godhaa!",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Kun gaarii dha, fuula Waaqayyoo fayyisaa keenyaa durattis fudhatamaa dha.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Waaqayyo, namni hundinuu akka fayyu, dhugaa beekuu biras akka ga'u in fedha.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Waaqayyo tokkicha, inni gidduu dhaabatee Waaqayyoo fi nama walitti fidus tokkicha; inni immoo Kristos Yesus isa nama ta'ee mul'atee dha.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Inni furii namoota hundumaatiif ofii isaa dabarsee kenne; kunis yeroo isaatti dhugaa baafame.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Isa kanaafis ani lallabaa, ergamaas ta'een jira; kanas ani dhugaan dubbadha malee hin sobu; amantiidhaan dhugaadhaan geggeeffamees warra saba Waaqayyoo hin ta'in nan barsiisa.",
+     "alt": "፯",
+     "refs": [
+      {
+       "origin": "2:7",
+       "target": "2Xim 1:11."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "t": "Lafa kadhata godhatanitti immoo warri dhiiraa yaada dheekkamsaa fi qoccollootiin utuu hin ta'in, yaada qullaa'aadhaan harka isaanii ol kaasanii akka kadhatan nan barbaada.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Warri dubartii immoo amalli isaan argisiisan mataa tolfachuutti warqeedhaa fi callee naqachuutti, uffata gati-jabeessa uffachuutti, keessa ba'uudhaan of kuuluu utuu hin ta'in, uffata qajeelaa fakkaatu akka ta'utti uffachuudhaan maal naan jedhudhaan, of qabuudhaanis haa ta'u!",
+     "alt": "፱",
+     "refs": [
+      {
+       "origin": "2:9",
+       "target": "1Phe 3:3."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "t": "Dubartoota Waaqayyoof in saganna jedhaniif akka ta'uttis, wanta gaarii haa argisiisan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Dubartiin abboomamuu hundumaan gab jettee haa bartu.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Dubartiin gabiitti haa jiraattu nan jedha malee, haa barsiiftu, dhiira irrattis aboo haa qabaattu hin jedhu;",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Addaam duraan dursee tolfame, Hewwaan immoo ergasii tolfamte.",
+     "alt": "፲፫",
+     "refs": [
+      {
+       "origin": "2:13 a b",
+       "target": "Uma 2:7; Uma 2:21,22."
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "t": "Addaam hin sossobamne, dubartittiin garuu sossobamtee, seera-cabsituu taate.",
+     "alt": "፲፬",
+     "refs": [
+      {
+       "origin": "2:14",
+       "target": "Uma 3:1-6."
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "t": "Haa ta'u iyyuu malee, dubartittiin mucaa da'uudhaan in fayyiti; warri kaanis amantiitti, jaalalatti, qullaa'ummaattis of qabuudhaan yoo jiraatan in fayyu.",
+     "alt": "፲፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 2",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Waa'ee Kadhata Waldaa Keessatti Godhamuu Gorsuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "verses": [
+    {
+     "n": 1,
+     "t": "?Namni ilaaltuu hojii waldaa kristiiyaanaa ta'uu fedhu, hojii ba'eessa hawwa? inni jedhu dubbii amanamaa dha.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Ilaaltuun hojii waldaa kristiiyaanaa, waan ittiin jedhan kan hin qabne, nama haadha manaa tokkittii, nama dhugaatiitti of hin ganne, nama of qabu, nama ulfinaa, nama keessummoota jaallatu, nama warra kaan barsiisuu danda'us ta'uun isa irra jira;",
+     "alt": "፪",
+     "refs": [
+      {
+       "origin": "3:2",
+       "target": "Tit 1:6-9."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "nama garraamii, naga-qabeessas malee, nama machaa'aa, nama lola jaallatus hin ta'in! Nama horii jaallatus hin ta'in!",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Nama warra mana isaa ba'eessa godhee bulchu, ijoollee isaas ulfina hundumaan abboomamuuf kan guddisu, ta'uun isa irra jira.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Namni akka itti warra mana isaa bulchu hin beekne immoo, attamitti waldaa Waaqayyoof yaaduu danda'a ree?",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Of jajuudhaan afuufamee, firdii isa kanaan dura Seexanatti faradametti akka hin kufnetti, nama dhi'oo amane hin ta'in!",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Maqaan isaa badee kiyyoo Seexanaa keessatti akka hin kufnetti, warra alaa biratti maqaa gaarii qabaachuun isaaf in ta'a.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Diiyaaqonoonni warri waldaa kristiiyaanaa keessatti gargaartota ta'anis akkasuma namoota ulfina nama irraa qaban malee, warra arraba lama dubbatan, dhugaatiittis warra gad of dhiisan, karaa dalgaatiin bu'aa argachuu warra jaallatan hin ta'in!",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yaada garaa qullaa'aadhaan dhoksaa amantiitti qabamanii jiraachuun isaaniif in ta'a.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Isaan duraan dursanii qoramanii ilaalamuun in ta'aaf; ilaalamanii erga waa irraa dhabame haa hojjetan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Gargaartonni dubartoonnis warra ulfina nama irraa qaban, warra dhugaatiitti of hin ganne, waan hundumaattis amanamoo haa ta'an malee, warra maqaa namaa balleessan ta'uun irra hin jiru.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Diiyaaqonoonni, abbaa manaa haadha manaa tokkoo haa ta'an! Ijoollee isaanii, warra mana isaaniis ba'eessa godhanii haa bulchan!",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Diiyaaqonoonni, warri ba'eessa hojjetan ofii isaaniitiif iddoo gaarii, amantii isa Kristos Yesusiin argamu kana keessattis, ija jabina guddaa in argatu.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Ani dafee gara kee akkan dhufu nan abdadha; garuu hammasitti gorsa kana siif caafuu koo ti.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Tarii yoo ani tures, namni warra mana Waaqayyoo keessatti amala attamii qabaachuun akka isaaf ta'u, akka beektuuf kun si gargaara; manni kunis waldaa Waaqayyoo jiraataa, isa utubaa fi demdemoo dhugaa ta'ee dha.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Nama Waaqayyoo ta'uu keessa iyyuu dhoksaan guddaan akka jiru amanamaa dha; kanaafis, ?Inni foon uffatee mul'ateera, hafuurichi dhugaa galcheeraaf, ergamoota Waaqayyootti argameera, saba biyya lafaa keessatti lallabameera, guutummaa biyya lafaa keessatti itti amanameera, ulfinaan ol fudhatameera? jedhamee himameera.",
+     "alt": "፲፮",
+     "lines": [
+      {
+       "style": "p",
+       "t": "Nama Waaqayyoo ta'uu keessa iyyuu dhoksaan guddaan akka jiru amanamaa dha; kanaafis,"
+      },
+      {
+       "style": "q2",
+       "t": "?Inni foon uffatee mul'ateera,"
+      },
+      {
+       "style": "q2",
+       "t": "hafuurichi dhugaa galcheeraaf,"
+      },
+      {
+       "style": "q2",
+       "t": "ergamoota Waaqayyootti argameera,"
+      },
+      {
+       "style": "q2",
+       "t": "saba biyya lafaa keessatti lallabameera,"
+      },
+      {
+       "style": "q2",
+       "t": "guutummaa biyya lafaa keessatti itti amanameera,"
+      },
+      {
+       "style": "q2",
+       "t": "ulfinaan ol fudhatameera? jedhamee himameera."
+      }
+     ]
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 3",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warra Waldaa Kristiiyaanaa Keessatti Geggeessituu Ta'an",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warra Waldaa Kristiiyaanaa Keessatti Gargaartota Ta'an",
+     "before": 8
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Dhoksaa Amantii Isa Guddaa",
+     "before": 14
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Bara booddetti namoonni tokko hafuurota wallaalchisoodhaa fi barsiisa hafuurota hamootaa duukaa bu'anii, amantii wangeelaa irraa akka gara galan, hafuurri qulqulluun keessaa baasee in dubbata.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Warri sobduun, of-hinargineen, yaadni garaa isaanii diimnaan gubamee milikkita Seexanaa godhate kun, jara kana wallaalchisanii gara galchaniiru.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Isaan kun, ?Fuudhuunii fi heerumuun, nyaata akkasii fi akkasii nyaachuun dhowwaa dha? jedhu; Waaqayyo garuu, nyaata adda addaa kana, warri amanan, warri dhugaa beekuu bira ga'anis, galataan fudhatanii akka nyaataniif uume.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Wanti Waaqayyo uume hundinuu gaarii dha, wanta galataan fudhatamu keessas hirmiin hin jiru.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Dubbiin Waaqayyoo, kadhannis isa in qulleessa.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Obboloonni kana akka baran yoo goote, Kristos Yesusiif hojjetaa isa ba'eessa in taata; ofii keetiis dubbii amantiitti, barsiisa ba'eessa isa duukaa buute sanattis guddachaa in adeemta.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Mammaaksa wanta qulqullaa'aadhaan mormu isa dubartoonni dullooman mammaakan hin fudhatin; nama Waaqayyoo ta'uudhaaf of qopheessi!",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Namummaa foonii cimsuuf of qoqqopheessuun wanta muraasaaf nama gargaara; nama Waaqayyoo ta'uudhaaf of qoqqopheessuun garuu, wanta baay'eedhaaf nama gargaara; jireenya ammaaf, isa dhufuufis abdiin isuma keessa jira.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Dubbichi amanamaa dha, guutummaatti fudhatamuunis in ta'aaf.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Waaqayyo fayyisaa nama hundumaa ti, addumaan immoo fayyisaa amantootaa ti; nuyi abdii keenya Waaqayyo isa jiraataa irra kaa'anneerra; kanaafis kanatti in dadhabna in dhamaanas.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Kana hundumaa isaan abboomi, isaan barsiisis!",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Dubbii afaan keessaa ba'uun, akka jireenyaatiin, jaalalaan, amantiidhaan, of-qabuudhaanis amantootaaf fakkeenya ta'i! Namni tokko illees ijoollummaa keetiif si hin tuffatin!",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Hamma ani dhufutti immoo, caaffata qulqullaa'aa namootaaf dubbisuutti, gorsuutti, barsiisuuttis of kenni!",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Sagalee raajii dubbatameen, maanguddoonni harka isaanii mataa kee irra kaa'uudhaanis, kennaa hafuuraa siif kennamee si keessa jiru sana hin dagatin.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Namoonni hundinuu itti guddachaa adeemuu kee akka arganitti, kennaa kanaan hojjedhu! Ittis of gad dhiisi!",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Ati ofii kee, barsiisa kees eeggadhu, itti jabaadhu! Akkas gochuu keetiin mataa kee, warra si dhaga'anis gara fayyinaatti in geessita.",
+     "alt": "፲፮"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 4",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ka'i Barsiisota Sobduu Duraan Dursee Himamuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Hojjetaa Kristos Yesus Isa Ba'eessa",
+     "before": 6
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Nama jaarsa akka abbaatti gorsi malee, hin ifatin! Namoota gara ijoollee akka obbolootaatti isaan qabi!",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Dubartoota maangoddoota akka haadhotaatti, warra gara ijoollees yaada qullaa'aadhaan akka obboleetotaatti gorsi!",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Warra abbaan manaa irraa du'e, dhugumaanis gargaartuu hin qabnetti ulfina argisiisi!",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Isheen abbaan manaa irraa du'e ijoollee yookiis akkoo yoo qabaatte immoo, ijoolleen sun duraan dursanii wanta karaa amantii isaanii maatii ofii isaaniif gochuun isaan irraa barbaadamu haa baran; akkasumas dugda warra isaanii haa deebisaniif, inni kun Waaqayyo duratti fudhatamaa dha.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Isheen dhugumaan abbaan manaa irraa du'e, nama gargaaru malee hafte, abdii ishee Waaqayyo irra kaa'atteetti, halkanis guyyaas himataa fi kadhata itti in fufti.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Isheen abbaan manaa irraa duunaan qannaniitti of gad dhiifte garuu, fayyaatti utuma jirtuu iyyuu duutuu dha.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Warra waan ittiin jedhan hin qabne ta'anii akka argamaniif, gorsa kana akka fudhataniif isaan barsiisi!",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Namni tokko akkasitti fira isaatiif, caalaadhumatti immoo warra mana isaatiif yoo yaaduu dhabaate, inni amanticha ganuu isaa ti, nama hin amanin caalaas hammaachuu isaa ti.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Dubartiin tarree warra abbaan manaa irraa du'aniitti caafamtu, barri ishee waggaa jaatamaa gad hin ta'in; duraan immoo dubartii abbaa manaa tokkichaa kan turte haa taatu.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Hojii gaarii hojjechuu isheetiif, ijoollee akka ta'utti guddisuu isheetiif, keessummoota simuu isheetiif, warra Waaqayyoof qulqullaa'aaniif miilla dhiquu isheetiif, warra rakkatan gargaaruu isheetiif, karaa hundumaas hojii gaariidhaaf of kennuu isheetiif, maqaa gaarii kan qabdu ta'uun ishee irra jira.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Dubartoota gara ijoollee warra abbaan manaa irraa du'e garuu tarree isaaniitti hin dabalin! Hawwiin foonii yeroo itti cimu, isa takka Kristosiif of kennanii heerumuu dhiisan irraa deebi'anii heerumuu in kajeelu.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Kakuu takka isaaf galan cabsuu isaaniitiifis yakki itti in murama.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Kana malees, hojii malee taa'uu in baru, manaa manas in labu; hojii malee taa'uu duwwaas utuu hin ta'in, jette-jettee in baay'isu, dhimma namaa keessas in lixu, wanta dubbachuun isaaniif hin taanes in dubbatu.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Kanaafis diinni hamaa nu irratti akka dubbatuuf karaa akka hin kennineefitti, dubartoonni abbaan manaa irraa du'an warri gara ijoollee akka heeruman, ijoollees akka godhatan, manas akka qaban nan barbaada.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Kaan immoo kanumaan dura iyyuu Seexana duukaa bu'uudhaaf karaa irraa goraniiru.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Dubartiin amante tokko firoota abbaan manaa irraa du'an yoo qabaatte, isheen isaan haa gargaartu! Waldaan kristiiyaanaa immoo warra abbaan manaa irraa du'anii, dhuguma gargaarsa hin qabne haa gargaartu! Ba'aan warra kan biraas itti hin dabalamin!",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Maanguddoonni warri ba'eessa godhanii hojii waldaa geggeessan, addumaan immoo warri lallabaa fi barsiisatti dadhabanii hojjetan, gatii dadhabbii isaanii dachaa lama ulfinaan argachuun isaaniif in ta'a.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Caaffanni qulqullaa'aan, ?Qotiyyoo siribsiisuu irra jiru afaan isaa hin hidhin!? in jedha; akkasumas, ?Hojjetaan gatii dadhabbii isaa argachuun in ta'aaf? kan jedhu barsiifameera.",
+     "alt": "፲፰",
+     "refs": [
+      {
+       "origin": "5:18 a b",
+       "target": "Kes 25:4; Mat 10:10; Luq 10:7."
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "t": "Dhuga-baatuu lama yookiis sadii yoo qabaate malee, hadheessa maanguddoo tokko irratti dhi'aate hin fudhatin!",
+     "alt": "፲፱",
+     "refs": [
+      {
+       "origin": "5:19",
+       "target": "Kes 17:6; 19:15."
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "t": "Warra cubbuu hojjetan immoo, warri hafan akka sodaatanitti, hundumaa duratti ifadhu!",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Seerrata kana wal caalchisuu malee, nama tokkos utuu hin loogin akka eegduuf Waaqayyo duratti, Kristos Yesus, ergamoota Waaqayyoo warra fo'aman durattis kaksiisee sitti dabarsuu koo ti.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Harka mataa namaa irra kaa'uutti hin ariifatin, cubbuu nama biraattis hin galin! Ati ofii kee qullaa'ummaatti eeggadhu.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Si'achi sababii garaa keetii fi sababii ammaa-amma dadhabbiin sitti dhaga'amuufis daadhii waynii xinnoo itti dabalii dhugi malee, bishaan duwwaa hin dhugin!",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Cubbuun nama tokko tokkoo, dura bakkeetti mul'atee gara firdiitti isa geessa; cubbuun warra kaanii garuu booddeedhaan in mul'ata.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Hojiin gaariinis akkasuma bakkeetti in mul'ata, yoo mul'ataa ta'uu dhabaates dhokatee hafuu hin danda'u.",
+     "alt": "፳፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 5",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Akka Itti Amantoonni Ilaalamuun Ta'u",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warra Abbaan Manaa Irraa Du'eef Gochuun Kan Ta'u",
+     "before": 3
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warra Jaarsomaniif Gochuun Kan Ta'u",
+     "before": 17
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Warri waanjoo garbummaa jala jiran Waaqayyo, barsiifni keenyas maqaa gadhee akka hin godhannetti, warra isaan bulchan akka warra ulfina hundumaa argachuun ta'uufitti haa ilaalan!",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Ofii isaaniitii garbummaa jala jiraatanii warri isaan bulchan amantoota yoo ta'an, lachuu amantiidhaan waliif obboloota; sababii obboloota waliif ta'aniif immoo warra isaan bulchu kana hin tuffatin. Warri isaan bulchan immoo amantoota, kan jaallatamanis ta'anii hojii gaariidhaaf waan of kennaniif ittuma caalchisanii haa hojjetan! Kana barsiisi, gorsis.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Namni barsiisa biraa barsiisu, dubbii gooftaa keenyaa Yesus Kristos isa sirriidhaa fi barsiisa ittiin nama Waaqayyoo ta'anii wajjinis kan walii hin galle yoo jiraate,",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "namni akkasii of bokoksuudhaan of arguu dhabe, homaas hin beeku; yaadni isaa waan irratti dhukkubsateef waliin morkachuu fi wal diduu dhiisuu hin danda'u; waliin morkachuu fi wal diduu keessaa immoo weennoon, qoccolloon, maqaa balleessuun, hamaatti nama mamuun in ba'a.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Namoonni warri qalbiin isaanii bade wal aarsuunis kana keessaa in dhufa; isaan immoo dhugaan waan irraa fudhatameef, nama Waaqayyoo ta'uun waan ittiin bu'aa argatan in se'u.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Nama Waaqayyoo ta'uun, nama wanta qabuun of danda'ee jiraatu biratti bu'aa guddaa qaba.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Nuyi waanuma tokko illee fidnee gara biyya lafaa hin dhufne, isa keessaas waanuma tokko illee fuunee ba'uu hin dandeenyu.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Waan ittiin jiraannu, waan keessa jiraannus qabaannaan nu ga'a.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Warri sooromuu barbaadan immoo qoramatti, kiyyootti, kajeellaatti, gowwummaa isaan miidhu baay'ee keessattis in kufu; kajeellaawwan kunis balleeffamuu fi baduu keessa isaan in buusu.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Horii jaallachuun hundee wanti hamaan hundinuu irraa latuu dha; namoonni gar tokko yaada isaanii horii argachuu irra kaa'atanii, amanticha irraa badaniiru, waraansa baay'eedhaanis of waraananiiru.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Ati garuu yaa nama Waaqayyoo, kana hundumaa irraa fagaadhu! Qajeelinaaf, akka nama Waaqayyootti jiraachuudhaaf, amantiidhaaf, jaalalaaf, obsaaf, gara-laafummaadhaaf dhama'i!",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Wal'aansoo amantii isa gaarii sana jabeessii qabi! Jireenya bara baraas harka kee keessa galfadhu! Isaaf waamamtee, dhuga-baatuu baay'ee duratti amantii kee ba'eessa gootee beeksifteetta.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Fuula Waaqayyoo isa wanti hundinuu akka jiraatu godhu, fuula Kristos Yesus isa Phonxos Philaaxos duratti amantiidhaaf ba'eessa godhee dhugaa ba'e durattis kana sitti nan kenna.",
+     "alt": "፲፫",
+     "refs": [
+      {
+       "origin": "6:13",
+       "target": "Yoh 18:37."
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "t": "Hamma gaafa gooftaan keenya Yesus Kristos deebi'ee mul'inatti dhufutti, ajaja kana balleessaa malee waan jechaa utuu si irratti hin argamin eegi!",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Waaqayyo inni eebbifamaan, kophaa isaa waan hundumaa gara irraa jiru, warra mootota ta'an irratti inni mootii ta'e, warra gooftota ta'aniratti inni gooftaa ta'e, yeroo isaaf ta'utti Kristos mul'inatti dhufuu isaa in argisiisa.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Waaqayyo duwwaatu hin du'u, inni ifa homtinuu itti dhi'aachuu hin dandeenye keessa in jiraata; namni takkaa isa hin argine, isa arguus hin danda'u. Isaaf ulfinnii fi aangoon bara baraa haa ta'u! Ameen.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Warri amma biyya lafaa kanatti sooressota ta'an waan guddaa akka of hin seene, abdii isaaniis sooruma isa hin amansiifne irra akka hin kaa'anne isaan hubachiisi! Abdii isaanii Waaqayyo isa waan hundumaa akka ittiin dhimma baanuuf baay'isee nuuf kennu irra haa kaa'atan!",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Wanta gaarii ta'e haa hojjetan, soorumni isaanii hojii gaarii isa isaan hojjetan haa ta'u! Haa arjooman, isa qaban warra kaaniinis haa ga'an!",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Kanaan badhaadhummaa walitti qabatanii jireenya dhugaa harka isaanii keessa galfachuudhaaf bara dhufuuf ijaarsa jireenya sanaaf hundee gaarii in kaa'atu.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Yaa Ximotewos, wanta hadaraa sitti kenname jabeessii eegi! Dubbii midhaan hin qabne isa wanta qulqullaa'aadhaan mormu irraa, wanta sobaa isa ?Beekumsa? jedhame dhugaadhaan mormu irraas fagaadhu!",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Namoonni gar tokko ?Beekumsa? isa jedhamee kana ?Arganneerra? jedhanii in himu, isaan garuu isa karaa amantii akeekkatan dhabaniiru. Ayyaanni Waaqayyoo isinii wajjin haa ta'u.",
+     "alt": "፳፩"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 6",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Warra Garbummaa Jala Jiran Gorsuu Isaa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Waa'ee Barsiisa Sobaa, Waa'ee Badhaadhummaa Dhugaas Yaadachiisuu Isaa",
+     "before": 3
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Addumaan Isa Gorsuu Isaa",
+     "before": 11
+    }
+   ]
+  }
+ ]
+}

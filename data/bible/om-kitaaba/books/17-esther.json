@@ -1,0 +1,1057 @@
+{
+ "edition": "om-kitaaba",
+ "book": "EST",
+ "usfm_id": "EST",
+ "order": 17,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Bara Ahashweros isa biyya Hindiitii hamma biyya Itiyoophiyaatti kutaawwan biyyaa dhibbaa fi digdamii torba mo'etti kan ta'e kanatti fufee jira;",
+     "alt": "፩",
+     "refs": [
+      {
+       "origin": "1:1",
+       "target": "Izr 4:6."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "t": "bara sanatti Ahashweros mootii ta'ee, teessoo mootummaa mandara Susaan keessa jiru irra in taa'e.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Mo'ee waggaa sadaffaa isaatti gurguddoota isaa fi hojjetoota isaa hundumaaf nyaachisa in godhe; nyaachisa kana irratti geggeessitoonni loltoota Faaresii fi Medoon akkasumas gurguddoonnii fi angafoonni kutaawwan biyyaa argamaniiru.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Inni guyyaa dhibbaa fi saddeettama guutuu, badhaadhummaa mootummaa isaa isa ulfina-qabeessaa fi ulfina mootummaa isaa isa surra-qabeessa in argisiise.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Guyyoonni sun erga darbanii booddee mootichi iddoo dhaabaa mana mootummaa mandara Susaan keessatti, ?Xinnaa dha, guddaa dha? utuu hin jedhin namoota mandara sana keessa jiraatan hundumaaf guyyaa torba nyaachisa in godhe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Iddoon dhaabaa sun golgaawwan haarrii adii fi haarrii bifa waaqaa qabu irraa hojjetamanii, funyoo haarrii adii fi boffee dhiilgee irraa dha'ameen amartii meetiitti hidhamanii utuboota dhagaa gati-qabeessaatti gad rarraafaman qaba ture; buusaa dhagaa borrajjii fi dhagaa gati-qabeessaan, callee gati-jabeessaa fi dhagaa gati-jabeeyyiidhaan miidhagfamanii hojjetaman irra immoo sireewwan warqee fi meetii irraa hojjetamantu turan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Mootichi arjaa dha, daadhii wayniis hamma ga'utti qaba waan tureef, waancaa warqee bifa garaa garaa qabutti namootaaf in kennisiise;",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "tokkon tokkon namaatiif akka fedha fedha isaatti daadhicha akka kennan mootichi hojjetoota isaa warra daadhii buusan waan abboomeef, keessummoonni hundinuu hamma barbaadan dhuguu in danda'u turan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Waashtiin mootittiinis immoo mana mootummaa Ahashweros mootichaa keessatti dubartootaaf nyaachisa in goote.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Ahashweros mootichi nyaachisa guyyaa torbaffaa irratti daadhii waynii dhugee yommuu gammade, xu'aashota torban warra isaaf ergaman Mihumaanii fi Biiztaanin, Harbonaa fi Biigtaanin, Abaagtaa fi Zetaarin, Karkaasinis waamee,",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "?Waashtii mootittii gonfoo mootummaa akka kaa'attetti as ishee fidaa!? jedhee abboome; mootittiin miidhagduu waan turteef, mootichi gurguddoota isaa fi keessummoota isaatti ishee mul'isuu in barbaade.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Warri gara isheetti ergaman ajaja mootichaa isheetti in himan; isheen garuu dhufuu in didde; kana irratti mootichi in dheekkame, aarees in boba'e.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yommus beektota waa'ee dubbii baraa beekanii wajjin mari'achuun amala mootii waan tureef, maal gochuun akka wayyu gorsitoota isaa wajjin in mari'ate.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Gurguddoota Faaresii fi Medoon torban warra isatti aanan, hojii mootummaa keessaas iddoo gurguddaa qaban Karshenaa fi Shetaarin, Admaataa fi Tarshiishin, Meresii fi Marsenaan, Memukaaninis,",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "?Waashtii mootittiin wanta ani Ahashweros mootichi karaa hojjetoota koo warra xu'aashotaa ishee abboome raawwachuu waan diddeef, seerri akka jedhutti maal ishee gochuutu nuuf ta'a?? jedhee in gaafate.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yommus Memukaan deebisee mootichaan, gurguddootaanis dubbatee, ?Waashtii mootittiin si Ahashweros mooticha duwwaa yakkite utuu hin ta'in, guutummaa kutaawwan biyyaa kee keessa warra jiran gurguddoota kee fi namoota kee hundumaas immoo yakkuu ishee ti;",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "wanti isheen goote kun dubartoota hundumaa biratti in beekama; isaan, ?Ahashweros mootichi Waashtii mootittiin gara isaa akka dhuftuuf abboomee ture, isheen garuu in didde? jedhanii, dhirsoota isaanii in tuffatu.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Dubartoonni gurguddoota Faaresii fi Medoon warri oduu mootittii dhaga'an har'uma kana isuma isheen jette, isaanis immoo dhirsoota isaaniitiin in jedhu, ceephoonii fi dheekkamsi in baay'ata.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Jaalala si mootichaa yoo ta'e, Waashtiin si Ahashweros mooticha duratti akka hin dhi'aanneef, abboommii baasii seera Faaresii fi Medoon isa geddaramuu hin dandeenye keessatti caafsisi, iddoo mootittiis dubartii ishee irra wayyituuf kenni!",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Abboommiin si mooticha biraa ba'u biyya kee isa bal'aa kana keessatti guutummaatti yommuu labsamu, dubartoonni hundinuu, ?Kun hiyyeessa, kun sooressa? utuu hin jedhin dhirsoota isaaniitiif ulfina in kennu? jedhe.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Gorsi Memukaan kenne kunis mootichaa fi gurguddoota sana in gammachiise; kanaaf mootichi akkuma Memukaan jedhe in godhe.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Caaffata, ?Abbaan manaa hundinuu mana mana isaa irratti aboo, wanti inni dubbatus murtoo isa dhumaa haa qabaatu!? jedhu, tokkon tokkon kutaa biyyaatiif akka akka caafata isaatti, gosa hundumaaf akka akka afaan isaatti caafsisee, guutummaa biyya motummaa isaatiitti in erge.",
+     "alt": "፳፪"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ahashwerosii Fi Waashtiin Wal Dhabuu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ahashweros mootichi aariin isaa erga irraa galee booddee, wanta Waashtiin goote, waa'ee isheetiifis abboommii dabarsuu isaa in yaadate.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Yommus gorsitoota mootichaa keessaa warri isatti dhi'aatan, ?Durboonni mimmiidhagoonni si mootichaaf haa barbaadaman!",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yaa mootii, hojjetoota kee keessaa namoota durboota mimmiidhagoo ilaalanii mana mootummaa mandara Susaan keessaatti, mana dubartootaatti walitti qaban guutummaa kutaa biyya mootummaa keetiitti fo'i! Durboonni kunis Hegaayi xu'aashicha isa dubartoota eegutti haa kennaman! Dibanni miidhagummaa isaaniitiif barbaachisus haa kennamuuf!",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Durboota kana keessaa mootichatti kan toltu iddoo Waashtii mootuu haa taatu!? jedhan; gorsi kun mooticha waan gammachiiseef, inni akkuma gorfametti in raawwate.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Bara sana gosa Benyaamiin keessaa Yihudiin tokko Mordekaayi kan jedhamu ilmi Yaa'iir, ilmi Shiim'aayi, ilmi Qiish mana mootummaa mandara Susaan keessa ture.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Namni kun namoota warra Yikonyaa mootii Yihudaa wajjin, Nebukadnezaar mootii Baabiloniin Yerusaalemii booji'amanii fudhataman keessaa tokko ture.",
+     "alt": "፮",
+     "refs": [
+      {
+       "origin": "2:6",
+       "target": "2Mot 24:10-16; 2Sen 36:10."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "t": "Mordekaayi, intala wasiila isaatii ?Haadasaa? kan jedhamtu ishee ?Asteer? jedhamtee beekamte sababii abbaan ishee fi haati ishee irraa du'aniif ofitti fuudhee akka dhala isaatiitti ishee in guddise; isheen durba dhaaba toltu, ija namaattis kan miidhagdu turte.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Abboommiinii fi labsiin mootichaa yommuu dhaga'ame, durboota baay'ee, Asteerinis gara mana mootummaa isa mandara Susaan keessa jiruutti geessanii, eegumsa akka inni isaaniif godhuuf Hegaayi isa dubartoota eegutti in kennan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Asteer fuula Hegaayi duratti in jaallatamtee, isa irraa simboo in argatte; innis dibata miidhagummaa isheetiif barbaachisuuf nyaata gaarii in kennisiiseef; kan isheedhaaf ergaman durboota foffo'amoo torba mana mootummaa keessaa addaan baaseefii, mana dubartootaa keessaa iddoo isa hundumaa irra caalutti durboota isheedhaaf ergaman kanaa wajjin ishee in dabarse.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Asteer sanyii ishee fi qomoo ishee akka hin mul'ifne Mordekaayi ishee dhowwe waan tureef, isheen sanyii ishee fi qomoo ishee hin mul'ifne.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Mordekaayi nagummaa Asteer yookiis waan ishee irra ga'u baruudhaaf guyyuma guyyaatti oobdii mana dubartootaa dura asii fi achi in deddeebi'a ture.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Akka seera dubartoota miidhagsuudhaaf ba'etti durboonni sun adduma addaan Ahashweros mooticha duratti dhi'aachuudhaaf ji'a ja'a dibata qumbiitiin, ji'a ja'a immoo urgooftuudhaa fi dibata garaa garaatiin walumatti ji'a kudha lamaaf qopheeffamuutu isaan irra ture.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yeroon kennameef kun erga raawwatee, isheen darabee isheetiin fuula mootichaatti dhi'aattu, mana dubartootaa keessaa waanuma barbaaddu fudhattee gara mana mootichaa dhaquu in dandeessi.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Isheen galgala achi dhaqxee, borumtaa ganama deebitee gara kutaa mana dubartootaa isa lammaffaa in dhaqxi; achittis Sha'asgaaz xu'aashicha isa saajjatoota mootichaa eegu biratti in eegamti; mootichi isheetti gammadee addumaan yoo ishee waamuu dhabaate, gara isaatti hin deebitu.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Amma yeroon Asteer ishee Mordekaayi akka dhala isaatiitti guddifate fuula mootichaatti dhi'aattu in ga'e; Asteer kun intala Abiihaayil wasiila Mordekaayi; isheen wanta Hegaayi xu'aashichi eegduun dubartootaa ?Fudhadhu!? jedhe irraa kan hafe waan tokko illee hin barbaanne; nama ishee arge hundumaas in naasifatti turte.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Ahashweros mo'ee waggaa torbaffaatti, waggichattiis ji'a kurnaffaa isa ?Xebet? jedhamutti gara mana mootichaatti in geeffamte.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Mootichi dubartoota warra kaan caalaa Asteerin in jaallate; durboota sana hundumaa keessaa isheen fuula isaa duratti ayyaanaa fi simboo in argatte; kanaafis mootichi gonfoo mootummaa mataa ishee irra kaa'ee, iddoo Waashtii akka isheen mootittii taatu in godhe.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Yommus mootichi waa'ee Asteeriif jedhee, gurguddoota biyyaa isaa fi hojjetoota isaa hundumaaf nyaachisa guddaa in godhe; guutummaa kutaa biyya isaatii keessattis maarama labsee, akka arjummaa isaatiittis namootaaf kennaa in kenne.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Yeroo durboonni sun si'a lammaffaa walitti qabamanitti, Mordekaayiif immoo yaa'ii mana mootichaa keessatti iddoon kennamee ture.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Asteer akkuma yeroo Mordekaayi ishee guddisee isaaf abboomamaa turte, ammuma iyyuu yaada isaa duukaa bu'aa jirti; eessaa akka dhufte akka isheen hin mul'ifneef ishee dhowwe waan tureef, isheenis hamma har'aatti iyyuu qomoo ishee fi sanyii ishee hin mul'ifne.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Bara Mordekaayi yaa'ii mana mootichaa keessatti iddoo kennameef sana irra turetti, xu'aashota balbala mootichaa eegan keessaa lama Biigtaanii fi Teresh aaranii, Ahashweros mooticha ajjeesuudhaaf in koratan.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Mordekaayi garuu dubbii mooticha irratti koratame kana bira ga'ee Asteer mootittiitti in hime; isheen immoo Mordekaayi dubbii kana bira ga'uu isaa mul'iftee mootichatti in himte.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Dubbichi qoratamee dhugaa ta'uun isaa bira ga'amnaan jarri lachanuu mukatti in rarraafaman; kunis macaafa seenaan guyyaa guyyaa itti caafamu isa kan mootichaa keessatti caafameera.",
+     "alt": "፳፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 2",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Asteer Mootuu Ta'uu Ishee",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Mordekaayi Wanta Mooticha Irratti Koratame Ifa Baasuu Isaa",
+     "before": 19
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Kana booddee Ahashweros mootichi Haamaanin ilma Hamedaataa nama biyya Agaag guddisee gurguddoota biyyaa warra yeroo sana turan hundumaa gara irraa isa kaa'e.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Isaan Haamaaniif ulfina akka kennaniif mootichi waan abboomeef, hojjetoonni achi keessa jiran hundinuu hamma lafa ga'anitti isaaf in qoomma'an; Mordekaayi garuu isaaf hin gugguufne hin qoommaanes.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus hojjetoonni mootichaa warri achi keessa jiran, ?Ati abboommii mootichaa maaliif cabsita?? jedhanii Mordekaayin in gaafatan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Guyyuma guyyaatti deddeebi'anii gaafannaanis inni Yihudii ta'uu isaa isaanitti hime malee, qoomma'uufii waan dideef, dubbiin Mordekaayi kun attam akka ta'u baruu barbaadanii, dhaqanii waa'ee isaa Haamaanitti in himan.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Haamaan akka Mordekaayi lafa ga'ee isaaf qoomma'uu dide yommuu dhaga'e baay'ee in aare.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Qomoon Mordekaayi Yihudii ta'uu isaa isaan waan isatti mul'isaniif, Haamaan isa duwwaa ajjeesisuu in tuffate; kanaafis Haamaan Yihudoota qomoo Mordekaayi warra guutummaa mootummaa Ahashweros keessa jiran hundumaa fixuu in barbaade.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Ahashweros mo'ee waggaa kudha lammaffaatti, ji'a isa tokkoffaa ji'a Niisaanitti guyyaa itti Haamaan jara kana irratti haala ba'u beekuudhaaf guyyaa hundumaaf ji'a hundumaaf muka buufnaan, buufanni mukaa sun ji'a kudha lammaffaa isa ji'a ?Adaar? jedhamu irra in buuse.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Yommus Haamaan dhi'aatee Ahashweros mootichaan, ?Jarri bittimmaa'anii saba kutaa biyya mootummaa keetii hundumaa gidduu tamsa'an tokko jiru; seerri isaanii seera namoota warra kaanii hundumaattii kan gargar ba'ee dha; seera mootiifis hin abboomaman; kanaafis jara kana calluma jedhanii ilaaluun mootiidhaaf kan tolu miti.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yaa mootii, amma jaalala kee yoo ta'e, jara kana fixuudhaaf abboommiin haa caafamu! Ani immoo namoota kana hojii irra oolchaniif akka ta'utti meetii kiilo graamii kumaatama dhibba sadii fi kuma afurtama miijanu warra horii mootummaa kanaa baatanitti nan kenna? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Kana irratti mootichi amartii mallattoo quba isaattii baasee, Haamaan ilma Hamedaataa isa biyya Agaag, isa diina Yihudootaa sanatti in kenne.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Mootichi Haamaanin, ?Meetichii fi namoonni harka kee keessa jiruutii waan sitti fakkaate ittiin hojjechiisi!? jedhe.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Ji'a duraatti, ji'ichattiis gaafa guyyaa kudha sadaffaa caaftonni mootummaa in waamaman; isaan abboommii Haamaan hundumaa akka caaffata kutaa biyya garaa garaatiif afaan saba garaa garaatti, biyya bulchitoota mootichaatti, abboota kutaa biyyaa garaa garaatti, gurguddoota saba garaa garaattis in caafan; caaffanni kun maqaa Ahashweros mootichaatiin caafamee mallattoo isaatiinis in mallateeffame.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Ajajji caaffatichaa namoota fiigichaan ittiin ga'anitti kennamee, gaaf tokkicha ji'a kudha lammaffaatti innis ji'a Adaar gaafa guyyaa kudha sadaffaa Yihudoota hundumaa, dargaggoota, jaarsolii, ijoollota, dubartootas ajjeesanii, balleessanii akka barbadeessaniif, qabeenya isaanii immoo akka saamaniif kutaa biyya mootichaa hundumaatti in ergame.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Sabni hundinuu guyyaa sanaaf akka qophaa'utti caaffanni labsii sanaa irraa gara galfamee kutaa biyya biyyaa hundumaatti in beeksifame.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Labsiin sun mana mootummaa isa mandara Susaan keessaatti in dhageessifame; abboommiin mootichaa waan ariifachiisuuf, namoonni fiigichaan ajaja sana ittiin ga'an kara-karaa in ka'an; mootichii fi Haamaan dhugaatiitti in taa'an, warri mandara Susaan garuu na'anii waan godhan in wallaalan.",
+     "alt": "፲፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 3",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Haamaan, Yihudoota Balleessuudhaaf Korachuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Mordekaayi wanta ta'e kana hundumaa yommuu hubate, gadda irraa kan ka'e uffata isaa tarsaasee, uffata gaddaa uffatee, daaraas ofitti firfirsee, guddisee wawwaachaa mararames boo'aa mandarattii walakkaa in darbe.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Garuu sababii namni uffata gaddaa uffatu kellaa mootichaa lixuu hin dandeenyeef, hamma fuul-dura kellaa mana mootichaa duwwaatti in adeeme.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Kutaa mootummaa biyya sanaa hundumaa lafuma ajajjinii fi labsiin mootichaa ga'etti, Yihudoota gidduu gadda guddaa, soomuu, boo'ichaa fi wawwaannaatu ture; baay'een isaanii immoo uffata gaddaa uffatanii daaraas ofitti firfirsanii in taa'an.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Durboonnii fi xu'aashonni warri Asteeriif ergaman dhufanii waa'ee Mordekaayi yommuu isheetti himan, Asteer mootittiin naatee lafa irraa in badde; uffata gaddaa sana dhiisee uffata kan biraa akka inni uffatuuf in ergiteef; inni garuu fudhachuu in dide.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yommus Asteer xu'aashota mootichaa keessaa Hataak isa isheedhaaf ergamuudhaaf fuula ishee dura dhaabatu waamtee, Mordekaayi maal akka ta'e, maaliifis akkas akka ta'e akka baruuf in ergite.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Kana irratti Hataak ba'ee, waltajjii mandarattii isa karra kellaa mootichaa fuul-dura jiru keessatti Mordekaayi bira in dhaqe.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Yommus Mordekaayi wanta isa irra ga'e hundumaa, baay'ina horii isa Haamaan Yihudoota ficisiisuudhaaf warra horii mootummaa kanaa baatanitti kennuudhaaf abdachiises isatti in hime.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Akkasumas caaffata labsii isaan barbadeessuudhaaf mandara Susaan keessaa ba'e irraa gara galfame geessee Asteeritti akka argisiisuuf, waa'ee isaas isheedhaaf akka ibsuuf itti in kenne; kana malees immoo Asteer fuula mootichaa duratti dhi'aattee, himattee qomoo isheetiif araara kadhachuuf akka ishee ariifachiisuuf isatti in hime.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Hataak deebi'ee wanta Mordekaayi jedhe Asteeritti in hime.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Asteer ammas gara Mordekaayitti isa ergitee,",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "? ?Eenyu illee dhiiras ta'e dubartiis ta'e, utuu hin waamamin gara kutaa mana mootichaa isa gara keessaatti ol galee mootichatti dhi'aatee yoo argame, akka ajjeefamu seerri tokko jira; haa ta'u iyyuu malee, namni mootichi siiqqee isaa isa warqee irraa hojjetame itti qabe immoo ajjeefamuu in oola; isa kanas hojjetoonni mootichaa fi namoonni kutaa biyya isaatii keessa jiran hundinuu in beeku; anis guyyaa soddomman kanaaf lafa mootichi jirutti ol galuudhaaf hin waamamne? jedhiin? jette.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Dhaamsi Asteer Mordekaayi bira in ga'e.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Inni immoo deebisee, ?Ati mana mootichaa keessa waan jirtuuf, ?Yihudoota hundumaa keessaa addaan ba'ee nan oola? jettee garaa keetti hin yaadin.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Mootuu ta'uun kee iyyuu yeroo akkasiitiif yaadame ta'a, maaltu beeka? Yeroo akkasii kanatti ati calluma jettee yoo dhiifte immoo, Yihudoota kan furuu fi kan oolchu iddoo biraatii in ka'a, atii fi horteen abbaa keetii garuu in dhumtu? jedhee Asteeritti in dhaame.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Kana booddee Asteeris Mordekaayitti dhaamtee,",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "?Dhaqii, Yihudoota Susaan keessa jiran walitti qabiitii, waa'ee kootiif soomaa, guyyaa sadiif halkanis guyyaas homaa hin nyaatinaa, hin dhuginaas! Anii fi xomboreewwan koos akkasuma in soomna; lafa mootichi jirutti ol galuun seera mootummaa kanaa duuba yoo ta'e iyyuu, akka kanatti ani yoon du'es du'inna! Gara lafa mootichi jirutti ol nan gala? jette.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Yommus Mordekaayi dhaqee wanta Asteer isa abboomte hundumaa in godhe.",
+     "alt": "፲፯"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 4",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Yihudoonni Waaqayyotti Boo'uu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Guyyaa sadaffaattis Asteer uffata mootummaa uffattee, kutaa mana mootichaa isa gara keessaa lixxee fuullee lafa mootichi taa'u in dhaabatte; mootichi immoo mana mootummaa isaa keessa teessoo isaa irra fuullee balbala manichaatiin in taa'a ture.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Asteer mootittiin kutaa manichaa isa gara keessaa sana keessa utuu dhaabattuu mootichi yommuu arge, isheen isa biratti adda in argatte; mootichi siiqqee harka isaa keessa jiru isa warqee irraa hojjetame sana isheetti in qabe, isheenis itti dhi'aattee fiixee siiqqee sanaa in qabde.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus mootichi, ?Yaa Asteer mootittii, maal siif godhu? Maalis barbaadde? Walakkaa mootummaa kootii iyyuu yoo ta'e siif in kennama? jedheen.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Asteer immoo deebiftee, ?Yaa mootii, jaalala kee yoo ta'e, har'a nyaachisa ani siif qopheesse irratti Haamaanii wajjin anaaf argami!? jette.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yommus mootichi, ?Wanta Asteer jette akka goonutti, Haamaanin ariitiidhaan waamaa!? jedhe; mootichii fi Haamaan gara nyaachisa isa Asteer qopheessitee in dhaqan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Daadhii waynii utuu dhugaa jiranii mootichi, ?Wanti ati kadhattu maali? Innoo siif in kennama; maalis barbaadda? Walakkaa mootummaa kootii iyyuu yoo ta'e siif in kennama? jedhee Asteerin in gaafate.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Kana booddee Asteer deebiftee, ?Kadhannaan kootii fi fedhi koo, kanatti fufee kan jiruu dha;",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "yaa mootii, ani si duratti ayyaana argadhee, waanan kadhadhe anaaf kennuun, wantan barbaades anaaf raawwachuun jaalala kee yoo ta'e, atii fi Haamaan nyaachisa ani bor isiniif qopheessu irratti anaaf argamaa! Anis achi irratti gaaffii ati mootichi na gaafatteef deebii nan kenna? jetteen.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Gaafas Haamaan gammadee yaadni isaas itti tolee achii gad in ba'e; garuu Mordekaayin karra kellaa mootichaa duratti yommuu arge, waan inni isaaf hin ka'iniif yookiis sodaa isa hin argisiisiniif, Mordekaayitti aaree in boba'e.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Haa ta'u iyyuu malee, Haamaan of qabee gara mana isaatiitti galee, firoota isaa fi haadha manaa isaa Zereshin ofitti in waamsise.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Haamaan guddina qabeenya isaatii, baay'ina ilmaan isaatii, waan ittiin mootichi isa guddise hundumaa, attamittis gurguddoota biyyaa fi hojjetoota isaa gara irraa akka isa kaa'e isaanitti in baannate.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Haamaan itti fufee, ?Kana duwwaas utuu hin ta'in, Asteer mootittiin, nyaachisa qopheessite irratti mootichaa wajjin ana duwwaa malee nama tokko iyyuu ol hin galchine; boris akkasuma mootichaa wajjin ani waamameera;",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "garuu Mordekaayi Yihudicha isa karra kellaa mootichaa dura taa'u utuun arguu, kun hundinuu bu'aa anaaf hin qabu? jedhe.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yommus Zeresh haati manaa isaa fi firoonni isaa hundinuu, ?Muka itti nama rarraasan kan dhundhuma shantama ol dheeratu hojjechiisi, Mordekaayin isatti rarraasuudhaaf bor mootichaa wajjin dubbadhu! Kana booddee gammachuudhaan mootichaa wajjin gara nyaachisa sanaa dhaquu in dandeessa? jedhaniin; dubbiin isaa Haamaanin waan gammachiiseef, muka itti nama rarraasan sana in hojjechiise.",
+     "alt": "፲፬"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 5",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gaaffii Asteer Mooticha Gaafatte",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Haamaan Mordekaayitti Guddisee Aaruu Isaa",
+     "before": 9
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Halkanuma gaafasii mooticha irraa hirribni waan badeef, macaafni wanti yaadatamuun ta'uu fi seenaan guyyaa guyyaatti ta'u itti caafamu akka dhi'eeffamuuf in abboome; yommus isaan dhi'eeffamanii mooticha duratti in dubbifaman.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Achi keessatti isa xu'aashonni balbala mootichaa eegan lamaan Biigtaanaanii fi Teresh, Ahashweros mooticha ajjeesuudhaaf koratan, Mordekaayi bakkee baasee akka ture caafamee in argame.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Mootichi immoo, ?Sababii kanaaf ulfina attamii fi guddina hammamiitu Mordekaayiif godhame?? jedhee in gaafate; hojjetoonni mootichaa warri isaaf ergamaa jiran immoo, ?Wanti tokko illee hin godhamneef? jedhanii in deebisan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yeroo sanatti Haamaan muka itti nama rarraasan isa qopheesse sanatti Mordekaayin rarraasuudhaaf mootichatti dubbachuuf reefuu kellaa mana mootichaatti ol in lixa ture; achumaanis mootichi, ?Eenyutu kellaa kana keessa jira?? jedhee in gaafate.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Hojjetoonni mootichaa immoo, ?Kunoo, Haamaan kellaa kana keessa in ijaajja? jedhaniin; mootichi immoo, ?Ol haa galu!? jedhe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Yeroo Haamaan ol galetti, mootichi, ?Nama mootiin ulfina kennuufii jaallatuuf, maaltu godhama?? jedhee isa in gaafate; battala sanatti Haamaan garaa isaatti, ?Ana caalaatti namni mootiin ulfina kennuufii jaallatu jiraa ree?? jedhee in yaade.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Kanaaf Haamaan deebisee mootichaan, ?Nama mootiin ulfina kennuufii jaallatuuf,",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "uffanni mootummaa inni mootichi uffatu, fardi inni mootichi yaabbatu, gonfoon mootummaa inni mataa fardichaatti kaa'amu haa dhi'eeffaman!",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Uffanni kunii fi fardi kun, gurguddoota mootichaa warra beekamoo keessaa isa tokkotti haa kennaman; innis namicha isa mootiin ulfina kennuufii jaallatu sanatti haa uffisu; namichas fardicha irra teessisee karaa mandarattii isa beekamaa irra haa adeemsisu! Fuula isaa dura adeemees, ?Kunoo, nama mootiin ulfina kennuufii jaallatuuf kanatu godhama!? jedhee haa labsu!? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Yommus mootichi, ?Ariifadhu! Akkuma jette, uffaticha, fardichas fuudhiitii Yihudicha isa karra kellaa mana mootummaa kootii dura jiru sanaaf akkuma jette godhi! Wanta dubbatte hundumaa keessaas tokko illee duraa hin hir'isin!? jedhee Haamaanitti in dubbate.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Kana irratti Haamaan uffatichaa fi fardicha fidee, uffaticha Mordekaayitti uffisee, fardicha irras isa teessisee, karaa mandarattii isa beekamaa irra adeemsisee, fuula isaa dura bu'ees, ?Kunoo, nama mootiin ulfina kennuufii jaallatuuf kanatu godhama!? jedhee in labse.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Kana booddee Mordekaayi gara balbala mana mootummaatti in deebi'e; Haamaan garuu gaddee mataa isaas haguuggatee dafee gara mana isaa in dhaqe;",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "galees wanta isa irra ga'e hundumaa Zeresh haadha manaa isaatii fi firoota isaa hundumaatti in hime; yommus haati manaa isaa fi firoonni isaa warri beektonni, ?Mordekaayi inni ati amma fuula isaa duraa kufuu jalqabde kun, sanyii Yihudii yoo ta'e, ati raawwatteedhuma kufta malee, isaan mormuu hin dandeessu? ittiin jedhan.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Utuu isaan kana isaa wajjin dubbachaa jiranii, xu'aashonni mootichaa dhufanii Haamaanin gara nyaachisa Asteer qopheessiteetti geessuudhaaf isa in jarjarsan.",
+     "alt": "፲፬"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 6",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Haamaan Kufee Mordekaayi Ulfina Argachuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Mootichii fi Haamaan gara nyaachisa Asteer mootittiin qopheessitee in dhaqan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Gaafa guyyaa lammaffaa sana isaan daadhii waynii dhugaa utuu jiranii, mootichi Asteeriin, ?Yaa Asteer mootittii, wanti ati kadhattu maali? Innoo siif in kennama; maalis barbaadda? Walakkaa mootummaa kootii iyyuu yoo ta'e, siif in ta'a? jedhe.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Yommus Asteer mootittiin deebiftee, ?Yaa mootii, fuula kee duratti faara tolaadhaan ilaalamee yoon jiraadhe, si mootichatti yoo toles, anii fi qomoon koo du'a oollee akka jiraannuuf sin kadhadha!",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Utuu nuyi dhiiraa fi dubartiidhaan garbummaa duwwaatti gurguramneerra ta'e, kun hamma kanatti mooticha waan hin miineef, ani hin dubbadhun ture; amma garuu anii fi qomoon koo ajjeefamnee, balleeffamnee, akka barbadeeffamnuuf dabarfamnee gurguramneerra? jette.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Kana irratti Ahashweros mootichi, ?Namichi kana gochuudhaaf ija jabaatu kun eenyu inni? Amma eessa jira?? jedhee, Asteer mootittii in gaafate.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Asteer immoo deebiftee, ?Diinni keenya inni nu jibbu ?Haamaan? isa hamaa kana!? jette; yommus Haamaan mootichaa fi mootittii duratti na'ee in hollate.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Mootichi immoo aarii irraa kan ka'e daadhii waynii isa dhugaa jiran dhiisee ba'ee, gara iddoo dhaabaa mana mootummaa in dhaqe; Haamaan garuu mootichi waan hamaa isa irratti hojjechuuf yaada isaatti murtoo akka godhe yommuu bare, ?Du'a na oolchi!? jedhee, Asteer mootittii kadhachuudhaaf achitti in hafe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Mootichi iddoo dhaabaa mana mootummaatii deebi'ee gara iddoo daadhii waynii itti dhugaa turan sana yommuu dhufe, Haamaan immoo mootittii araara kadhachuudhaaf siree isheen irratti aara galfachaa jirtu irratti in gombifame; mootichis kana argee, ?Kanuma irratti immoo iyyuu namichi kun mana keessatti anuma biratti mootittii humnaan qabataa?? jedhee, guddisee in dubbate; akkuma dubbiin kun afaan mootichaa keessaa ba'een, hojjetoonni isaa ija Haamaanitti in haguugan.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Xu'aashota mootichaaf ergaman keessaa inni ?Harbonaa? jedhamu tokko, ?Kunoo, mukti itti nama rarraasan dhundhuma shantama kan ol dheeratu mana Haamaan keessa jira; Haamaan muka kana Mordekaayi isa waan gaarii dubbatee lubbuu mootichaa oolche sana itti rarraasuuf qopheessee ture? jedhe; yommus mootichi, ?Mukichatti Haamaanuma rarraasaa!? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Kanaaf jarri muka isa inni Mordekaayiif qopheessee ture sanatti Haamaanin in rarraasan; ergasii aariin mootichaa in qabbanaa'e.",
+     "alt": "፲"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 7",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Haamaan Ajjeefamuu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Gaafuma sana Ahashweros mootichi qabeenya Haamaan isa diina Yihudootaa ture sanaa Asteer mootittiidhaaf in kenne; isheen immoo Mordekaayii wajjin firooma akka qaban mootichatti in himte; yeroo sanaa jalqabee, Mordekaayi fuula mootichaa dura in dhaqa ture.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Mootichi amartii qubaa isaa isa mallattoo qabu Haamaanittii isa baase sana ofittii baasee Mordekaayiif in kenne; Asteer immoo qabeenya Haamaan irratti Mordekaayiif aboo in kennite.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Ammas Asteer miilla mootichaatti kuftee, Haamaan namni biyya Agaag Yihudoota irratti kan qopheesse akeeki isaa inni hamaan sun isaan irraa akka ka'uuf boossee in kadhatte.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Achumaan mootichi siiqqee isaa isa warqee irraa hojjetame isheetti waan qabeef, isheenis kaatee isa dura dhaabattee,",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "?Yaa mootii, jaalala kee yoo ta'e, ani si duratti ayyaana argadhee yoon jiraadhe, kana gochuun qajeelaa yoo sitti fakkaate, yoo na jaallattes, caaffanni Haamaan ilmi Hamedaataa namni biyya Agaag, Yihudoota kutaa biyya mootummaa keetii keessa jiran hundumaa balleessuudhaaf akeekee caafee ture sun akka ka'uuf, abboommiin kee caaffataan anaaf haa darbu!",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Wanta hamaa qomoo koo irra ga'u, dhumiisa aantii kootiis ani attamittan taa'ee ilaaluu danda'a?? jette.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Yommus Ahashweros mootichi, Asteer mootittii fi Mordekaayi Yihudichaan, ?Kunoo, sababii Haamaan Yihudoota ficisiisuudhaaf abboommii irratti dabarseef, ani mukatti isa rarraasiseera, qabeenya isaa immoo Asteeriif kenneera;",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "caaffanni maqaa mootiitiin caafamee amartii mallattoo isaatiin mallateeffame gara gala waan hin qabneef, isinis waa'ee Yihudootaatiif wanta gaarii isinitti fakkaate maqaa kootiin caafaatii amartii mallattoo kootiin mallateessaa!? jedhe.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Ji'a sadaffaa isa ?Siiwaa? jedhamutti, ji'ichattiis gaafa guyyaa digdamii sadaffaa caaftonni mootummaa in waamaman; isaan abboommii Mordekaayi akka caaffata kutaa biyya garaa garaatii fi afaan saba garaa garaatti waa'ee Yihudootaa fi biyya bulchitoota, abboota kutaa biyyaa fi gurguddoota saba garaa garaa warra biyya Hindiitii hamma biyya Itiyoophiyaatti kutaawwan biyya dhibbaa fi digdamii torbaa geggeessaniif akkasumas Yihudootaaf in caafan.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Mordekaayi caaffata kana maqaa Ahashweros mootichaatiin caafsisee amartii mallattoo mootichaatiinis in mallateesse; caaffaticha immoo harka namoota fardeen cocollee dhimma ariifachiisaadhaaf iddoo garaa garaatti argamaniin dha'ataniitti kennee, iddoo hundumaatti in erge.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Yihudoonni mandara garaa garaa keessa jiraatan walitti gamtatanii, jireenya isaanii akka eeggatan, humna saba garaa garaa kutaawwan biyyaa hundumaa keessaa isaanitti dhufu immoo akka balleessaniif, dubartoota isaanii fi ijoollee isaanii wajjin akka fixaniif, akka isaan barbadeessanii qabeenya isaanii immoo saamaniif, caaffata kana keessatti mootichi aboo isaaniif in kenne.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Kanas warri Yihudootaa guutummaa kutaa biyyaa mootummaa Ahashweros keessatti guyyaa tokkicha, innis ji'a kudha lammaffaa isa ji'a ?Adaar? jedhamu, gaafa guyyaa kudha sadaffaa akka godhaniif in murame.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Gaafas Yihudoonni diinota isaanii irratti ijaa baafachuudhaaf akka qophaa'aniif caaffanni labsii sanaa irraa gara galfamee, saba garaa garaa kutaa biyyaa hundumaa keessa jiranitti in beeksifame.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Labsichi mana mootummaa isa mandara Susaan keessa jiruttis immoo in in dhageessifame; namoonni fardeen coccollee dhimma mootichaa isa ariifachiisaadhaaf qophaa'aniin dha'atanis abboommii mootichaatiin jarjarfamanii caaffaticha fuudhanii kara-karaa in ba'an.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Mordekaayi uffata bildiimaa quncee talbaa ba'eessa irraa dha'ame uffatee, irratti immoo wayyaa mootummaa isa bifa adii fi bifa waaqaa qabu dabalatee, gonfoo warqee guddaa mataatti kaa'atee, mooticha biraa gad in ba'e; yommus warri mandara Susaan gammadanii in ililchan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Kun Yihudootaaf yeroo ifaa, yeroo gammachuu, yeroo ilillee fi yeroo ulfinaa ture.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Kutaa biyya sanaa fi mandaroota biyya sanaa, lafuma labsiin mootichaa fi abboommiin isaa itti dhaga'ame hundumaatti, Yihudoonni gammachuudhaan, ililleedhaan, nyaataa fi dhugaatiidhaanis in ayyaaneffatan; namoota biyya sanaa keessaa baay'een Yihudoota waan sodaataniif, qomoo isaanii Yihudiitti in geddaratan.",
+     "alt": "፲፯"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 8",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Mootichi Yihudootatti Faara Toluu Isaa",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ji'a kudha lammaffaa isa ?Adaar? jedhamutti, ji'ichattiis guyyaan kudha sadaffaan guyyaa abboommiin mootichaa hojii irra oole, warri diinaa Yihudoota irratti humna argachuudhaaf itti abdatan ture; amma garuu dubbiin isaa gara galee Yihudoonni guyyuma sanatti warra isaan jibban irratti humna in argatan.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Yihudoonni warra isaan miidhuu barbaadan fixuudhaaf, guutumaa kutaa biyya Ahashweros mootichaa keessatti mandaruma mandara isaaniitti walitti in gamtatan; namoonni biyya sanaa hundinuu waan isaan sodaataniif, isaan keessaa namni tokko illee isaaniin mormuu hin dandeenye.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Gurguddoonni kutaa biyyaa, bulchitoonni, abboonni biyyaa fi hojjetoonni mootummaa warri hojii garaa garaa irra jiran hundinuu, Mordekaayin waan sodaataniif, Yihudoota in gargaaru turan.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Mordekaayi mana mootichaa keessatti guddaa beekamaa in ta'e; aboon isaas guddachaa waan adeemeef, oduun isaa guutumaa kutaa biyyichaa keessatti in dhaga'ame.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yihudoonni diinota isaanii hundumaa billaadhaan rukutanii, fixanii in barbadeessan; warra isaan jibban irratti wanta barbaadan in hojjetan.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Mandara Susaan lafa manni mootummaa jiru keessatti iyyuu namoota dhibba shan raawwatanii in fixan.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Akkasumas immoo Phaarshandaataa, Daalfon, Asfaataa,",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Phoraataa, Adaaliyaa, Ariidaataa,",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Paarmashtaa, Ariisaayi, Ariidaayi, Wayzaataa,",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "ilmaan Haamaan ilma Hamedaataa isa diina Yihudootaa ture sanaa kurnan in fixan; qabeenya isaanii garuu hin boojine.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Lakkoobsi namoota gaafa sana mandara Susaan lafa manni mootummaa jiru keessatti ajjeefamanii mootichatti in himame.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Mootichi immoo Asteer mootittiidhaan, ?Yihudoonni mandara Susaan lafa manni mootummaa jiru keessatti, namoota dhibba shanii fi ilmaan Haamaan kurnan raawwatanii fixaniiru; kutaa biyya mootummaa kootii warra hafan keessatti immoo maal godhan? Ammas wanti ati gaafattu maali? Innoo siif in kennama; maalis barbaadda? Innoo siif in raawwatama? jedhe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Yommus Asteer deebiftee, ?Yaa mootii, jaalala kee yoo ta'e, Yihudoonni mandara Susaan keessa jiraatan boris akkuma ajaja har'aa kana akka godhaniif aboon haa kennamuuf! Ilmaan Haamaan kurnanis muka itti nama rarraasanitti haa rarraafaman!? jette.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yommus mootichi kun akka godhamuuf in abboome; labsii mandara Susaan keessatti labsame booddees, reeffi ilmaan Haamaan kurnanii in rarraafame.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Yihudoonni mandara Susaan keessa jiraatan ji'a Adaar gaafa guyyaa kudha afuraffaa ammas walitti qabamanii mandarattii keessaa namoota dhibba sadii in fixan; qabeenya isaanii garuu hin boojine.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yihudoonni warri kaan, warri kutaa biyya mootichaa warra hafan keessa jiraatan immoo jireenya isaanii eeggachuuf, diinota isaanii harkaas furamuudhaaf yommuu walitti gamtatan, warra isaan jibban keessaa namoota kuma torbaatamii shan in fixan; qabeenya isaanii garuu hin boojine.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Kun Adaar gaafa guyyaa kudha sadaffaa ta'e; gaafa guyyaa kudha afuraffaa immoo boqotanii, nyaatanii, dhuganiis in gammadan.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Gamtaan Yihudootaa warri mandara Susaan keessa jiraatan garuu, Adaar gaafa guyyaa kudha sadii fi kudha afurii walitti in qabaman; gaafa guyyaa kudha shanaffaa immoo boqotanii, nyaatanii, dhuganiis in gammadan.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Yihudoonni gandeenii fi mandaroota dallaa hin qabne keessa jiraatan garuu Adaar gaafa guyyaa kudha afurii guyyaa gammachuu, guyyaa nyaataa fi dhugaatii, guyyaa itti kennaa waliif kennan godhanii in ayyaaneffatan.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Mordekaayi wanta ta'e kana caafee, Yihudoota guutummaa kutaa biyya Ahashweros mootichaa isa dhi'oo fi isa fagoo keessa jiraatan hundumaaf in erge.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Caaffata kanaanis wagguma waggaatti Adaar gaafa guyyaa kudha afurii fi kudha shanii akka ayyaaneffataniif isaaniif in dhaabe.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Guyyoonni kun guyyoota Yihudoonni diinota isaanii harkaa itti furaman, ji'i kunis ji'a gaddi isaanii gammachuutti, boo'ichi isaaniis kolfatti geddarame ture; kanaaf guyyoota kana guyyoota nyaataa fi dhugaatii, guyyoota gammachuu, guyyoota kennaa itti waliif kennanii fi guyyoota hiyyeessota itti gargaaran akka godhataniif isaan in abboome.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Akkuma Mordekaayi isaaniif caafetti Yihudoonni ayyaana ayyaaneffachuu jalqaban sana ittuma in fufan.",
+     "alt": "፳፫"
+    },
+    {
+     "n": 24,
+     "t": "Kanas guyyaan sun guyyaa isa Haamaan ilmi Hamedaataa namni biyya Agaag, inni diina Yihudoota hundumaa sun, Yihudoota dhiphisee balleessuudhaaf yeroo koratetti buufanni mukaa guyyaa sanatti baaseefii waan tureef, ittiin yaadachuudhaaf in godhan.",
+     "alt": "፳፬"
+    },
+    {
+     "n": 25,
+     "t": "Yommuu dubbichi karaa Asteer mooticha bira ga'e garuu, akeeki Haamaan Yihudoota irratti qopheesse inni hamaan matuma isaatti deebi'e, innii fi ilmaan isaa muka itti nama rarraasanitti akka rarraafamaniif mootichi caaffataan abboommii in baase.",
+     "alt": "፳፭"
+    },
+    {
+     "n": 26,
+     "t": "Kanaafis guyyoota kana ?Furiim? jedhanii in moggaasan; innis guyyoota ?Buufata mukaa? jechuu dha; sababii dubbii caaffata kana keessatti caafame hundumaatiif, sababii waan arganiitiif, waan isaanitti dhufeefis,",
+     "alt": "፳፮"
+    },
+    {
+     "n": 27,
+     "t": "Yihudoonni ofii isaaniitiif, sanyii isaaniitiif, namuma qomoo isaa Yihudiitti geddaratuufis, akka caaffata kanaatti wagguma waggaadhaan guyyoota kana lamaan yeroo isaa eeganii akka ayyaaneffataniif seera godhanii in dhaabbatan.",
+     "alt": "፳፯"
+    },
+    {
+     "n": 28,
+     "t": "Guyyoonni Furiim kun Yihudoota gidduutti utuu hin ayyaaneffamin hin hafin, seenaan isaaniis sanyii isaanii keessaa hin balleeffamin! Guyyoonni kun dhaloota hundumaa, maatii hundumaa, kutaawwan biyyaa hundumaa fi mandaroota hundumaa keessatti haa yaadataman, haa ayyaaneffamanis!",
+     "alt": "፳፰"
+    },
+    {
+     "n": 29,
+     "t": "Yommus Asteer mootittiin intalli Abiihaayil, Mordekaayi Yihudichaa wajjin caaffata waa'ee guyyoota Furiimiif caafame isa lammaffaa aboo guutuudhaan in cimsan.",
+     "alt": "፳፱"
+    },
+    {
+     "n": 30,
+     "t": "Mordekaayi Yihudoota hundumaaf, kutaawwan biyya Ahashweros mootichaa dhibbaa fi digdamii torbanuufis caaffata in erge; caaffaticha keessattis nagaanii fi gabiin akka isaaniif ta'uuf hawwa isaa erga mul'isee booddee,",
+     "alt": "፴"
+    },
+    {
+     "n": 31,
+     "t": "caaffanni kun, ?Akkuma ani Mordekaayi Yihudichii fi Asteer mootittiin abboomnaan, Yihudoonnis immoo waa'ee soomuu fi waa'ee boo'anii kadhachuu seera godhanii ofii isaaniitiif, sanyii isaaniitiifis dhaabanitti akkasuma guyyoota Furiim kana yeroo isaanii eeganii ayyaanessuun akka barbaachisu cimsuudhaaf caafame? jedhe.",
+     "alt": "፴፩"
+    },
+    {
+     "n": 32,
+     "t": "Abboommiin Asteer seerrata guyyoota Furiimiif ba'e kana in cimse; kunis caafamee kaa'ameera.",
+     "alt": "፴፪"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 9",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Yihudoonni Diinota Isaanii Irratti Harka Fudhachuu Isaanii",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ahashweros mootichi lafa mootummaan isaa ga'u hundumaatti warri biyya keessaa fi biyya galaana gidduu keessa jiraatan gibira akka isaaf baasaniif in giddisiise.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Wanti inni aboo isaatii fi aangoo isaatiin hojjete hundinuu, akki mootichi ittiin Mordekaayin nama beekamaa godhes macaafa seenaa mootota Medoonii fi Faares keessatti caafameera mitii ree?",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Mordekaayi Yihudichi itti aanaa Ahashweros mootichaa ture; inni guddina qomoo isaa waan barbaaduuf, sanyii isaatiifis nagaa waan dubbatuuf, obboloota isaa Yihudoota baay'ee gidduutti nama beekamaadhaa fi jaallatamaa ture.",
+     "alt": "፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 10",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Mordekaayi Ittuma Caalchisee Beekamuu Isaa",
+     "before": 1
+    }
+   ]
+  }
+ ]
+}

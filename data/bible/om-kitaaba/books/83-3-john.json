@@ -1,0 +1,126 @@
+{
+ "edition": "om-kitaaba",
+ "book": "3JN",
+ "usfm_id": "3JN",
+ "order": 83,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ana isa maanguddicha biraa, haa ga'u gara Gaayos jaallatamaa isa ani dhugaadhaan jaalladhu!",
+     "alt": "፩",
+     "refs": [
+      {
+       "origin": "1:1",
+       "target": "Hoj 19:29; Rom 16:23; 1Qor 1:14."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "t": "Yaa michuu ko! Akkuma karaa lubbuu sitti tole, karaa hundumaan akka sitti tolu, akka ati fayyaa taatus nan kadhadha.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Obboloonni tokko dhufanii, dhugaatti qabamtee akka jiraattu, dhugaadhaaf amanamuu kee mul'isanii yommuu dubbatan, guddaan gammade.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Ijoolleen koo dhugaatti qabamanii jiraachuu isaanii dhaga'uun gammachuu koo ti; gammachuu kana irra caalus hin qabu.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yaa michuu ko! Waan obbolootaaf, caalaadhumatti immoo keessummootaaf gootu amanamummaadhaan in hojjetta.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Obboloonni keessummummaaf dhufan sun waa'ee jaalala kee waldaa kristiiyaanaa duratti mul'isanii dubbataniiru; Waaqayyo duratti qajeelaa akka ta'utti karaadhaaf waan isaan barbaachisu laateefii, yoo isaan geggeessite gaarii hojjechuu kee ti.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Isaan maqaa Kristosiin barsiisuudhaaf ba'aniiru; warra amantoota hin ta'in irraas homaa hin fudhatan.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Nuyi dubbii dhugaa kana keessatti hidhata isaanii ta'uudhaaf namoota akkasii kana simannee gargaaruun nuuf in ta'a.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Ani waldaa kristiiyaanaatiif waan tokko caafeera; Diyotreefes inni geggeessituu ta'uu barbaadu immoo nu hin dhaga'u.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Egaa yoon dhufe, waan inni hojjetuuf isa inni dubbii hundee hin qabneen maqaa keenya balleessu hundumaa nan kaasa; kunumtuu isa ga'uu dinnaan, ofii isaatii obboloota warra diidaa dhufan dhaga'uu dide; warra obboloota kana dhaga'uu barbaadan immoo dhowwee, waldaa kristiiyaanaa keessaa in baasa.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Yaa michuu ko! Waan hamaa hin akkeessin waan gaarii akkeessi malee; namni waan gaarii hojjetu, kan Waaqayyoo ti; namni waan hamaa hojjetu Waaqayyoon hin argine.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Namoonni hundinuu, waa'ee Demeexrosiif waan gaarii mul'isanii in dubbatu; ija dhugaa durattis waan gaariitu dubbatamaaf; nus immoo kana mul'ifnee in dubbanna, atis inni nuyi mul'ifnee dubbannu kun dhugaa akka ta'e in beekta.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Kanan siif caafu illee waan baay'ee qaba; garuu biriidhaa fi qalamiidhaan siif caafuu hin barbaadu.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Afaaniin walii wajjin akka haasofnuuf dafee si arguu nan abdadha.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Nagaan siif haa ta'u, firoonni kee nagaa siif ergu; tokkuma tokkoon maqaa dha'iitii firoota keenyatti nagaa nuuf himi!",
+     "alt": "፲፭"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ittiin Lixa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Wal Simachuun Obbolootaa Jajamuu Isaa",
+     "before": 5
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Gorsa Wal Diduu Irraa Of Eeggachiisu",
+     "before": 9
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ittiin Raawwata",
+     "before": 13
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,557 @@
+{
+ "edition": "om-kitaaba",
+ "book": "RUT",
+ "usfm_id": "RUT",
+ "order": 8,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Bara abboonni firdii biyya Israa'el seerrachaa turanitti, beelli biyya sanatti bu'e; baras namichi tokko kutaa biyya Yihudaa mandara Betlihem keessaa, haadha manaa isaa fi ilmaan isaa lamaan fudhatee, biyya ormaa isa ?Mo'aab? jedhamu in dhaqe.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Maqaan jarreen Efraataa, warra mandara Betlihemii ba'anii biyya Mo'aab takka taa'uudhaaf itti galan kanaa, Eliimelek, haati manaa isaa Naa'omii, ilmaan isaa lamaan immoo Maahiloonii fi Kiliyoon ture.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Eliimelek in du'e, haati manaa isaa Naa'omiin garuu ilmaan ishee lamaanii wajjin hafte.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Ilmaan ishee kunis durba warra Mo'aab keessaa, isheen tokko Orphaa isheen kaanis Ruut kan jedhamtu fuudhan; maatiin kun walumatti akka waggaa kudhanii achi taa'an.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Booddee immoo Maahiloonii fi Kiliyoon duunaan, dubartittiin abbaa manaa ishee fi ilmaan ishee lamaan in dhabde.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Naa'omiin, biyya Mo'aab keessa utuma jirtuu, Waaqayyo saba isaa ilaalee midhaan akka kenneef waan dhageesseef, niitota ilmaan ishee wajjin gara biyyaatti deebi'uudhaaf kaate.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Isheen lafa turte sanaa baatee, niitota ilmaan ishee lamaanii wajjin karaa biyya Yihudaatti geessu irra in buute.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Yommus Naa'omiin niitota ilmaan ishee lamaaniin, ?Deebi'aa, gara mana mana warra keessanii dhaqaa; akkuma isin warra isin irraa du'eef, anaafis gaarii gootan, Waaqayyo gaarii isiniif haa godhu!",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Waaqayyo, mana itti ?Uffee? jettan akka argattaniif bultii isiniif haa kennu!? jette; yeroo isheen dhudhungattee nagaa itti dhaamtetti immoo, isaan sagalee isaanii guddisanii in boo'an.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Amaatii isaaniitiin immoo, ?Nuyi sii wajjin gara saba kee in dhaqna malee, si biraa hin deebinu!? jedhan.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Naa'omiin garuu, ?Deebi'aa malee ijoollee ko, maaliif anaa wajjin dhaqxu? Ani ilmaan si'achi abbaa manaa isiniif ta'an garaa koo keessaa qabaa ree?",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Ani heerumaaf baay'ee dulloomeeraatii, yaa ijoollee ko deebi'aa, karaa keessan dhaqaa! Ani abdii qaba jedhee, edana heerumee utuun ilmaan da'ee iyyuu,",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "kanaaf hamma isaan guddatanii ga'anitti eeguuf jirtuu ree? Kanaaf jettaniis heerumuu irraa of dhowwituu ree? Lakkisaa yaa ijoollee ko, wanta harka Waaqayyoo keessaa anatti dhufeen isin akkas ta'uun keessan keessuma ba'ee anatti hadhaa'eera? jetteen.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Kana irratti ammas sagalee isaanii guddisanii walitti boo'an; Orphaan amaatii ishee dhudhungattee nagaa itti dhaamte, Ruut garuu ?Si biraa hin hafu? jettee isheetti marmite.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Naa'omiin yommus Ruutiin, ?Ilaa agabaatteen kee gara saba isheetti, gara waaqayyolii isheettis deebiteetti; atis agabaattee kee duukaa deebi'i!? jette.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Ruut garuu, ?Si duukaa dhaquu dhiisee akkan deebi'uuf, cimsitee itti ana hin oofin! Lafa ati dhaqxu anis nan dhaqa, lafa ati jiraattu anis nan jiraadha, sabni kee saba koo in ta'a, Waaqayyoon kees Waaqayyo koo anaaf in ta'a.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Lafa ati duututti anis achitti nan du'a, achittis nan awwaalama; du'a irraa kan hafe si irraa kan gargar na baasu yoo jiraate, Waaqayyo ana haa balleessu!? jetteen.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Naa'omiinis Ruut akka ishee wajjin adeemuudhaaf kutte yommuu argite, dabaltee itti hin dubbanne.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Kanaaf isaan lamaan hamma Betlihem ga'anitti itti fufanii in adeeman; yeroo isaan Betlihem ga'anittis, mandarri guutuun sababii isaaniif in socho'e; dubartoonnis, ?Kun Naa'omii dhaa?? jedhan; ?Naa'omii? jechuun ?Faara toleettii? jechuu dha.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Isheen immoo, ?Naa'omii jettanii ana hin waaminaa! Inni hundumaa danda'u jireenyi koo keessa ba'ee akka anatti hadhaa'u waan godheef, ?Maaraa? anaan jedhaa!",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Ani harka guutuudhaan nan ba'e, Waaqayyo immoo harka duwwaa deebisee na fide; erga Waaqayyo ana harkatti qabee, inni hundumaa danda'us waan hamaa anatti fide, maaliif ?Naa'omii? naan jettu ree?? jetteen.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Akkasitti Naa'omiin biyya Mo'aabii deebitee, Ruut haadha manaa ilma ishee ishee durba Mo'aab sanaa wajjin dhufte; isaanis yeroo garbuun haamamuu jalqabutti Betlihemitti galan.",
+     "alt": "፳፪"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Eliimelekii Fi Maatiin Isaa Biyya Mo'aabitti Godaanu",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Naa'omiin Ergasii Ruutii Wajjin Gara Betlihemitti Deebi'uu Ishee",
+     "before": 6
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Naa'omiin lammii abbaa manaa isheetii kan ta'e aantii tokko qabdi turte; inni qomoo Eliimelek keessaa nama guddaa fi jabaa tokko ture, maqaan isaas ?Boaz? jedhama.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Gaaf tokko Ruut isheen biyya Mo'aab Naa'omiidhaan, ?Ka'een lafa maasiin jiru dhaqee abbaa faara anaaf tole biraa qarmii bu'adha? jette; amaatiin ishees, ?Dhaqi intala ko? jetteen.",
+     "alt": "፪",
+     "refs": [
+      {
+       "origin": "2:2",
+       "target": "Lew 19:9,10; Kes 24:19."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "t": "Ruut kana irratti baatee gara maasii tokkoo dhaqxee, warra midhaan haaman biraa qarmii bu'atte; akkuma ayyaana isheetii immoo maasiin sun hirmaata Boaz isa qomoo Eliimelek sanaa ta'ee argame.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Kana gidduutti Boaz Betlihemii dhufee warra midhaan haamaniin, ?Waaqayyo isin bira haa jiraatu!? jedhee nagaa isaaniif dhi'eesse; isaanis, ?Waaqayyo si haa eebbisu!? jedhaniin.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Boaz immoo, ?Intalli kun kan eenyuu ti?? jedhee naa'oo isaa isa warra midhaan haaman kana irratti aboon kennameef in gaafate.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Naa'ichi inni warra midhaan haaman sana irratti aboon kennameef deebisee, ?Isheenoo intala ishee Naa'omii wajjin biyya Mo'aabii dhuftee dha;",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "isheen, ?Hadaraa, qarmii nan bu'adha, warra midhaan haaman booddeedhaanis bissii bissii gidduudhaa nan funaannadha? jettee kadhatte; isa dhuftes ganamaa jalqabdee hamma ammaatti utuu gad hin taa'in, reefuu xinnoo ishee aara galfatti? jedhe.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Boaz yommus Ruutiin, ?Mee dhaggeeffadhu intalo! Qarmii bu'achuudhaaf gara maasii biraa dhaquu si hin barbaachisu, asii hin adeemin! Dubartoota maasii koo keessa hojjetan biraas hin hafin!",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Maasii isaan keessaa midhaan haaman ijaan qabi, isaan duukaa dhaqi, hojjetoonnis akka si hin tuqneef kunoo ani abboomeera; yommuu dheebottus gara qodaa bishaanii dhaqii isa hojjetoonni waraaban dhugi!? jedhe.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Ruut kana irratti lafa geessee qoommaatee Boaziin, ?Attamitti akkas faara anaaf tolte, ana ishee ormas akka firaatti na ilaalte?? jette.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Boaz immoo deebisee Ruutiin, ?Erga abbaan manaa kee du'ee wanti ati amaatii keef goote hundinuu, tokko tokkoon anatti himameera; attamitti abbaa kee fi haadha kee, biyya itti dhalattes dhiiftee, gara saba dur hin beeknee akka ati dhufte dhaga'eera.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Gocha keetiif Waaqayyo waan gaarii siif haa deebisu, gatiin kees Waaqayyo gooftaa Israa'el, isa ati bobaa isaa jalatti kooluu galte biraa waan gaariidhaan siif haa guutu!? jedhe.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Isheen yommus, ?Ati faara anaaf tolteetta gooftaa ko; ani illee hojjetoota kee keessaa hamma ishee tokkoo iyyuu hin ga'u, ati garuu na jajjabeessitee, waan hojjettuu kee garaa ciibsu dubbatteetta? jette.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yeroo itti guceedhaaf taa'anittis Boaz Ruutiin, ?As dhi'aadhu, buddeenas cabsadhu, cuunfaa waynii isa dhangaggaa'e kanattis cuuphadhu!? jedhe; isheenis warra midhaan haaman bukkeedhaan in teesse; Boaz immoo akaayii itti qabe; isheenis isa fudhattee nyaattee, quuftee, irraa hafes.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Kana booddee isheen kaatee qarmii bu'achuutti deebite; Boaz immoo hojjetoota isaatiin, ?Bissii bissii gidduudhaa iyyuu haa bu'attu ishee hin rifaasisinaa!",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Kana malee iyyuu isheen haa bu'attuutii duroo duroo keessaa luqqisaatii hambisaaf! Isin immoo hin ifatinaa!? jedhe.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Akkasitti isheen hamma galgalaatti qarmii bu'atte; garbuu bu'atte sanas cagadattee, akka quunnaa sadii ba'eef.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Isheen midhaanicha ol fudhattee mandaratti galte; isa bu'atte sanas amaatii isheetti argisiifte; isa guyyaa nyaattee quuftee irraa hambiftes, gad fuutee amaatii isheetiif in laatte.",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Yommus amaatiin ishee Ruutiin, ?Har'a eessaa bu'atte? Eessaa waa barbaaddachaa oolte? Namicha karaa kana siif yaade Waaqayyo haa eebbisu!? jette; Ruut eenyu biraa akka bu'achaa ooltee, maqaan namicha isheen biraa hojjetachaa ooltes Boaz ta'uu isaa amaatii isheetti himte.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Kana irratti Naa'omiin haadha manaa ilma isheetiin, ?Waaqayyo inni gaarummaa isaa warra jiranii fi warra du'an irraa hin fudhanne, isa haa eebbisu!? jette; itti fuftees, ?Namichi kun fira nutti dhi'aatu, barcumas kan qajeelchuu dha? jette.",
+     "alt": "፳",
+     "refs": [
+      {
+       "origin": "2:20",
+       "target": "Lew 25:25."
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "t": "Ruut isheen biyya Mo'aab kun immoo, ?Hamma hojjetoonni koo midhaan koo hundumaa sassaabanii fixanitti, isaan biraa hin hafin anaan jedheera? jette.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Naa'omiinis Ruut haadha manaa ilma isheetiin, ?Maasii nama biraa keessa dhaqxee namni si tuquu irra, dubartoota warra isaaf hojjetanii wajjin ba'uun kee ba'eessa yaa intala ko? jette.",
+     "alt": "፳፪"
+    },
+    {
+     "n": 23,
+     "t": "Ruut hamma garbuunii fi qamadiin hundinuu sassaabamee galutti, qarmii bu'achuudhaaf dubartoota warra Boaziif hojjetan biraa hin hafne; amaatii ishee wajjin taa'uus hin dhiifne.",
+     "alt": "፳፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 2",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ruut Maasii Boaz Keessaa Qarmii Bu'achuu Ishee",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Kana booddee Naa'omiin amaatiin ishee Ruutiin, ?Yaa intala ko, mana akka godhattuuf ?Uffee? jettees sitti akka toluuf, karaa siif barbaaduun ana irra jira mitii ree?",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Boaz inni ati dubartoota isaaf hojjetan bira oolaa turte, lammii keenya mitii ree? Ilaa inni har'a galgala lafa oobdiitti garbuu in qulleeffata;",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "kanaaf ati dhiqadhuu, dibadhuu, uffadhuu, wayyaa kees fudhadhuu, lafa oobdii sanatti gad bu'i! Garuu erga namichi nyaatee dhugee booddee malee, itti hin mul'atin!",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Yeroo inni dhaqee rafu immoo iddoo inni ciisu sana hubadhu, kana booddees dhaqiitii miilla isaa irraa wayyaa saaqi, achumas ciisi! Inni yommus maal akka gootu sitti in hima? jette.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Ruut deebiftee, ?Waan hundumaa akkuma ati jette nan godha!? jetteen.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Kana irratti Ruut gara lafa oobdii itti midhaan qulleessan sanatti gad buutee, akkuma amaatiin ishee itti himte goote.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Boaz nyaatee dhugee erga garaa ciibsatee, dhaqee tuullaa midhaanii garasiin in ciise; ergasii Ruut suuta jettee dhuftee, miilla isaa irraa wayyaa saaqxee achuma in ciifte.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Gara halkan walakkaatti namichi ?Birr? jedhee, gara galee yommuu ilaalu, dubartiin tokko gara miilla isaa jalaan utuu ciiftuu argee,",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "?Eenyu ati?? jedhe; isheen immoo deebiftee, ?Ana Ruut hojjettuu kee ti; aantiin barcuma qajeelchu si waan ta'eef, amma golgaa kee hojjettuu kee irra diriirsi!? jette.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Innis, ?Waaqayyo si haa eebbisu, intalo! Hiyyeessotas haa ta'anii, sooressootas haa ta'anii, ati warra dargaggoota duukaa hin buune; kanaan isa dura argisiifte caalaa gaarii gochuu kee argisiifteetta.",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Ammas hin sodaatin yaa intalo! Ati dubartii ba'eettii ta'uu kee namni karra mandara kanaatiin ol galu hundinuu waan beekuuf, anis waanuma ati dubbatte siif nan godha.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "?Ani aantii barcuma qajeelchu ta'uun koo illee dhuguma, garuu barcuma qajeelchuudhaaf ana caalaa kan dhi'aatu tokko jira.",
+     "alt": "፲፪",
+     "refs": [
+      {
+       "origin": "3:12",
+       "target": "Rut 2:20."
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "t": "Edanaaf asuma turi! Ganamas namichi ?Barcuma nan qajeelcha? yoo jedhe, silaa in tole haa qajeelchu! Inni barcuma qajeelchuudhaaf fedha hin qabu yoo ta'e garuu, harka Waaqayyo isa jiraataa, ani barcuma nan qajeelcha; hamma bari'utti immoo achuma ciisi!? jedheen.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Isheen hamma lafti bari'utti achi gara miilla isaa jalaan in ciifte; garuu Boaz, ?Dubartiin lafa oobdii dhufuun ishee akka hin beekamne? jedhee waan tureef, Ruut utuu lafti ifee iji namaa wal hin hubatin kaate.",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Inni Ruutiin, ?Wayyaa kee isa irra keessatti uffattu diriirsii as qabi!? jedhe; isheen immoo wayyaa ishee itti qabde; achumaanis garbuu qodaa safaraa ja'a itti naqeefii, ol fuudhee in baachise; akkasitti isheen deebitee mandaratti in galte.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Yeroo isheen galtes amaatiin ishee, ?Intala ko attam taate?? jetteen; yommus isheen immoo wanta namichi isheedhaaf godhe hundumaa itti himtee,",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "?Inni, ?Harka kee duwwaa gara amaatii keetiitti hin deebi'in!? jedhee, kunoo garbuu qodaa safaraa ja'an kana anaaf kenne? jetteen.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Yommus Naa'omiin, ?Yaa intala ko, namichi kun har'a dubbii kana utuu hin raawwatin hin boqotu, kanaaf hamma gara dubbichi itti deebi'u bartutti, calluma jedhii taa'ii ilaali!? ittiin jette.",
+     "alt": "፲፰"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 3",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ruut Abbaa Manaa Argachuu Ishee",
+     "before": 1
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Kana gidduutti Boaz gara karra dallaa lafa namoonni itti wal ga'anitti ol ba'ee taa'e; kunoo, namichi inni barcuma qajeelchuudhaaf ana caalaa itti in dhi'aata jedhee, Boaz waa'ee isaa dubbate sun achiin in darba ture; yommus Boaz, ?Abalu, mee as gorii taa'i!? jedhee waame; innis itti goree in taa'e.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Itti dabalees Boaz maanguddoota mandara sanaa keessaa nama kudhan ergee fidatee, ?As taa'aa!? jedheen; isaanis in taa'an.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Kana booddee Boaz, namicha barcuma qajeelchuudhaaf caalaa itti dhi'aatu sanaan, ?Naa'omiin isheen biyya Mo'aabii deebite sun, lafa hirmaata Eliimelek lammii keenyaa gurgurachuu in barbaaddi;",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "ammas waa'ee isaatiif kanan yaade mul'inatti sitti nan hima; warra as taa'an kana duratti, angafoota saba kootii duratti lafa kana oolfadhu! Yoo oolfachuu feete, oolfadhu! Yoo fedha isaa hin qabdu ta'e garuu akkan baruuf anatti himi! Namni oolfachuun ta'uuf si malee kan biraa hin jiru; sitti immoo anatu aana? jedhe; namichis, ?Nan oolfadha? jedhe.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Boaz immoo, ?Egaa Naa'omii harkaa laficha gaafa oolfattu, maqaa namicha du'ee iddoo dhaala isaatiitti deebisuudhaaf, barcuma namicha du'ees qajeelchuudhaaf, Ruut haadha manaa isaa ishee biyya Mo'aabis immoo oolfachuu kee ti? jedhe.",
+     "alt": "፭"
+    },
+    {
+     "n": 6,
+     "t": "Namichi ?Laficha nan oolfadha? jedhe kunis, ?Lafa isa ani dhaaluudhaaf bitu kana dhabuuf jira, kanaaf ani danda'ee hin oolfadhu; egaa nama oolfatu ta'uu waanan dadhabeef, waan oolfachuun ana irra ture, ati ofii keetii oolfadhu!? jedhe.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Dur biyya Israa'el keessatti, namni tokko yeroo wanta tokko isa kaan irraa oolfatu yookiis geddaratu, dubbiin isaa dhaabataa akka ta'utti kophee isaa miilla tokkoo ofittii baasee isa kaaniif in kenna ture; kun Israa'el keessatti wanta isaan ittiin dubbii walii galtee isaanii cimsan ture.",
+     "alt": "፯",
+     "refs": [
+      {
+       "origin": "4:7",
+       "target": "Kes 25:9."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "t": "Kanaaf namichi ?Laficha oolfachuu hin danda'u? jedhe kun Boaziin, ?Ati ofii keetii oolfadhu!? jedhee, kophee isaa miilla tokko ofittii baasee itti kenne.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Yommus Boaz maanguddootaaf namoota achi turaniin, ?Waan Eliimelek, ilmaan isaas Kiliyoonii fi Maahiloon qabu turan hundumaa, har'a Naa'omii irraa oolfachuu kootiif isin imaanyii koo ti.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Ruut ishee durba Mo'aab ishee Maahiloon irraa du'es, haadha manaa koo akka taatuuf oolfadheera; kanas maqaa isa du'e sanaa iddoo dhaala isaatiitti deebisuudhaaf, maqaan isa du'e sanaa lammii isaa gidduudhaa, wal ga'ii karra mandara isaa keessaas akka hin balleeffamne gochuudhaaf akka ta'e, isin har'a dhugaa in baatu? jedhe.",
+     "alt": "፲",
+     "refs": [
+      {
+       "origin": "4:10",
+       "target": "Kes 25:5,6."
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "t": "Yommus warri karra dallaa keessatti wal ga'an, maanguddoonnis, ?Nuyi kanaaf imaanyii dha; dubartii haadha manaa kee ta'uuf jirtu kana Waaqayyo, akka Raahel akka Liyaas warra ijoollee Israa'el horan siif haa godhu! Ati immoo qomoo Efraataa keessatti nama jabaa ta'i! Betlihem keessattis gurra godhadhu!",
+     "alt": "፲፩",
+     "refs": [
+      {
+       "origin": "4:11",
+       "target": "Uma 29:31."
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "t": "Qe'een kees ijoollee warra Waaqayyo dubartii kana irraa siif kennu kanaan, akka qe'ee Faares isa Taamaar Yihudaadhaaf deessee haa ta'u!? jedhan.",
+     "alt": "፲፪",
+     "refs": [
+      {
+       "origin": "4:12",
+       "target": "Uma 38:27-30."
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "t": "Akka kanatti Boaz Ruutin ofitti fudhatee, haadha manaa godhate; yeroo inni ishee bira ga'etti Waaqayyo ishee eebbisee, in ulfoofte, ilmas in deesse.",
+     "alt": "፲፫"
+    },
+    {
+     "n": 14,
+     "t": "Yeroo sanatti dubartoonni mandaraa Naa'omiidhaan, ?Waaqayyo inni har'a nama si furu si hin dhabsiisin haa jajamu! Maqaan mucichaas Israa'el keessatti beekamaa haa ta'u!",
+     "alt": "፲፬"
+    },
+    {
+     "n": 15,
+     "t": "Mucicha haadha manaa ilma keetii ishee ilmaan torba irra siif caaltu, ishee si jaallatutu siif da'e waan ta'eef, inni muuxxootti si deebisa, bara dulluma keettis si soora? jedhan.",
+     "alt": "፲፭"
+    },
+    {
+     "n": 16,
+     "t": "Ergasii Naa'omiin mucicha fuutee, baattee in guddifte.",
+     "alt": "፲፮"
+    },
+    {
+     "n": 17,
+     "t": "Dubartoonni ollaa sanaa, ?Naa'omiif ilmi dhalateera? jedhanii mucichaaf maqaa kennuu dhaqanii, maqaa isaas ?Yoobeed? jedhanii in moggaasan; Yoobeed abbaa Isey, Isey immoo abbaa Daawit ture.",
+     "alt": "፲፯"
+    },
+    {
+     "n": 18,
+     "t": "Sanyiin Faares isaan kana; Faares, Hesromin dhalche,",
+     "alt": "፲፰"
+    },
+    {
+     "n": 19,
+     "t": "Hesrom, Raamin dhalche; Raam, Aminaadaabin dhalche.",
+     "alt": "፲፱"
+    },
+    {
+     "n": 20,
+     "t": "Aminaadaab, Nahaasonin dhalche, Nahaason Salmoonin dhalche.",
+     "alt": "፳"
+    },
+    {
+     "n": 21,
+     "t": "Salmoon, Boazin dhalche; Boaz, Yoobeedin dhalche.",
+     "alt": "፳፩"
+    },
+    {
+     "n": 22,
+     "t": "Yoobeed, Iseyin dhalche; Isey, Daawitin dhalche.",
+     "alt": "፳፪"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 4",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Boaz Kun Ruutin Fuudhuu Isaa",
+     "before": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "edition": "om-kitaaba",
+ "book": "2JN",
+ "usfm_id": "2JN",
+ "order": 82,
+ "chapters": [
+  {
+   "n": 1,
+   "verses": [
+    {
+     "n": 1,
+     "t": "Ana isa maanguddicha biraa, haa ga'u gara haadha warraa ishee fo'atamtee fi gara ijoollee ishee, warra ani dhugaadhaan jaalladhu; ana kophaa miti, warri dhugaa hubatan hundinuu isin in jaallatu malee.",
+     "alt": "፩"
+    },
+    {
+     "n": 2,
+     "t": "Jaalalli kunis, dhugichi inni nu keessatti hafee jiru bara baraan waan nu bira jiraatuuf.",
+     "alt": "፪"
+    },
+    {
+     "n": 3,
+     "t": "Ayyaanni, araarri, nagaanis Waaqayyo abbaa biraa, Yesus Kristos ilma abbaa biraas dhugaatti, jaalalattis nuu wajjin haa ta'u.",
+     "alt": "፫"
+    },
+    {
+     "n": 4,
+     "t": "Ijoollee kee keessaa kaan, akkuma nuyi abbaa biraa abboomamnetti dhugicha duukaa utuu bu'anii argachuun baay'ee na gammachiise.",
+     "alt": "፬"
+    },
+    {
+     "n": 5,
+     "t": "Yaa haadha warraa! Abboommii haaraa siif caafuuf miti, garuu nuyi walii keenya akka jaallannu, abboommii isa durii durii jalqabnee qabna turre sana sin yaadachiisa malee.",
+     "alt": "፭",
+     "refs": [
+      {
+       "origin": "1:5",
+       "target": "Yoh 13:34; 15:12,17."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "t": "Jaalala jechuun akka abboommii Waaqayyootti jiraachuu dha; akkasitti akka jiraattaniif, abboommiin jalqabaa jalqabdanii dhageessan isa kana.",
+     "alt": "፮"
+    },
+    {
+     "n": 7,
+     "t": "Warri nama wallaalchisan, Yesus Kristos fooniin dhufuu isaa amananii warri hin beeksifne, baay'een gara biyya lafaatti ba'aniiru; inni nama wallaalchisu, inni Kristosiin mormus isa akkasiitti.",
+     "alt": "፯"
+    },
+    {
+     "n": 8,
+     "t": "Of eeggadhaa! Miindaa guutuu akka argattaniif, kanaa achi inni itti dadhabdan hundinuu isin duraa in bada.",
+     "alt": "፰"
+    },
+    {
+     "n": 9,
+     "t": "Namni barsiisa Kristositti qabamuu dhiisee, kana irra darbee barsiisu, Waaqayyoon of biraa hin qabu; inni barsiisichatti qabamee jiraatu immoo, abbaa, ilmas of biraa qaba.",
+     "alt": "፱"
+    },
+    {
+     "n": 10,
+     "t": "Namni barsiisa kana hin fudhanne isin barsiisuuf yoo dhufe garuu, mana keessanitti isa hin simatinaa! Nagaa iyyuu isa hin gaafatinaa!",
+     "alt": "፲"
+    },
+    {
+     "n": 11,
+     "t": "Namni nagaa isa gaafatu, hojii isaa isa hamaattii hirmaachuu isaa ti.",
+     "alt": "፲፩"
+    },
+    {
+     "n": 12,
+     "t": "Kanan isiniif caafu illee waan baay'ee qaba; garuu gammachuun keenya guutuu akka ta'uuf, qalamiidhaan waraqata irratti isiniif caafuu hin barbaanne. Ani dhufee wal arginee afaaniin isinii wajjin haasa'uu nan abdadha.",
+     "alt": "፲፪"
+    },
+    {
+     "n": 13,
+     "t": "Ijoolleen obboleettii kee ishee fo'atamtee nagaa siif dhaamu.",
+     "alt": "፲፫"
+    }
+   ],
+   "headings": [
+    {
+     "style": "ms1",
+     "kind": "major",
+     "text": "Boqonnaa 1",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ittiin Lixa",
+     "before": 1
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Dhugaa Fi Jaalala",
+     "before": 4
+    },
+    {
+     "style": "s1",
+     "kind": "section",
+     "text": "Ittiin Raawwata",
+     "before": 12
+    }
+   ]
+  }
+ ]
+}
