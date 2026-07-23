@@ -1,0 +1,266 @@
+{
+ "GEN": {
+  "name": "Seera Uumamaa",
+  "abbr": "Uma"
+ },
+ "EXO": {
+  "name": "Seera Ba'uu",
+  "abbr": "Bau"
+ },
+ "LEV": {
+  "name": "Seera Lewwootaa",
+  "abbr": "Lew"
+ },
+ "NUM": {
+  "name": "Seera Lakkoobsaa",
+  "abbr": "Lak"
+ },
+ "DEU": {
+  "name": "Seera Keessa Deebii",
+  "abbr": "Kes"
+ },
+ "JOS": {
+  "name": "Macaafa Iyaasuu",
+  "abbr": "Iya"
+ },
+ "JDG": {
+  "name": "Macaafa Abboota Firdii",
+  "abbr": "Abo"
+ },
+ "RUT": {
+  "name": "Macaafa Ruut",
+  "abbr": "Rut"
+ },
+ "1SA": {
+  "name": "Macaafa Saamu'el Isa Duraa",
+  "abbr": "1Sam"
+ },
+ "2SA": {
+  "name": "Macaafa Saamu'el Isa Lammaffaa",
+  "abbr": "2Sam"
+ },
+ "1KI": {
+  "name": "Macaafa Moototaa Isa Duraa",
+  "abbr": "1Mot"
+ },
+ "2KI": {
+  "name": "Macaafa Moototaa Isa Lammaffaa",
+  "abbr": "2Mot"
+ },
+ "1CH": {
+  "name": "Macaafa Seenaa Baraa Isa Duraa",
+  "abbr": "1Sen"
+ },
+ "2CH": {
+  "name": "Macaafa Seenaa Baraa Isa Lammaffaa",
+  "abbr": "2Sen"
+ },
+ "EZR": {
+  "name": "Macaafa Izraa",
+  "abbr": "Izr"
+ },
+ "NEH": {
+  "name": "Macaafa Nahimiiyaa",
+  "abbr": "Nah"
+ },
+ "EST": {
+  "name": "Macaafa Asteer",
+  "abbr": "Ast"
+ },
+ "JOB": {
+  "name": "Macaafa Iyoob",
+  "abbr": "Iyo"
+ },
+ "PSA": {
+  "name": "Macaafa Faarfannaa",
+  "abbr": "Far"
+ },
+ "PRO": {
+  "name": "Macaafa Fakkeenyaa",
+  "abbr": "Fak"
+ },
+ "ECC": {
+  "name": "Macaafa Lallabaa",
+  "abbr": "Lal"
+ },
+ "SNG": {
+  "name": "Macaafa Weedduu Weedduu Caalu",
+  "abbr": "Wed"
+ },
+ "ISA": {
+  "name": "Macaafa Isaayaas Raajichaa",
+  "abbr": "Isa"
+ },
+ "JER": {
+  "name": "Macaafa Ermiyaas Raajichaa",
+  "abbr": "Erm"
+ },
+ "LAM": {
+  "name": "Faaruu Ermiyaas",
+  "abbr": "Far.Er"
+ },
+ "EZK": {
+  "name": "Macaafa Hisqi'el Raajichaa",
+  "abbr": "His"
+ },
+ "DAN": {
+  "name": "Macaafa Daani'el Raajichaa",
+  "abbr": "Dan"
+ },
+ "HOS": {
+  "name": "Macaafa Hose'a Raajichaa",
+  "abbr": "Hos"
+ },
+ "JOL": {
+  "name": "Macaafa Yo'el Raajichaa",
+  "abbr": "Yoe"
+ },
+ "AMO": {
+  "name": "Macaafa Amos Raajichaa",
+  "abbr": "Amo"
+ },
+ "OBA": {
+  "name": "Macaafa Obaadiiyaa Raajichaa",
+  "abbr": "Oba"
+ },
+ "JON": {
+  "name": "Yoonaas Raajichaa",
+  "abbr": "Yon"
+ },
+ "MIC": {
+  "name": "Macaafa Miikiyaas Raajichaa",
+  "abbr": "Mik"
+ },
+ "NAM": {
+  "name": "Macaafa Naahom Raajichaa",
+  "abbr": "Naho"
+ },
+ "HAB": {
+  "name": "Macaafa Anbaaqom Raajichaa",
+  "abbr": "Anb"
+ },
+ "ZEP": {
+  "name": "Macaafa Sefaaniyaa Raajichaa",
+  "abbr": "Sef"
+ },
+ "HAG": {
+  "name": "Macaafa Haagee Raajichaa",
+  "abbr": "Hag"
+ },
+ "ZEC": {
+  "name": "Macaafa Zakaariyaas Raajichaa",
+  "abbr": "Zak"
+ },
+ "MAL": {
+  "name": "Macaafa Miilkiyaas Raajichaa",
+  "abbr": "Mil"
+ },
+ "MAT": {
+  "name": "Wangeela Maatewos",
+  "abbr": "Mat"
+ },
+ "MRK": {
+  "name": "Wangeela Maarqos",
+  "abbr": "Mar"
+ },
+ "LUK": {
+  "name": "Wangeela Luqaas",
+  "abbr": "Luq"
+ },
+ "JHN": {
+  "name": "Wangeela Yohannis",
+  "abbr": "Yoh"
+ },
+ "ACT": {
+  "name": "Hojii Ergamootaa",
+  "abbr": "Hoj"
+ },
+ "ROM": {
+  "name": "Gara Warra Roomaa",
+  "abbr": "Rom"
+ },
+ "1CO": {
+  "name": "1 Gara Warra Qorontos",
+  "abbr": "1Qor"
+ },
+ "2CO": {
+  "name": "2 Gara Warra Qorontos",
+  "abbr": "2Qor"
+ },
+ "GAL": {
+  "name": "Gara Warra Galaatiyaa",
+  "abbr": "Gal"
+ },
+ "EPH": {
+  "name": "Gara Warra Efesoon",
+  "abbr": "Efe"
+ },
+ "PHP": {
+  "name": "Gara Warra Filiphisiiyus",
+  "abbr": "Flip"
+ },
+ "COL": {
+  "name": "Gara Warra Qolosaayis",
+  "abbr": "Qol"
+ },
+ "1TH": {
+  "name": "1 Gara Warra Tasaloniiqee",
+  "abbr": "1Tas"
+ },
+ "2TH": {
+  "name": "2 Gara Warra Tasaloniiqee",
+  "abbr": "2Tas"
+ },
+ "1TI": {
+  "name": "1 Gara Thimotewos",
+  "abbr": "1Xim"
+ },
+ "2TI": {
+  "name": "2 Gara Thimotewos",
+  "abbr": "2Xim"
+ },
+ "TIT": {
+  "name": "Gara Tiitoos",
+  "abbr": "Tit"
+ },
+ "PHM": {
+  "name": "Gara Filemon",
+  "abbr": "Film"
+ },
+ "HEB": {
+  "name": "Gara Ibrootaa",
+  "abbr": "Ibr"
+ },
+ "JAS": {
+  "name": "Ergaa Yaaqoob",
+  "abbr": "Yaq"
+ },
+ "1PE": {
+  "name": "1 Ergaa Phethros",
+  "abbr": "1Phe"
+ },
+ "2PE": {
+  "name": "2 Ergaa Phethros",
+  "abbr": "2Phe"
+ },
+ "1JN": {
+  "name": "1 Ergaa Yohannis",
+  "abbr": "1Yoh"
+ },
+ "2JN": {
+  "name": "2 Ergaa Yohannis",
+  "abbr": "2Yoh"
+ },
+ "3JN": {
+  "name": "3 Ergaa Yohannis",
+  "abbr": "3Yoh"
+ },
+ "JUD": {
+  "name": "Ergaa Yihudaa",
+  "abbr": "Yih"
+ },
+ "REV": {
+  "name": "Mul'ata Yohannis",
+  "abbr": "Mul"
+ }
+}
