@@ -1,5 +1,109 @@
-# 80 weahadu
-## ሰማንያ ወአሃዱ
+# 80 weahadu — ሰማንያ ወአሃዱ
+
+Open scripture data for the Ethiopian Orthodox Tewahedo canon.
+
+**Nine bible editions in five languages — 647 books, 11,225 chapters, 301,380 verses.**
+Amharic, Ge'ez, Tigrinya, Afaan Oromoo and English, with cross references,
+footnotes, section headings, poetry line structure and Ge'ez verse numerals.
+
+| Path | What |
+| --- | --- |
+| **`data/bible/`** | the multi-language data set — start here |
+| `index.html` | reader web app, reads `data/bible` directly |
+| `data/am/`, `minified/` | the original Amharic-only data (v1, see below) |
+
+---
+
+## `data/bible`
+
+```
+data/bible/
+  canon.json          ordered book registry — the language-neutral join key
+  editions.json       index of every edition
+  names/am.json       UI book names, one file per UI language
+  names/gez.json  names/ti.json  names/om.json  names/en.json
+  am-2000/
+    meta.json         edition metadata + the names this edition itself uses
+    books/01-genesis.json
+```
+
+Three things live in three places on purpose:
+
+* **`canon.json`** — identity and order, no language.
+* **`names/<lang>.json`** — what to label a book in the *UI* language, so a
+  reader can use the Ge'ez text with an English book list.
+* **`<edition>/meta.json`** — what *that edition* calls its own books, which
+  differs: `gez-1980` calls Matthew ወንጌል ዘማቴዎስ, `am-2000` calls it የማቴዎስ ወንጌል.
+
+Book content files carry **no names at all**. Adding a language means dropping
+in one `<edition>/` folder plus one `names/<lang>.json` — no existing file changes.
+
+Filenames are canon-stable: `01-genesis.json` is Genesis in *every* edition, so
+a 66-book edition simply has gaps in the numbering rather than renumbering.
+Each `meta.json` carries a `position` field with that edition's own display
+order (KJV puts Job at 18; the EOTC canon puts it at 27).
+
+### Editions
+
+| id | edition | lang | books | verses |
+| --- | --- | --- | ---: | ---: |
+| `am-2000` | መጽሐፍ ቅዱስ፣ ሰማንያ አሐዱ በአማርኛ — 2000 ዓ.ም | am | 89 | 44,200 |
+| `am-1980` | መጽሐፍ ቅዱስ ሰማንያ አሐዱ በአማርኛ — 1980 ዓ.ም | am | 93 | 44,290 |
+| `gez-1980` | መጽሐፍ ቅዱስ ሰማንያ አሐዱ በግእዝ — 1980 ዓ.ም | gez | 93 | 44,283 |
+| `gez-2014` | ግእዝ 2014 ዓ.ም *(New Testament only)* | gez | 27 | 7,958 |
+| `en-kjv` | King James Version with Apocrypha | en | 81 | 37,145 |
+| `am-nasv-2001` | አዲሱ መደበኛ ትርጕም — 2001 GC | am | 66 | 31,103 |
+| `am-1962` | ቀዳማዊ ኃይለ ሥላሴ ዘመነ መንግሥት — 1962 ዓ.ም | am | 66 | 30,558 |
+| `ti-1997` | ትግርኛ መደበኛ ትርጕም — 1997 ዓ.ም | ti | 66 | 30,740 |
+| `om-kitaaba` | Kitaaba Qulqulluu, Afaan Oromoo | om | 66 | 31,103 |
+
+### Book format
+
+```json
+{
+  "edition": "am-2000", "book": "GEN", "order": 1,
+  "chapters": [{
+    "n": 1,
+    "headings": [
+      { "style": "ms1", "kind": "major",   "text": "ምዕራፍ 1",     "before": 1 },
+      { "style": "s1",  "kind": "section", "text": "የፍጥረት ታሪክ", "before": 1 }
+    ],
+    "verses": [{
+      "n": 1, "alt": "፩",
+      "t": "በመጀመሪያ እግዚአብሔር ሰማይንና ምድርን ፈጠረ።",
+      "refs": [{ "origin": "1፥1", "target": "ኢዮብ 38፥4፤ …" }]
+    }]
+  }]
+}
+```
+
+* **Verses are flat, headings are positional.** `before` is the verse a heading
+  precedes (`null` if nothing follows). Section headings are edition-specific
+  and do not line up across editions, so nesting verses inside them would make
+  a parallel Amharic/Ge'ez view impossible without re-flattening.
+* **`n`** is an integer. Three verses in the whole corpus (`3b`, `98a`, `70t`)
+  stay strings rather than being silently coerced.
+* **`alt`** — the Ge'ez numeral form of the verse number, on 287k verses.
+* **`lines`** — present only when a verse spans more than one line (poetry,
+  where a verse starts on `\p` and continues on `\q1`/`\q2`). `t` is always the
+  joined text; `lines` lets a renderer indent. 35,690 verses have it.
+* **`refs`** cross references, **`notes`** footnotes.
+
+Full details, including the id-collision caveats, are in
+**[BIBLE.md](BIBLE.md)**. The USFM → JSON conversion is documented in
+**[USFM2JSON.md](USFM2JSON.md)**.
+
+### Regenerating
+
+```sh
+python usfm2json.py  <dump> --out outputs/json     # USFM -> JSON
+python build_bible.py <dump> --out data/bible      # -> the layout above
+```
+
+---
+
+## Canon coverage
+
 ### Old Testament
 1.  [x] Genesis (ኦሪት ዘፍጥረት)
 2.  [x] Exodus (ኦሪት ዘጸአት)
@@ -57,6 +161,7 @@
 54. [x] Malachi (ትንቢተ ሚልክያ)
 
 ---
+
 ### New Testament
 55. [x] Matthew (የማቴዎስ ወንጌል)
 56. [x] Mark (የማርቆስ ወንጌል)
@@ -86,105 +191,79 @@
 80. [x] Jude (የይሁዳ መልእክት)
 81. [x] Revelation (የዮሐንስ ራእይ)
 
-### Book of canons
-82. [ ] 1 Book of covenant አንደኛ ኪዳን
-83. [ ] 2 Book of covenant ሁለተኛ ኪዳን
-84. [x] Didascalia ዲድስቅልያ
-85. [ ] Order of Zion ሥርዓተ ጽዮን
-86. [ ] Statutes of Apostels አብጥሊስ
-87. [ ] Admonitions ግጽው ሲኖዶስ
-88. [ ] Commandments ትእዛዝ ሲኖዶስ
-89. [x] 1 celement አንደኛ ቀሌሜንጦስ
-90. [ ] 2 celement ሁለተኛ ቀሌሜንጦስ
+### Books of the canons
+
+82. [x] 1 Book of covenant (አንደኛ ኪዳን) — `86-1-covenant.json`, 76 verses
+83. [x] 2 Book of covenant (ሁለተኛ ኪዳን) — `94-2-covenant.json`, 79 verses
+84. [x] Didascalia (ዲድስቅልያ) — 43 chapters
+85. [x] Order of Zion (ሥርዓተ ጽዮን) — `87-sirate-tsion.json`, 81 verses
+86. [x] Statutes of Apostles (አብጥሊስ) — `92-abtilis.json`, 82 verses
+87. [x] Admonitions (ግጽው ሲኖዶስ) — `93-gitsew.json`, 72 verses
+88. [x] Commandments (ትእዛዝ ሲኖዶስ) — `91-tizaz.json`, 56 verses
+89. [x] 1 Clement (አንደኛ ቀሌሜንጦስ) — 12 chapters
+90. [ ] 2 Clement (ሁለተኛ ቀሌሜንጦስ) — **still missing**
+
+Also present, and not previously on this list:
+
+- [x] Josippon (መጽሐፈ ዮሴፍ ወልደ ኮርዮን) — `88-josippon.json`, 72 chapters, 1,466 verses
+
+Coverage above describes `am-2000`, the most complete edition. The 66-book
+editions (`am-nasv-2001`, `am-1962`, `ti-1997`, `om-kitaaba`) carry the
+protestant canon only.
+
 ---
 
-## Single Chapter Output
+## Source and rights
 
-The `minified/singleChapter/` folder contains one minified JSON file per book, plus an `index.json` file that can be used to build the menu or load the books in order.
+The text was recovered from Scripture App Builder app data. Copyright in these
+translations rests with their publishers, named per edition in
+`data/bible/<edition>/meta.json`:
 
-### Folder contents
+- **የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር** (Ethiopian Bible Society) — `am-2000`, `am-1980`,
+  `gez-1980`, `gez-2014`, `am-1962`, `ti-1997`
+- **International Bible Society** — `am-nasv-2001` (አዲሱ መደበኛ ትርጕም™)
+- **Waldaa Kitaaba Qulqulluu Ethiopia** — `om-kitaaba`
+- **Public domain** — `en-kjv` (1611)
 
-Each book file keeps the same numeric order as the source data, for example:
+The repository licence covers this project's own code and structure, not the
+underlying translations. Anyone redistributing this data — especially in a
+published app — should confirm their position with the rights holders first.
 
-1. `01-genesis.json`
-2. `02-exodus.json`
-3. `03-leviticus.json`
+---
 
-The files are minified, so they are compact and faster to load than the original source files.
+## v1 data (`data/am`, `minified/`)
 
-### Using the JSON files
+The original Amharic-only data set and its tooling (`minify_json.py`,
+`minify_single_chapters.py`) are kept for compatibility with existing consumers.
 
-If you want the full content for one book, load the matching file from `minified/singleChapter/`.
+**New work should use `data/bible/am-2000`, which supersedes it.** `data/am`
+was derived from the same 2000 ዓ.ም edition but truncates multi-line verses: in
+poetry a verse starts on one line and continues on the next, and only the first
+line was captured. 3,593 verses are affected — Sirach 1,279, Job 967,
+Proverbs 731, Song of Solomon 112, Lamentations 87.
 
-Each book JSON file has this basic structure:
+### `minified/singleChapter/`
 
-```json
-{
-	"book_number": 1,
-	"book_name_am": "ኦሪት ዘፍጥረት",
-	"book_short_name_am": "ዘፍ",
-	"book_name_en": "Genesis",
-	"book_short_name_en": "Gen",
-	"testament": "old",
-	"chapters": [
-		{
-			"chapter": 1,
-			"sections": [
-				"title": "",
-				"verses": []
-			]
-		}
-	]
-}
-```
-
-Fields used by the menu:
-
-- `book_number`: the canonical book order
-- `book_name_am`: the Amharic book title
-- `book_name_en`: the English book title
-- `book_short_name_am`: the short Amharic label
-- `book_short_name_en`: the short English label
-- `testament`: `old` or `new`
-- `file`: the filename inside `minified/singleChapter/`
-
-### Using the index file
-
-The `index.json` file is useful when you want to build a list of books without opening every chapter file. It contains:
-
-- `count`: total number of chapter files found
-- `files`: an array of menu entries in order
-
-Example index entry:
+One minified JSON file per book plus an `index.json` for building menus,
+keeping the same numeric order as `data/am`:
 
 ```json
 {
-	"book_number": 1,
-	"book_name_am": "ኦሪት ዘፍጥረት",
-	"book_name_en": "Genesis",
-	"book_short_name_am": "ዘፍ",
-	"book_short_name_en": "Gen",
-	"testament": "old",
-	"file": "01-genesis.json"
+  "book_number": 1,
+  "book_name_am": "ኦሪት ዘፍጥረት",
+  "book_short_name_am": "ዘፍ",
+  "book_name_en": "Genesis",
+  "book_short_name_en": "Gen",
+  "testament": "old",
+  "chapters": [{ "chapter": 1, "sections": [{ "title": "", "verses": [] }] }]
 }
 ```
 
-### Script usage
+`index.json` contains `count` (total chapter files) and `files` (menu entries
+in order, each with the fields above plus `file`).
 
-Run the generator from the project root:
-
-```bash
-/home/melaku/EOTCOpenSource/81-ahadu/.venv/bin/python minify_single_chapters.py
-```
-
-Optional arguments:
-
-- `--input-dir`: source directory, defaults to `data/am`
-- `--output-dir`: output directory, defaults to `minified/singleChapter`
-- `--index-file`: index filename, defaults to `index.json`
-
-Example with custom paths:
-
-```bash
-/home/melaku/EOTCOpenSource/81-ahadu/.venv/bin/python minify_single_chapters.py --input-dir data/am --output-dir minified/singleChapter --index-file index.json
+```sh
+python minify_single_chapters.py
+python minify_single_chapters.py --input-dir data/am \
+    --output-dir minified/singleChapter --index-file index.json
 ```
