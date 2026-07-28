@@ -10,7 +10,12 @@ footnotes, section headings, poetry line structure and Ge'ez verse numerals.
 | --- | --- |
 | **`data/bible/`** | the multi-language data set — start here |
 | `index.html` | reader web app, reads `data/bible` directly |
+| `build_sqlite.py` | builds SQLite + full-text search for the mobile apps |
 | `data/am/`, `minified/` | the original Amharic-only data (v1, see below) |
+
+Docs: **[BIBLE.md](BIBLE.md)** (the data set) ·
+**[MOBILE.md](MOBILE.md)** (SQLite for Flutter) ·
+**[USFM2JSON.md](USFM2JSON.md)** (how it was built)
 
 ---
 
@@ -96,9 +101,15 @@ Full details, including the id-collision caveats, are in
 ### Regenerating
 
 ```sh
-python usfm2json.py  <dump> --out outputs/json     # USFM -> JSON
-python build_bible.py <dump> --out data/bible      # -> the layout above
+python usfm2json.py  <dump> --out outputs/json          # USFM -> JSON
+python build_bible.py <dump> --out data/bible           # -> the layout above
+python build_sqlite.py data/bible --out dist/sqlite --gzip   # -> mobile DBs
 ```
+
+The SQLite build produces one small catalog plus one database per edition
+(4–30 MB each, 2–14 MB gzipped) with trigram full-text search — chapter render
+~2 ms, paginated search 8–60 ms. `dist/` is gitignored; publish those as
+release assets. See **[MOBILE.md](MOBILE.md)**.
 
 ---
 
