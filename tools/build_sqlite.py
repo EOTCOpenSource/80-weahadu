@@ -148,6 +148,15 @@ def build_edition(src, out, e, tokenizer, report):
                                                   meta.get('source', {}).get('collection', '')))
     con.execute('INSERT INTO meta VALUES (?,?)', ('tokenizer', tokenizer))
     con.execute('INSERT INTO meta VALUES (?,?)', ('schema_version', '1'))
+    # Stamp the data revision so a client can tell which patches it still
+    # needs without re-deriving it from the content.
+    revs = os.path.join(src, 'revisions.json')
+    if os.path.exists(revs):
+        with open(revs, encoding='utf-8') as fh:
+            entry = json.load(fh).get('editions', {}).get(e['id'], {})
+        for k in ('revision', 'baseline'):
+            if entry.get(k) is not None:
+                con.execute('INSERT INTO meta VALUES (?,?)', (k, str(entry[k])))
 
     vid = 0
     for b in meta['books']:

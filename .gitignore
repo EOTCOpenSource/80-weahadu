@@ -6,3 +6,6 @@ __pycache__/
 # Build output. 191 MB of SQLite generated from data/bible by build_sqlite.py;
 # publish it as release assets rather than committing it.
 /dist
+
+# crash dumps left behind by tooling
+*.stackdump

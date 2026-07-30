@@ -1,9 +1,19 @@
+"""Write one minified JSON file per book into minified/singleChapter/, plus an
+index for building menus.
+
+This is the v1 (Amharic-only) pipeline. New work should use data/bible; see
+docs/RELEASING.md.
+"""
 import argparse
 import glob
 import json
 import os
 import re
+import sys
 from typing import List, Tuple
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import repo  # noqa: E402
 
 
 def extract_order(file_path: str) -> int:
@@ -80,11 +90,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Create minified single-chapter JSON files and an index file."
     )
-    parser.add_argument("--input-dir", default="data/am",
+    # Defaults are anchored at the repo root so the script works from anywhere.
+    parser.add_argument("--input-dir", default=repo("data", "am"),
                         help="Directory with source JSON files")
     parser.add_argument(
         "--output-dir",
-        default=os.path.join("minified", "singleChapter"),
+        default=repo("minified", "singleChapter"),
         help="Directory where minified chapter files are written",
     )
     parser.add_argument(

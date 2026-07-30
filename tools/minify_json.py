@@ -1,7 +1,15 @@
+"""Merge data/am/*.json into the single minified/80-weahadu.json bundle.
 
+This is the v1 (Amharic-only) pipeline. New work should use data/bible; see
+docs/RELEASING.md.
+"""
 import json
 import os
 import glob
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import repo, rel  # noqa: E402
 
 
 def merge_json_files():
@@ -11,8 +19,8 @@ def merge_json_files():
     """
     output_data = []
 
-    # Get a sorted list of all JSON files in the data/am directory
-    json_files = sorted(glob.glob("data/am/*.json"))
+    # Anchored at the repo root so the script works from any directory.
+    json_files = sorted(glob.glob(repo("data", "am", "*.json")))
 
     if len(json_files) != 81:
         print(f"Warning: Found {len(json_files)} files, but expected 81.")
@@ -28,16 +36,16 @@ def merge_json_files():
             print(f"Error reading file {file_path}: {e}")
 
     # Create the output directory if it doesn't exist
-    os.makedirs("minified", exist_ok=True)
+    os.makedirs(repo("minified"), exist_ok=True)
 
     # Write the combined data to the output file
-    output_file = "minified/80-weahadu.json"
+    output_file = repo("minified", "80-weahadu.json")
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, ensure_ascii=False,
                       indent=None, separators=(',', ':'))
         print(
-            f"Successfully merged {len(output_data)} files into {output_file}")
+            f"Successfully merged {len(output_data)} files into {rel(output_file)}")
     except Exception as e:
         print(f"Error writing to file {output_file}: {e}")
 
