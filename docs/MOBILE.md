@@ -224,7 +224,7 @@ what has moved — a typical correction release is a **68 KB patch** against a
 ```dart
 Future<void> syncEdition(Database db, String id) async {
   final manifest = jsonDecode((await http.get(Uri.parse(
-      'https://<your-site>/data/revisions.json'))).body);
+      'https://80-weahadu.vercel.app/data/revisions.json'))).body);
   final remote = manifest['editions'][id];
   final local = int.parse(db.select(
       "SELECT value FROM meta WHERE key='revision'").first['value'] as String);
@@ -238,7 +238,7 @@ Future<void> syncEdition(Database db, String id) async {
 
   for (var r = local + 1; r <= remote['revision']; r++) {
     final patch = jsonDecode((await http.get(Uri.parse(
-        'https://<your-site>/data/patches/$id/$r.json'))).body);
+        'https://80-weahadu.vercel.app/data/patches/$id/$r.json'))).body);
     db.execute('BEGIN');
     for (final op in patch['ops']) {
       db.execute(
