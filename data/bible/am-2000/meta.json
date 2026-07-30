@@ -12,7 +12,8 @@
  "language_name": "አማርኛ",
  "direction": "ltr",
  "source": {
-  "app": "org.goranda.mezgebehiwot",
+  "project": "Nehemiah Open Source",
+  "dataset": "80-weahadu",
   "collection": "C18",
   "collection_name": "መጽሐፍ ቅዱስ፣ ሰማንያ አሐዱ በአማርኛ"
  },

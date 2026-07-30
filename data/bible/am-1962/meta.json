@@ -12,7 +12,8 @@
  "language_name": "አማርኛ",
  "direction": "ltr",
  "source": {
-  "app": "org.goranda.mezgebehiwot",
+  "project": "Nehemiah Open Source",
+  "dataset": "80-weahadu",
   "collection": "C46",
   "collection_name": "መጽሐፍ ቅዱስ ስድሳ ስድስቱ፣ ቀዳማዊ ኃይለ ሥላሴ ዘመነ መንግሥት፥ የ 1962 ዓ.ም ዕትም፤"
  },

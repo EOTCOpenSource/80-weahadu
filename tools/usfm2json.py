@@ -23,9 +23,9 @@ Two output schemas:
                   book_name_am / chapters[] / sections[] / verses[{verse,text}]
 
 Usage:
-    python usfm2json.py outputs/mezgebehiwot --out outputs/json
-    python usfm2json.py outputs/mezgebehiwot --out outputs/json --collection C03
-    python usfm2json.py outputs/mezgebehiwot --out outputs/json --schema repo
+    python usfm2json.py outputs/source --out outputs/json
+    python usfm2json.py outputs/source --out outputs/json --collection C03
+    python usfm2json.py outputs/source --out outputs/json --schema repo
 """
 import argparse
 import json

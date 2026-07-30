@@ -19,7 +19,8 @@
  "language_name": "English",
  "direction": "ltr",
  "source": {
-  "app": "org.goranda.mezgebehiwot",
+  "project": "Nehemiah Open Source",
+  "dataset": "80-weahadu",
   "collection": "C04",
   "collection_name": "Bible King James Version (KJV)"
  },

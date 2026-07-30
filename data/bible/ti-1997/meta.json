@@ -12,7 +12,8 @@
  "language_name": "ትግርኛ",
  "direction": "ltr",
  "source": {
-  "app": "org.goranda.mezgebehiwot",
+  "project": "Nehemiah Open Source",
+  "dataset": "80-weahadu",
   "collection": "C47",
   "collection_name": "መጽሐፍ ቅዱስ ስድሳ ስድስቱ፣ ትግርኛ መደበኛ ትርጕም™ የ 1997 ዓ.ም ዕትም፣"
  },

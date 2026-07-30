@@ -1,6 +1,7 @@
 # 80 weahadu — ሰማንያ ወአሃዱ
 
-Open scripture data for the Ethiopian Orthodox Tewahedo canon.
+Open scripture data for the Ethiopian Orthodox Tewahedo canon, from
+**Nehemiah Open Source**.
 
 **Nine bible editions in five languages — 647 books, 11,225 chapters, 301,380 verses.**
 Amharic, Ge'ez, Tigrinya, Afaan Oromoo and English, with cross references,

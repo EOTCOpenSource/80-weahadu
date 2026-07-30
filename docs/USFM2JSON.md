@@ -4,10 +4,10 @@
 
 ```sh
 # everything, full structure
-python tools/usfm2json.py outputs/mezgebehiwot --out outputs/json
+python tools/usfm2json.py outputs/source --out outputs/json
 
 # one collection, shaped like data/am/*.json
-python tools/usfm2json.py outputs/mezgebehiwot --out outputs/json-repo \
+python tools/usfm2json.py outputs/source --out outputs/json-repo \
        --schema repo --collection C18
 ```
 

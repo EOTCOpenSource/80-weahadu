@@ -17,7 +17,7 @@ uses). Filenames are canon-stable: 01-genesis.json is Genesis in every
 edition, so a 66-book edition simply has gaps in the numbering.
 
 Usage:
-    python build_bible.py outputs/mezgebehiwot --out data/bible
+    python build_bible.py outputs/source --out data/bible
 """
 import argparse
 import json
@@ -88,6 +88,9 @@ EDITIONS = [
 # The edition whose book order and id set define the canon registry: the
 # 2000 EC Amharic 81-book bible, which is a superset of every other edition
 # here (the union of book ids across all nine is exactly its 94).
+PROJECT = 'Nehemiah Open Source'
+DATASET = '80-weahadu'
+
 CANON_SOURCE = 'C18'
 # English names come from the KJV collection; it covers 81 of the 94 ids.
 ENGLISH_SOURCE = 'C04'
@@ -445,7 +448,8 @@ def main():
         meta.update({
             'language_name': LANG_NAMES.get(ed['language'], ed['language']),
             'direction': 'ltr',
-            'source': {'app': index.get('package'), 'collection': ed['collection'],
+            'source': {'project': PROJECT, 'dataset': DATASET,
+                       'collection': ed['collection'],
                        'collection_name': col['name']},
             'stats': {'books': len(book_entries), 'chapters': n_ch, 'verses': n_v},
             'books': book_entries,

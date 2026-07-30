@@ -12,7 +12,8 @@
  "language_name": "አማርኛ",
  "direction": "ltr",
  "source": {
-  "app": "org.goranda.mezgebehiwot",
+  "project": "Nehemiah Open Source",
+  "dataset": "80-weahadu",
   "collection": "C45",
   "collection_name": "መጽሐፍ ቅዱስ ስድሳ ስድስቱ፣ አዲሱ መደበኛ ትርጕም™ የ 2001 GC ዕትም"
  },
