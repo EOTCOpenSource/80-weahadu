@@ -3,7 +3,7 @@
 
 Layout produced (see BIBLE.md):
 
-    data/bible/
+    data/
       canon.json          ordered book registry -- language-neutral join key
       editions.json       index of every edition
       names/<lang>.json   UI book names, one file per UI language
@@ -17,7 +17,7 @@ uses). Filenames are canon-stable: 01-genesis.json is Genesis in every
 edition, so a 66-book edition simply has gaps in the numbering.
 
 Usage:
-    python build_bible.py outputs/source --out data/bible
+    python build_bible.py outputs/source --out data
 """
 import argparse
 import json
@@ -109,7 +109,7 @@ TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV""".split())
 # collection: C18's LJE is ተረፈ ኤርምያስ (Rest of Jeremiah) while the KJV
 # collection's LJE is the Epistle of Jeremy, and C18's 1ES is ዕዝራ ሱቱኤል where
 # KJV's is 1 Esdras. So the EOTC canon's own naming is spelled out here rather
-# than inherited from KJV. Slugs follow the spellings already used in data/am.
+# than inherited from KJV. Slugs follow the spellings already used in legacy/am.
 EOTC_BOOKS = {
     'TOB': ('tobit', 'Tobit'),
     'JDT': ('yodit', 'Judith'),

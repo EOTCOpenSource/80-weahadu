@@ -28,7 +28,7 @@
       ]
     },
     {
-      "source": "/minified/(.*)",
+      "source": "/legacy/minified/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "source": "/data/bible/(.*)/books/(.*)",
+      "source": "/data/(.*)/books/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "source": "/data/bible/patches/(.*)",
+      "source": "/data/patches/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "source": "/data/bible/revisions.json",
+      "source": "/data/revisions.json",
       "headers": [
         {
           "key": "Cache-Control",

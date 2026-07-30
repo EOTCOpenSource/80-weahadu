@@ -6,7 +6,7 @@
 # everything, full structure
 python tools/usfm2json.py outputs/source --out outputs/json
 
-# one collection, shaped like data/am/*.json
+# one collection, shaped like legacy/am/*.json
 python tools/usfm2json.py outputs/source --out outputs/json-repo \
        --schema repo --collection C18
 ```
@@ -130,7 +130,7 @@ markers.
 
 ## Output — `--schema repo`
 
-Matches the existing `data/am/*.json` layout, so converted books drop straight
+Matches the existing `legacy/am/*.json` layout, so converted books drop straight
 into the current pipeline:
 
 ```json
@@ -159,9 +159,9 @@ Three markers remain unresolved, each appearing exactly once — `\sll`, `\Mae`,
 `\ud`. They are typos in the source; they are listed in
 `<out>/_unknown_markers.json` and their text is preserved.
 
-### Which collection matches `data/am`
+### Which collection matches `legacy/am`
 
-Every book in `data/am` was scored against C18, C03, C45, C02 and C44.
+Every book in `legacy/am` was scored against C18, C03, C45, C02 and C44.
 **C18** (መጽሐፍ ቅዱስ፣ ሰማንያ አሐዱ በአማርኛ) wins 73 of the 75 books that could be
 matched by name — usually at 97–100 %. C03 is a genuinely different Amharic
 translation, not a variant encoding, and scores 0–13 %.
@@ -171,10 +171,10 @@ Comparing all 39,019 shared verses against C18:
 | | verses | share |
 | --- | ---: | ---: |
 | identical | 30,926 | 79.3 % |
-| `data/am` is a **prefix** of the converted text | 3,593 | 9.2 % |
+| `legacy/am` is a **prefix** of the converted text | 3,593 | 9.2 % |
 | genuinely different | 4,500 | 11.5 % |
 
-The middle row is the interesting one: **`data/am` truncates multi-line verses.**
+The middle row is the interesting one: **`legacy/am` truncates multi-line verses.**
 In poetic books a verse starts on a `\p` line and continues on `\q1`/`\q2`
 lines; the existing data kept only the first line. For example Proverbs 1:2 —
 
@@ -183,16 +183,16 @@ lines; the existing data kept only the first line. For example Proverbs 1:2 —
 \q2 የጥበብንም ቃል ለማወቅ፥
 ```
 
-`data/am` has `ጥበብንና ተግሣጽን ለማወቅ፥`; this converter produces the whole verse.
+`legacy/am` has `ጥበብንና ተግሣጽን ለማወቅ፥`; this converter produces the whole verse.
 The loss is concentrated exactly where you would expect: Sirach 1,279 verses,
 Job 967, Proverbs 731, Song of Solomon 112, Lamentations 87.
 
 The 11.5 % "genuinely different" is concentrated in three books — Psalms
-(different versification: 2,426 verses in `data/am` vs 2,470 here),
+(different versification: 2,426 verses in `legacy/am` vs 2,470 here),
 Didascalia and Baruch — which came from a different source text.
 
 Some individual verses differ because the app's own data has a typo
-(`የግዚአብሔርም` for `የእግዚአብሔርም`) that `data/am` had corrected. The converter
+(`የግዚአብሔርም` for `የእግዚአብሔርም`) that `legacy/am` had corrected. The converter
 reproduces the source faithfully rather than silently fixing it.
 
 Note that a few collections carry two books under the same name — C18 has both

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Apply corrections/<edition>.json to data/bible, in place and idempotently.
+"""Apply corrections/<edition>.json to data, in place and idempotently.
 
 Corrections are kept as their own input rather than edited straight into
-data/bible, for two reasons: a rebuild from the original USFM would silently
+data, for two reasons: a rebuild from the original USFM would silently
 clobber hand edits, and the same file is what generates the patch clients
 download. One edit, one source, both outputs.
 
@@ -58,7 +58,7 @@ def apply_edition(edition, check=False, verbose=True):
     if not items:
         return dict(applied=0, already=0, stale=0, missing=0, details=[])
 
-    meta = read_json(repo('data', 'bible', edition, 'meta.json'))
+    meta = read_json(repo('data', edition, 'meta.json'))
     if meta is None:
         raise SystemExit('no such edition: %s' % edition)
     files = {b['id']: b['file'] for b in meta['books']}
@@ -78,7 +78,7 @@ def apply_edition(edition, check=False, verbose=True):
             missing += len(group)
             details.append(('missing-book', book, None, None))
             continue
-        path = repo('data', 'bible', edition, rel_file)
+        path = repo('data', edition, rel_file)
         doc = read_json(path)
         index = {}
         for ch in doc['chapters']:

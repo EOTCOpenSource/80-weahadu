@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build SQLite databases from data/bible for the mobile apps.
+"""Build SQLite databases from data for the mobile apps.
 
 Produces one small catalog plus one database per edition:
 
@@ -12,9 +12,9 @@ The catalog is tiny and meant to ship inside the app bundle; edition databases
 are downloaded on demand so a reader only pays for the translations they use.
 
 Usage:
-    python build_sqlite.py data/bible --out dist/sqlite
-    python build_sqlite.py data/bible --out dist/sqlite --tokenizer unicode61
-    python build_sqlite.py data/bible --out dist/sqlite --only am-2000 --gzip
+    python build_sqlite.py data --out dist/sqlite
+    python build_sqlite.py data --out dist/sqlite --tokenizer unicode61
+    python build_sqlite.py data --out dist/sqlite --only am-2000 --gzip
 """
 import argparse
 import gzip
@@ -197,7 +197,7 @@ def build_edition(src, out, e, tokenizer, report):
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('src', help='data/bible')
+    ap.add_argument('src', help='data')
     ap.add_argument('--out', required=True)
     ap.add_argument('--tokenizer', default=DEFAULT_TOKENIZER,
                     choices=['trigram', 'unicode61'])

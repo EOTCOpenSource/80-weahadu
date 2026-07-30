@@ -1,10 +1,10 @@
 # SQLite for the mobile apps
 
-`build_sqlite.py` turns `data/bible` into SQLite databases with full-text
+`build_sqlite.py` turns `data` into SQLite databases with full-text
 search. Reading a chapter takes ~2 ms and a paginated search 8–60 ms.
 
 ```sh
-python tools/build_sqlite.py data/bible --out dist/sqlite --gzip
+python tools/build_sqlite.py data --out dist/sqlite --gzip
 ```
 
 `dist/` is gitignored — 191 MB of generated output doesn't belong in the repo.
@@ -217,14 +217,14 @@ SELECT value FROM meta WHERE key = 'revision';   -- e.g. 2
 SELECT value FROM meta WHERE key = 'baseline';   -- e.g. 1
 ```
 
-The site publishes `data/bible/revisions.json`. Poll it on launch and patch
+The site publishes `data/revisions.json`. Poll it on launch and patch
 what has moved — a typical correction release is a **68 KB patch** against a
 **14 MB** database, so patching is roughly 200× cheaper than re-downloading.
 
 ```dart
 Future<void> syncEdition(Database db, String id) async {
   final manifest = jsonDecode((await http.get(Uri.parse(
-      'https://<your-site>/data/bible/revisions.json'))).body);
+      'https://<your-site>/data/revisions.json'))).body);
   final remote = manifest['editions'][id];
   final local = int.parse(db.select(
       "SELECT value FROM meta WHERE key='revision'").first['value'] as String);
@@ -238,7 +238,7 @@ Future<void> syncEdition(Database db, String id) async {
 
   for (var r = local + 1; r <= remote['revision']; r++) {
     final patch = jsonDecode((await http.get(Uri.parse(
-        'https://<your-site>/data/bible/patches/$id/$r.json'))).body);
+        'https://<your-site>/data/patches/$id/$r.json'))).body);
     db.execute('BEGIN');
     for (final op in patch['ops']) {
       db.execute(
@@ -266,7 +266,7 @@ Three things this has to get right:
   patched verse stays searchable under its *old* text until you rebuild. For a
   handful of verses this is cosmetic; do it after a large patch.
 
-When `baseline` moves, `data/bible` was regenerated wholesale and patching
+When `baseline` moves, `data` was regenerated wholesale and patching
 across it is not meaningful — download the database again and verify its
 `sha256` from the manifest.
 

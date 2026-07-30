@@ -397,7 +397,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            const DATA = 'data/bible';
+            const DATA = 'data';
 
             const $ = id => document.getElementById(id);
             const body = document.body;
@@ -538,7 +538,7 @@
             };
 
             /* Book files are cached for a year, so the URL has to change when
-             * the data does. data/bible/revisions.json carries a revision per
+             * the data does. data/revisions.json carries a revision per
              * edition, bumped by tools/release.py; appending it busts the cache
              * on exactly the editions that changed and nothing else. */
             let REVISIONS = {};
@@ -861,8 +861,8 @@
                     showMessage(
                         `<strong>ውሂቡ አልተጫነም።</strong><br>` +
                         `<code style="font-size:.85em">${err.message}</code><br><br>` +
-                        `<span style="font-size:.85em">፩. <code>data/bible/</code> መኖሩን ያረጋግጡ ` +
-                        `(<code>python tools/build_bible.py outputs/source --out data/bible</code>).<br>` +
+                        `<span style="font-size:.85em">፩. <code>data/</code> መኖሩን ያረጋግጡ ` +
+                        `(<code>python tools/build_bible.py outputs/source --out data</code>).<br>` +
                         `፪. ገጹን በ<code>file://</code> ሳይሆን በአገልጋይ ይክፈቱ ` +
                         `(<code>python -m http.server</code>).</span>`);
                 }

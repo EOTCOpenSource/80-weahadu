@@ -11,7 +11,7 @@
    "books": 89,
    "chapters": 1596,
    "verses": 44200,
-   "json": "data/bible/am-2000",
+   "json": "data/am-2000",
    "db": {
     "file": "am-2000.db.gz",
     "bytes": 13929881,
@@ -25,7 +25,7 @@
    "books": 93,
    "chapters": 1610,
    "verses": 44290,
-   "json": "data/bible/am-1980",
+   "json": "data/am-1980",
    "db": {
     "file": "am-1980.db.gz",
     "bytes": 13541668,
@@ -39,7 +39,7 @@
    "books": 93,
    "chapters": 1629,
    "verses": 44283,
-   "json": "data/bible/gez-1980",
+   "json": "data/gez-1980",
    "db": {
     "file": "gez-1980.db.gz",
     "bytes": 12509052,
@@ -53,7 +53,7 @@
    "books": 27,
    "chapters": 260,
    "verses": 7958,
-   "json": "data/bible/gez-2014",
+   "json": "data/gez-2014",
    "db": {
     "file": "gez-2014.db.gz",
     "bytes": 1990270,
@@ -67,7 +67,7 @@
    "books": 81,
    "chapters": 1376,
    "verses": 37145,
-   "json": "data/bible/en-kjv",
+   "json": "data/en-kjv",
    "db": {
     "file": "en-kjv.db.gz",
     "bytes": 11699003,
@@ -81,7 +81,7 @@
    "books": 66,
    "chapters": 1188,
    "verses": 31103,
-   "json": "data/bible/am-nasv-2001",
+   "json": "data/am-nasv-2001",
    "db": {
     "file": "am-nasv-2001.db.gz",
     "bytes": 9575127,
@@ -95,7 +95,7 @@
    "books": 66,
    "chapters": 1188,
    "verses": 30558,
-   "json": "data/bible/am-1962",
+   "json": "data/am-1962",
    "db": {
     "file": "am-1962.db.gz",
     "bytes": 8079763,
@@ -109,7 +109,7 @@
    "books": 66,
    "chapters": 1189,
    "verses": 30740,
-   "json": "data/bible/ti-1997",
+   "json": "data/ti-1997",
    "db": {
     "file": "ti-1997.db.gz",
     "bytes": 9046109,
@@ -123,7 +123,7 @@
    "books": 66,
    "chapters": 1189,
    "verses": 31103,
-   "json": "data/bible/om-kitaaba",
+   "json": "data/om-kitaaba",
    "db": {
     "file": "om-kitaaba.db.gz",
     "bytes": 11603466,

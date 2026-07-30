@@ -2,7 +2,7 @@
 """Cut a data release: corrections -> revisions -> patches -> minified -> SQLite.
 
 Run this after editing anything under corrections/. It is the single command
-that keeps every published artefact in step with data/bible.
+that keeps every published artefact in step with data.
 
     python tools/release.py                 # full release
     python tools/release.py --dry-run       # report what would change
@@ -10,17 +10,17 @@ that keeps every published artefact in step with data/bible.
 
 What it does, in order:
 
- 1. applies corrections/<edition>.json to data/bible (idempotent)
+ 1. applies corrections/<edition>.json to data (idempotent)
  2. gives every not-yet-released correction the next revision number
- 3. writes data/bible/patches/<edition>/<rev>.json -- what a client applies
+ 3. writes data/patches/<edition>/<rev>.json -- what a client applies
     to catch up without re-downloading a whole database
- 4. rebuilds minified/ (the v1 Amharic bundle)
+ 4. rebuilds legacy/minified/ (the v1 Amharic bundle)
  5. rebuilds dist/sqlite/ and records each database's size and sha256
- 6. writes data/bible/revisions.json -- what clients poll
+ 6. writes data/revisions.json -- what clients poll
 
 Clients compare their stored revision against revisions.json. If it is at or
 above `baseline` they apply the patches they are missing; otherwise they
-download the database again. Bump `baseline` when data/bible is regenerated
+download the database again. Bump `baseline` when data is regenerated
 wholesale, so clients stop trying to patch across a rebuild.
 """
 import argparse
@@ -33,8 +33,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import repo, rel, read_json, write_json, sha256_file  # noqa: E402
 import apply_corrections  # noqa: E402
 
-REVISIONS = repo('data', 'bible', 'revisions.json')
-PATCH_DIR = repo('data', 'bible', 'patches')
+REVISIONS = repo('data', 'revisions.json')
+PATCH_DIR = repo('data', 'patches')
 SQLITE_OUT = repo('dist', 'sqlite')
 SCHEMA = 1
 
@@ -51,7 +51,7 @@ def load_state():
 
 
 def edition_ids():
-    cat = read_json(repo('data', 'bible', 'editions.json'))
+    cat = read_json(repo('data', 'editions.json'))
     return [e['id'] for e in cat['editions']], {e['id']: e for e in cat['editions']}
 
 
@@ -147,7 +147,7 @@ def main():
         state['editions'][ed]['patches'] = revs
 
     # ---- 4. minified (v1) ----------------------------------------------
-    print('\n[4/5] minified/ (v1 Amharic bundle)')
+    print('\n[4/5] legacy/minified/ (v1 Amharic bundle)')
     if args.skip_minify or args.dry_run:
         print('  skipped')
     else:
@@ -160,7 +160,7 @@ def main():
         entry = state['editions'][ed]
         s = catalog[ed]['stats']
         entry.update(books=s['books'], chapters=s['chapters'], verses=s['verses'],
-                     json='data/bible/%s' % ed)
+                     json='data/%s' % ed)
     state['generated'] = stamp
     if not args.dry_run:
         write_json(REVISIONS, state)
@@ -170,7 +170,7 @@ def main():
     if args.skip_sqlite or args.dry_run:
         print('  skipped')
     else:
-        run([repo('tools', 'build_sqlite.py'), repo('data', 'bible'),
+        run([repo('tools', 'build_sqlite.py'), repo('data'),
              '--out', SQLITE_OUT, '--gzip', '--tokenizer', args.tokenizer],
             'build_sqlite.py')
         for ed in ids:

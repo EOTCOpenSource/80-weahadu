@@ -25,15 +25,15 @@ patch** instead of re-downloading a 14 MB database.
 | path | what | in git |
 | --- | --- | --- |
 | `corrections/<edition>.json` | the fixes, as data | yes |
-| `data/bible/` | published JSON, corrections applied | yes |
-| `data/bible/revisions.json` | what clients poll | yes |
-| `data/bible/patches/<edition>/<n>.json` | catch-up for clients | yes |
-| `minified/` | v1 Amharic bundle | yes |
+| `data/` | published JSON, corrections applied | yes |
+| `data/revisions.json` | what clients poll | yes |
+| `data/patches/<edition>/<n>.json` | catch-up for clients | yes |
+| `legacy/minified/` | v1 Amharic bundle | yes |
 | `dist/sqlite/` | mobile databases | **no** — release assets |
 
 ## Why corrections are a separate file
 
-`data/bible` is *generated* from the Scripture App Builder dump. Editing a
+`data` is *generated* from the Scripture App Builder dump. Editing a
 verse there directly works right up until someone re-runs `build_bible.py`,
 which silently overwrites it.
 
@@ -80,7 +80,7 @@ Each edition carries a `revision`, bumped whenever its data changes, and a
 `baseline` — the oldest revision that can still catch up by patching.
 
 ```jsonc
-// data/bible/revisions.json
+// data/revisions.json
 {
   "schema": 1,
   "generated": "2026-07-28T…Z",
@@ -90,7 +90,7 @@ Each edition carries a `revision`, bumped whenever its data changes, and a
       "baseline": 1,
       "patches": [2],
       "books": 89, "chapters": 1596, "verses": 44200,
-      "json": "data/bible/am-2000",
+      "json": "data/am-2000",
       "db": { "file": "am-2000.db.gz", "bytes": 13929881, "sha256": "7aa480…" }
     }
   }
@@ -100,7 +100,7 @@ Each edition carries a `revision`, bumped whenever its data changes, and a
 A patch is the ops from one revision to the next:
 
 ```jsonc
-// data/bible/patches/am-2000/2.json
+// data/patches/am-2000/2.json
 { "edition": "am-2000", "from": 1, "to": 2, "generated": "…",
   "ops": [ { "op": "verse", "book": "GEN", "chapter": 1, "verse": 2,
              "field": "t", "to": "…" } ] }
@@ -115,7 +115,7 @@ A patch is the ops from one revision to the next:
    Store the new revision.
 4. Otherwise download `db.file`, verify `sha256`, replace the database.
 
-Bump `baseline` with `python tools/release.py --baseline` when `data/bible` is
+Bump `baseline` with `python tools/release.py --baseline` when `data` is
 regenerated wholesale — that tells clients not to try patching across a rebuild.
 
 The database records its own revision, so a client can recover it without
@@ -133,7 +133,7 @@ python tools/release.py [--dry-run] [--skip-sqlite] [--skip-minify]
 ```
 
 In order: applies corrections → assigns revisions to new ones → writes patches
-→ rebuilds `minified/` → rebuilds `dist/sqlite/` → writes `revisions.json`
+→ rebuilds `legacy/minified/` → rebuilds `dist/sqlite/` → writes `revisions.json`
 with each database's size and `sha256`.
 
 `--dry-run` reports exactly what would change and writes nothing. Use it first.
@@ -148,11 +148,11 @@ matches `was`) rather than guessing.
 Two v1 scripts, both anchored at the repo root so they run from any directory.
 `release.py` runs both; these are the manual equivalents.
 
-**`tools/minify_json.py`** merges `data/am/*.json` into one bundle:
+**`tools/minify_json.py`** merges `legacy/am/*.json` into one bundle:
 
 ```sh
 python tools/minify_json.py
-# -> minified/80-weahadu.json   (~12 MB, whitespace stripped)
+# -> legacy/minified/80-weahadu.json   (~12 MB, whitespace stripped)
 ```
 
 **`tools/minify_single_chapters.py`** writes one minified file per book plus an
@@ -160,21 +160,21 @@ index for building menus:
 
 ```sh
 python tools/minify_single_chapters.py
-python tools/minify_single_chapters.py --input-dir data/am \
-    --output-dir minified/singleChapter --index-file index.json
-# -> minified/singleChapter/01-genesis.json …
-# -> minified/singleChapter/index.json  { count, files: [ … ] }
+python tools/minify_single_chapters.py --input-dir legacy/am \
+    --output-dir legacy/minified/singleChapter --index-file index.json
+# -> legacy/minified/singleChapter/01-genesis.json …
+# -> legacy/minified/singleChapter/index.json  { count, files: [ … ] }
 ```
 
-Both operate on **`data/am`** (v1, Amharic only) and are unaffected by
-corrections, which apply to `data/bible`. Keep running them only while v1
+Both operate on **`legacy/am`** (v1, Amharic only) and are unaffected by
+corrections, which apply to `data`. Keep running them only while v1
 consumers exist.
 
-> The committed `minified/` had drifted out of date — it was missing
+> The committed `legacy/minified/` had drifted out of date — it was missing
 > `82-1_celement.json` and `83-didascalia.json` entirely. Running `release.py`
 > rather than the scripts by hand is what stops that recurring.
 
-For `data/bible` there is no separate minify step: it ships indented because
+For `data` there is no separate minify step: it ships indented because
 gzip removes the whitespace on the wire anyway, so compacting would shrink the
 repo without making downloads meaningfully smaller.
 
@@ -184,10 +184,10 @@ repo without making downloads meaningfully smaller.
 
 | path | cache |
 | --- | --- |
-| `data/bible/revisions.json` | 60 s, must-revalidate — the freshness signal |
-| `data/bible/*/books/*` | a year, `immutable` — safe because of `?v=` |
-| `data/bible/patches/*` | a year, `immutable` — a patch never changes |
-| everything else under `data/`, `minified/` | 1 h browser, 1 y CDN |
+| `data/revisions.json` | 60 s, must-revalidate — the freshness signal |
+| `data/*/books/*` | a year, `immutable` — safe because of `?v=` |
+| `data/patches/*` | a year, `immutable` — a patch never changes |
+| everything else under `data/`, `legacy/minified/` | 1 h browser, 1 y CDN |
 
 The reader appends `?v=<revision>` to every book and meta request, so a
 corrected edition gets a fresh URL and everything else stays cached. Rules are
@@ -213,6 +213,6 @@ patch instead and never touch the release.
 
 ## Adding a whole new edition
 
-1. Rebuild `data/bible` with `tools/build_bible.py` (needs the USFM dump).
+1. Rebuild `data` with `tools/build_bible.py` (needs the USFM dump).
 2. `python tools/release.py --baseline` — a wholesale rebuild is not patchable.
 3. Publish new release assets.

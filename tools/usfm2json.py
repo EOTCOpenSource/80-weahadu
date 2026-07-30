@@ -19,7 +19,7 @@ Two output schemas:
 
   --schema rich   full structure: sections, paragraphs, verses, inline spans,
                   footnotes, cross references, alternate (Ge'ez) verse numbers.
-  --schema repo   matches the existing data/am/*.json shape:
+  --schema repo   matches the existing legacy/am/*.json shape:
                   book_name_am / chapters[] / sections[] / verses[{verse,text}]
 
 Usage:
@@ -609,7 +609,7 @@ def testament_of(book_id, group):
 
 
 def to_repo_schema(doc):
-    """Reshape to the existing data/am/*.json layout."""
+    """Reshape to the existing legacy/am/*.json layout."""
     out = {
         'book_number': doc['book'].get('number'),
         'book_name_am': doc['book']['name'],

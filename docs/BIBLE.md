@@ -1,11 +1,11 @@
-# `data/bible` — multi-language bible data
+# `data` — multi-language bible data
 
 Nine bible editions in five languages, built from the decrypted Scripture App
 Builder dump by `build_bible.py`.
 
 ```sh
-python tools/build_bible.py outputs/source --out data/bible
-python tools/build_bible.py outputs/source --out data/bible --indent 0   # compact
+python tools/build_bible.py outputs/source --out data
+python tools/build_bible.py outputs/source --out data --indent 0   # compact
 ```
 
 | edition | lang | books | chapters | verses | source |
@@ -26,7 +26,7 @@ python tools/build_bible.py outputs/source --out data/bible --indent 0   # compa
 ## Layout
 
 ```
-data/bible/
+data/
   canon.json          ordered book registry — the language-neutral join key
   editions.json       index of every edition
   names/am.json       UI book names, one file per UI language
@@ -115,6 +115,6 @@ merged in the 2000 one.
 መዝገበ ሃይማኖት (C01/C31/C32) — 2,462 verses, and its `GEN` slot holds
 "Kadhannaa Yeroo Hundaa" (Daily Prayer). The Oromo bible is `C48`.
 
-**`data/am` is superseded by `am-2000`.** It came from C18 but truncates
+**`legacy/am` is superseded by `am-2000`.** It came from C18 but truncates
 multi-line poetry verses — see `USFM2JSON.md`. Sirach loses 1,279 verses'
 worth of text, Job 967, Proverbs 731.

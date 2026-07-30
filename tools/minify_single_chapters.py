@@ -1,7 +1,7 @@
-"""Write one minified JSON file per book into minified/singleChapter/, plus an
+"""Write one minified JSON file per book into legacy/minified/singleChapter/, plus an
 index for building menus.
 
-This is the v1 (Amharic-only) pipeline. New work should use data/bible; see
+This is the v1 (Amharic-only) pipeline. New work should use data; see
 docs/RELEASING.md.
 """
 import argparse
@@ -91,11 +91,11 @@ def main() -> None:
         description="Create minified single-chapter JSON files and an index file."
     )
     # Defaults are anchored at the repo root so the script works from anywhere.
-    parser.add_argument("--input-dir", default=repo("data", "am"),
+    parser.add_argument("--input-dir", default=repo("legacy", "am"),
                         help="Directory with source JSON files")
     parser.add_argument(
         "--output-dir",
-        default=repo("minified", "singleChapter"),
+        default=repo("legacy", "minified", "singleChapter"),
         help="Directory where minified chapter files are written",
     )
     parser.add_argument(

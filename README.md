@@ -9,12 +9,12 @@ footnotes, section headings, poetry line structure and Ge'ez verse numerals.
 
 | Path | What |
 | --- | --- |
-| **`data/bible/`** | the multi-language data set — start here |
-| `index.html` | reader web app, reads `data/bible` directly |
+| **`data/`** | the multi-language data set — start here |
+| `index.html` | reader web app, reads `data` directly |
 | `tools/` | build scripts — conversion, SQLite, minify, release |
 | `corrections/` | verse fixes, applied on top of the extracted data |
 | `docs/` | the guides below |
-| `data/am/`, `minified/` | the original Amharic-only data (v1, see below) |
+| `legacy/am/`, `legacy/minified/` | the original Amharic-only data (v1, see below) |
 
 Docs: **[docs/BIBLE.md](docs/BIBLE.md)** (the data set) ·
 **[docs/MOBILE.md](docs/MOBILE.md)** (SQLite for Flutter) ·
@@ -32,10 +32,10 @@ python tools/release.py
 
 ---
 
-## `data/bible`
+## `data`
 
 ```
-data/bible/
+data/
   canon.json          ordered book registry — the language-neutral join key
   editions.json       index of every edition
   names/am.json       UI book names, one file per UI language
@@ -113,11 +113,11 @@ Full details, including the id-collision caveats, are in
 
 ### Versioning
 
-Every edition carries a revision in `data/bible/revisions.json`, bumped
+Every edition carries a revision in `data/revisions.json`, bumped
 whenever its data changes. Clients poll it: the web reader appends
 `?v=<revision>` to book requests so corrected editions bust cache and the rest
 stay cached for a year, and mobile apps apply
-`data/bible/patches/<edition>/<n>.json` instead of re-downloading.
+`data/patches/<edition>/<n>.json` instead of re-downloading.
 
 ### Building
 
@@ -126,8 +126,8 @@ python tools/release.py                     # the one you want: everything, in o
 python tools/release.py --dry-run           # report what would change
 
 python tools/usfm2json.py   <dump> --out outputs/json           # USFM -> JSON
-python tools/build_bible.py <dump> --out data/bible             # -> the layout above
-python tools/build_sqlite.py data/bible --out dist/sqlite --gzip  # -> mobile DBs
+python tools/build_bible.py <dump> --out data             # -> the layout above
+python tools/build_sqlite.py data --out dist/sqlite --gzip  # -> mobile DBs
 ```
 
 The SQLite build produces one small catalog plus one database per edition
@@ -253,7 +253,7 @@ protestant canon only.
 
 The text was recovered from Scripture App Builder app data. Copyright in these
 translations rests with their publishers, named per edition in
-`data/bible/<edition>/meta.json`:
+`data/<edition>/meta.json`:
 
 - **የኢትዮጵያ መጽሐፍ ቅዱስ ማኅበር** (Ethiopian Bible Society) — `am-2000`, `am-1980`,
   `gez-1980`, `gez-2014`, `am-1962`, `ti-1997`
@@ -267,23 +267,23 @@ published app — should confirm their position with the rights holders first.
 
 ---
 
-## v1 data (`data/am`, `minified/`)
+## v1 data (`legacy/am`, `legacy/minified/`)
 
 The original Amharic-only data set and its tooling
 (`tools/minify_json.py`, `tools/minify_single_chapters.py`) are kept for
-compatibility with existing consumers. Corrections apply to `data/bible` only;
-`data/am` is frozen.
+compatibility with existing consumers. Corrections apply to `data` only;
+`legacy/am` is frozen.
 
-**New work should use `data/bible/am-2000`, which supersedes it.** `data/am`
+**New work should use `data/am-2000`, which supersedes it.** `legacy/am`
 was derived from the same 2000 ዓ.ም edition but truncates multi-line verses: in
 poetry a verse starts on one line and continues on the next, and only the first
 line was captured. 3,593 verses are affected — Sirach 1,279, Job 967,
 Proverbs 731, Song of Solomon 112, Lamentations 87.
 
-### `minified/singleChapter/`
+### `legacy/minified/singleChapter/`
 
 One minified JSON file per book plus an `index.json` for building menus,
-keeping the same numeric order as `data/am`:
+keeping the same numeric order as `legacy/am`:
 
 ```json
 {
@@ -301,12 +301,12 @@ keeping the same numeric order as `data/am`:
 in order, each with the fields above plus `file`).
 
 ```sh
-python tools/minify_json.py             # -> minified/80-weahadu.json
-python tools/minify_single_chapters.py  # -> minified/singleChapter/ + index.json
-python tools/minify_single_chapters.py --input-dir data/am \
-    --output-dir minified/singleChapter --index-file index.json
+python tools/minify_json.py             # -> legacy/minified/80-weahadu.json
+python tools/minify_single_chapters.py  # -> legacy/minified/singleChapter/ + index.json
+python tools/minify_single_chapters.py --input-dir legacy/am \
+    --output-dir legacy/minified/singleChapter --index-file index.json
 ```
 
-`tools/release.py` runs both, which is what keeps `minified/` from drifting out
-of step with `data/am`. Full notes in
+`tools/release.py` runs both, which is what keeps `legacy/minified/` from drifting out
+of step with `legacy/am`. Full notes in
 **[docs/RELEASING.md](docs/RELEASING.md)**.
