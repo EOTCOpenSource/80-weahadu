@@ -531,10 +531,20 @@
             };
 
             // ---------- data ----------
-            const getJSON = async url => {
-                const r = await fetch(url);
+            const getJSON = async (url, init) => {
+                const r = await fetch(url, init);
                 if (!r.ok) throw new Error(`${url} (${r.status})`);
                 return r.json();
+            };
+
+            /* Book files are cached for a year, so the URL has to change when
+             * the data does. data/bible/revisions.json carries a revision per
+             * edition, bumped by tools/release.py; appending it busts the cache
+             * on exactly the editions that changed and nothing else. */
+            let REVISIONS = {};
+            const ver = (url, editionId) => {
+                const rev = REVISIONS[editionId] && REVISIONS[editionId].revision;
+                return rev ? `${url}?v=${rev}` : url;
             };
 
             /** old + deuterocanonical read as one testament in the EOTC canon */
@@ -574,7 +584,7 @@
             /** Switch edition, holding the reader's place where possible. */
             async function setEdition(id) {
                 const keepBook = bookId, keepCh = chapterNo;
-                meta = await getJSON(`${DATA}/${id}/meta.json`);
+                meta = await getJSON(ver(`${DATA}/${id}/meta.json`, id));
                 booksById = {};
                 meta.books.forEach(b => { booksById[b.id] = b; });
 
@@ -680,7 +690,8 @@
                 const key = `${meta.id}/${id}`;
                 if (!cache.has(key)) {
                     showMessage(t().loading);
-                    cache.set(key, await getJSON(`${DATA}/${meta.id}/${entry.file}`));
+                    cache.set(key, await getJSON(
+                        ver(`${DATA}/${meta.id}/${entry.file}`, meta.id)));
                 }
                 book = cache.get(key);
                 testament = groupOf(id);
@@ -815,6 +826,13 @@
                 $('notes-toggle').classList.toggle('on', showAux);
 
                 try {
+                    // revisions.json is the freshness signal, so it is fetched
+                    // revalidated rather than from cache. Missing or broken is
+                    // not fatal -- the reader just loses cache-busting.
+                    const revs = await getJSON(`${DATA}/revisions.json`,
+                        { cache: 'no-cache' }).catch(() => null);
+                    if (revs && revs.editions) REVISIONS = revs.editions;
+
                     const [edFile, canon] = await Promise.all([
                         getJSON(`${DATA}/editions.json`),
                         getJSON(`${DATA}/canon.json`)
