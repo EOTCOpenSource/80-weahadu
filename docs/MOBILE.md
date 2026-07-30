@@ -4,7 +4,7 @@
 search. Reading a chapter takes ~2 ms and a paginated search 8–60 ms.
 
 ```sh
-python build_sqlite.py data/bible --out dist/sqlite --gzip
+python tools/build_sqlite.py data/bible --out dist/sqlite --gzip
 ```
 
 `dist/` is gitignored — 191 MB of generated output doesn't belong in the repo.
@@ -206,6 +206,71 @@ Five deuterocanonical ids mean different books in KJV than in the EOTC
 editions, so they were given separate canon slots (`1MA-KJV`, `LJE-KJV`, …).
 Joining on `book.id` therefore never pairs the Ethiopic Maccabees with the
 Greek ones. See [BIBLE.md](BIBLE.md).
+
+## Staying up to date without shipping an app
+
+A corrected verse should not need a store release. Each database records the
+data revision it was built from:
+
+```sql
+SELECT value FROM meta WHERE key = 'revision';   -- e.g. 2
+SELECT value FROM meta WHERE key = 'baseline';   -- e.g. 1
+```
+
+The site publishes `data/bible/revisions.json`. Poll it on launch and patch
+what has moved — a typical correction release is a **68 KB patch** against a
+**14 MB** database, so patching is roughly 200× cheaper than re-downloading.
+
+```dart
+Future<void> syncEdition(Database db, String id) async {
+  final manifest = jsonDecode((await http.get(Uri.parse(
+      'https://<your-site>/data/bible/revisions.json'))).body);
+  final remote = manifest['editions'][id];
+  final local = int.parse(db.select(
+      "SELECT value FROM meta WHERE key='revision'").first['value'] as String);
+
+  if (local >= remote['revision']) return;               // already current
+
+  if (local < (remote['baseline'] as int)) {             // too far behind
+    await fetchEdition(id);                              // full download
+    return;
+  }
+
+  for (var r = local + 1; r <= remote['revision']; r++) {
+    final patch = jsonDecode((await http.get(Uri.parse(
+        'https://<your-site>/data/bible/patches/$id/$r.json'))).body);
+    db.execute('BEGIN');
+    for (final op in patch['ops']) {
+      db.execute(
+        'UPDATE verse SET ${op['field'] == 'alt' ? 'alt' : 'text'} = ? '
+        'WHERE book = ? AND chapter = ? AND verse = ?',
+        [op['to'], op['book'], op['chapter'], op['verse']]);
+    }
+    db.execute("UPDATE meta SET value = ? WHERE key = 'revision'", ['$r']);
+    db.execute('COMMIT');
+  }
+}
+```
+
+Three things this has to get right:
+
+* **Open the database writable** for syncing. The read-only handle in
+  [Open a database](#open-a-database) is for reading; use a separate writable
+  connection here.
+* **Apply each revision in its own transaction** and update `meta.revision`
+  inside it. A sync killed midway then resumes from the last complete
+  revision rather than half-applying one.
+* **Rebuild the search index** if you ever patch enough text to matter:
+  `INSERT INTO verse_fts(verse_fts) VALUES('rebuild');`. FTS5 external-content
+  tables do not follow `UPDATE`s on the content table automatically, so a
+  patched verse stays searchable under its *old* text until you rebuild. For a
+  handful of verses this is cosmetic; do it after a large patch.
+
+When `baseline` moves, `data/bible` was regenerated wholesale and patching
+across it is not meaningful — download the database again and verify its
+`sha256` from the manifest.
+
+See [RELEASING.md](RELEASING.md) for the publishing side.
 
 ## Verifying a build
 

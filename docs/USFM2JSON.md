@@ -4,10 +4,10 @@
 
 ```sh
 # everything, full structure
-python usfm2json.py outputs/mezgebehiwot --out outputs/json
+python tools/usfm2json.py outputs/mezgebehiwot --out outputs/json
 
 # one collection, shaped like data/am/*.json
-python usfm2json.py outputs/mezgebehiwot --out outputs/json-repo \
+python tools/usfm2json.py outputs/mezgebehiwot --out outputs/json-repo \
        --schema repo --collection C18
 ```
 
@@ -48,7 +48,7 @@ c(String name, k8.g category, EnumSet<l9.e> attributes)
   `SECTION_HEADING`, `MAJOR_TITLE`, `FOOTNOTE`, `CROSS_REF`, `POETRY`,
   `TABLE`, `LIST_ITEM`, `INTRODUCTION`, `INLINE`, …
 
-That table — 163 markers — was extracted verbatim into **`sab_markers.json`**,
+That table — 163 markers — was extracted verbatim into **`tools/sab_markers.json`**,
 which drives the converter. Nothing about marker behaviour is hardcoded in the
 script; change the table and the converter follows.
 

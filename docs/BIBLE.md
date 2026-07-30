@@ -4,8 +4,8 @@ Nine bible editions in five languages, built from the decrypted Scripture App
 Builder dump by `build_bible.py`.
 
 ```sh
-python build_bible.py outputs/mezgebehiwot --out data/bible
-python build_bible.py outputs/mezgebehiwot --out data/bible --indent 0   # compact
+python tools/build_bible.py outputs/mezgebehiwot --out data/bible
+python tools/build_bible.py outputs/mezgebehiwot --out data/bible --indent 0   # compact
 ```
 
 | edition | lang | books | chapters | verses | source |

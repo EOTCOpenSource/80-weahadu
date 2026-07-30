@@ -10,12 +10,24 @@ footnotes, section headings, poetry line structure and Ge'ez verse numerals.
 | --- | --- |
 | **`data/bible/`** | the multi-language data set — start here |
 | `index.html` | reader web app, reads `data/bible` directly |
-| `build_sqlite.py` | builds SQLite + full-text search for the mobile apps |
+| `tools/` | build scripts — conversion, SQLite, minify, release |
+| `corrections/` | verse fixes, applied on top of the extracted data |
+| `docs/` | the guides below |
 | `data/am/`, `minified/` | the original Amharic-only data (v1, see below) |
 
-Docs: **[BIBLE.md](BIBLE.md)** (the data set) ·
-**[MOBILE.md](MOBILE.md)** (SQLite for Flutter) ·
-**[USFM2JSON.md](USFM2JSON.md)** (how it was built)
+Docs: **[docs/BIBLE.md](docs/BIBLE.md)** (the data set) ·
+**[docs/MOBILE.md](docs/MOBILE.md)** (SQLite for Flutter) ·
+**[docs/RELEASING.md](docs/RELEASING.md)** (fixing a verse, minify, updates) ·
+**[docs/USFM2JSON.md](docs/USFM2JSON.md)** (how it was built)
+
+Fixing a verse takes one command and reaches every reader without an app
+rebuild — web on next load, mobile via a patch a couple of hundred times
+smaller than the database:
+
+```sh
+$EDITOR corrections/am-2000.json
+python tools/release.py
+```
 
 ---
 
@@ -95,21 +107,33 @@ order (KJV puts Job at 18; the EOTC canon puts it at 27).
 * **`refs`** cross references, **`notes`** footnotes.
 
 Full details, including the id-collision caveats, are in
-**[BIBLE.md](BIBLE.md)**. The USFM → JSON conversion is documented in
-**[USFM2JSON.md](USFM2JSON.md)**.
+**[docs/BIBLE.md](docs/BIBLE.md)**. The USFM → JSON conversion is documented in
+**[docs/USFM2JSON.md](docs/USFM2JSON.md)**.
 
-### Regenerating
+### Versioning
+
+Every edition carries a revision in `data/bible/revisions.json`, bumped
+whenever its data changes. Clients poll it: the web reader appends
+`?v=<revision>` to book requests so corrected editions bust cache and the rest
+stay cached for a year, and mobile apps apply
+`data/bible/patches/<edition>/<n>.json` instead of re-downloading.
+
+### Building
 
 ```sh
-python usfm2json.py  <dump> --out outputs/json          # USFM -> JSON
-python build_bible.py <dump> --out data/bible           # -> the layout above
-python build_sqlite.py data/bible --out dist/sqlite --gzip   # -> mobile DBs
+python tools/release.py                     # the one you want: everything, in order
+python tools/release.py --dry-run           # report what would change
+
+python tools/usfm2json.py   <dump> --out outputs/json           # USFM -> JSON
+python tools/build_bible.py <dump> --out data/bible             # -> the layout above
+python tools/build_sqlite.py data/bible --out dist/sqlite --gzip  # -> mobile DBs
 ```
 
 The SQLite build produces one small catalog plus one database per edition
 (4–30 MB each, 2–14 MB gzipped) with trigram full-text search — chapter render
 ~2 ms, paginated search 8–60 ms. `dist/` is gitignored; publish those as
-release assets. See **[MOBILE.md](MOBILE.md)**.
+release assets. See **[docs/MOBILE.md](docs/MOBILE.md)** and
+**[docs/RELEASING.md](docs/RELEASING.md)**.
 
 ---
 
@@ -244,8 +268,10 @@ published app — should confirm their position with the rights holders first.
 
 ## v1 data (`data/am`, `minified/`)
 
-The original Amharic-only data set and its tooling (`minify_json.py`,
-`minify_single_chapters.py`) are kept for compatibility with existing consumers.
+The original Amharic-only data set and its tooling
+(`tools/minify_json.py`, `tools/minify_single_chapters.py`) are kept for
+compatibility with existing consumers. Corrections apply to `data/bible` only;
+`data/am` is frozen.
 
 **New work should use `data/bible/am-2000`, which supersedes it.** `data/am`
 was derived from the same 2000 ዓ.ም edition but truncates multi-line verses: in
@@ -274,7 +300,12 @@ keeping the same numeric order as `data/am`:
 in order, each with the fields above plus `file`).
 
 ```sh
-python minify_single_chapters.py
-python minify_single_chapters.py --input-dir data/am \
+python tools/minify_json.py             # -> minified/80-weahadu.json
+python tools/minify_single_chapters.py  # -> minified/singleChapter/ + index.json
+python tools/minify_single_chapters.py --input-dir data/am \
     --output-dir minified/singleChapter --index-file index.json
 ```
+
+`tools/release.py` runs both, which is what keeps `minified/` from drifting out
+of step with `data/am`. Full notes in
+**[docs/RELEASING.md](docs/RELEASING.md)**.
