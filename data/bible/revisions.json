@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "generated": "2026-07-30T12:32:17Z",
+ "editions": {
+  "am-2000": {
+   "revision": 2,
+   "baseline": 1,
+   "patches": [
+    2
+   ],
+   "books": 89,
+   "chapters": 1596,
+   "verses": 44200,
+   "json": "data/bible/am-2000",
+   "db": {
+    "file": "am-2000.db.gz",
+    "bytes": 13929881,
+    "sha256": "7aa480add91c3bcf7d2adfa7c1fa3a64c56bbe82f5a97f084c7d9b6e4378279c"
+   }
+  },
+  "am-1980": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 93,
+   "chapters": 1610,
+   "verses": 44290,
+   "json": "data/bible/am-1980",
+   "db": {
+    "file": "am-1980.db.gz",
+    "bytes": 13541668,
+    "sha256": "125492c3ffab771c9425dafa02f97ccd4ff9d5aa4382bf9281bdf7a6d0ba60bb"
+   }
+  },
+  "gez-1980": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 93,
+   "chapters": 1629,
+   "verses": 44283,
+   "json": "data/bible/gez-1980",
+   "db": {
+    "file": "gez-1980.db.gz",
+    "bytes": 12509052,
+    "sha256": "f0798972d86dc675e57b587c5b43e3d62df4728317f763c60e8d85211f34f578"
+   }
+  },
+  "gez-2014": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 27,
+   "chapters": 260,
+   "verses": 7958,
+   "json": "data/bible/gez-2014",
+   "db": {
+    "file": "gez-2014.db.gz",
+    "bytes": 1990270,
+    "sha256": "d558668571e643796116cd41b475c2a43f8f442603196046df73a9da6b6349e0"
+   }
+  },
+  "en-kjv": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 81,
+   "chapters": 1376,
+   "verses": 37145,
+   "json": "data/bible/en-kjv",
+   "db": {
+    "file": "en-kjv.db.gz",
+    "bytes": 11699003,
+    "sha256": "aae21b6d56c51410e06e08052e1d7fe7732698674f430706177839f753f767f3"
+   }
+  },
+  "am-nasv-2001": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 66,
+   "chapters": 1188,
+   "verses": 31103,
+   "json": "data/bible/am-nasv-2001",
+   "db": {
+    "file": "am-nasv-2001.db.gz",
+    "bytes": 9575127,
+    "sha256": "126a4caf65173c33aef82fb113d5112847011a239c13f54938bf0c20c2c5b989"
+   }
+  },
+  "am-1962": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 66,
+   "chapters": 1188,
+   "verses": 30558,
+   "json": "data/bible/am-1962",
+   "db": {
+    "file": "am-1962.db.gz",
+    "bytes": 8079763,
+    "sha256": "22e72c8eda95b34629ee46524309958d62cacc865b26b0db6b7308bd01119dbe"
+   }
+  },
+  "ti-1997": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 66,
+   "chapters": 1189,
+   "verses": 30740,
+   "json": "data/bible/ti-1997",
+   "db": {
+    "file": "ti-1997.db.gz",
+    "bytes": 9046109,
+    "sha256": "ab47d6638a3d75d03ac25be030bcb53c4c57652984f64d3354390f1d7b88b753"
+   }
+  },
+  "om-kitaaba": {
+   "revision": 1,
+   "baseline": 1,
+   "patches": [],
+   "books": 66,
+   "chapters": 1189,
+   "verses": 31103,
+   "json": "data/bible/om-kitaaba",
+   "db": {
+    "file": "om-kitaaba.db.gz",
+    "bytes": 11603466,
+    "sha256": "a5bb712c109838231403f7fd8858568ed1de27f38880d5ae50ebc759dbcb7547"
+   }
+  }
+ }
+}
